@@ -1,0 +1,58 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "outline-level-fold",
+        "version": "1.0.0",
+        "title": "Outline Level Fold",
+        "description": "Outline Level Fold Localization & Tweaks",
+        "language": "zh-cn",
+        "supportedVersions": "0.3.2",
+        "author": ""
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "Outline: Mixed",
+                    "target": "大纲：混合"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "Outline: All",
+                    "target": "大纲：全部"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Unfold all (show every level)",
+                    "target": "展开全部（显示所有层级）"
+                }
+            ],
+            "regex": [
+                {
+                    "source": "setText(\"Outline: Mixed\")",
+                    "target": "setText(\"大纲：混合\")"
+                },
+                {
+                    "source": "setText(`Outline: L${t.deepest}`)",
+                    "target": "setText(`大纲：L${t.deepest}`)"
+                },
+                {
+                    "source": "setText(\"Outline: All\")",
+                    "target": "setText(\"大纲：全部\")"
+                },
+                {
+                    "source": "name:`Fold to level ${e}`",
+                    "target": "name:`折叠到第${e}级`"
+                },
+                {
+                    "source": "name:\"Unfold all (show every level)\"",
+                    "target": "name:\"全部展开（显示所有级别）\""
+                }
+            ]
+        }
+    }
+}

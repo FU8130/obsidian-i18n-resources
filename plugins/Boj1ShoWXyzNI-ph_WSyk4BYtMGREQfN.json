@@ -1,0 +1,1902 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "sidebar-highlights",
+        "version": "1.0.0",
+        "title": "Sidebar Highlights",
+        "description": "Sidebar Highlights Localization & Tweaks",
+        "language": "zh-cn",
+        "supportedVersions": "1.36.0",
+        "author": ""
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "comment",
+                    "target": "评论"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "highlight",
+                    "target": "高亮"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": " Collections • ",
+                    "target": " 收藏 • "
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": " Collection Highlights",
+                    "target": " 收藏亮点"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "div",
+                    "target": "div"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "button",
+                    "target": "button"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "span",
+                    "target": "span"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "small",
+                    "target": "small"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "strong",
+                    "target": "strong"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "code",
+                    "target": "code"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "del",
+                    "target": "del"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "mark",
+                    "target": "mark"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "input",
+                    "target": "input"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "select",
+                    "target": "select"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "option",
+                    "target": "option"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "[i18n] Critical error during initialization:",
+                    "target": "[i18n] 初始化期间的关键错误："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "[Task Toggle] ERROR",
+                    "target": "[Task Toggle] 错误"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Failed to initialize i18n, plugin will continue with English defaults:",
+                    "target": "无法初始化i18n，插件将继续使用英文默认设置："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Failed to create backup:",
+                    "target": "无法创建备份："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Failed to list backups:",
+                    "target": "无法列出备份："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Failed to restore from backup:",
+                    "target": "从备份恢复失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Failed to write restore log:",
+                    "target": "写入恢复日志失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Failed to read restore log:",
+                    "target": "读取恢复日志失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Failed to cleanup old backups:",
+                    "target": "清理旧备份失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Failed to migrate backup files:",
+                    "target": "迁移备份文件失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Migration failed:",
+                    "target": "迁移失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Collection validation failed:",
+                    "target": "集合验证失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error handling external settings change:",
+                    "target": "处理外部设置更改时出错："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "Scan already in progress, skipping concurrent scan request",
+                    "target": "扫描已在进行中，跳过并发扫描请求"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Copy",
+                    "target": "复制"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Copy recent restore activity for debugging.",
+                    "target": "复制最近的恢复活动以进行调试。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Activity log",
+                    "target": "活动日志"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Open in new tab",
+                    "target": "在新标签页中打开"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Open to the right",
+                    "target": "在右侧打开"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Priority 1 (High)",
+                    "target": "优先级1（高）"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Priority 2 (Medium)",
+                    "target": "优先级2（中）"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Priority 3 (Low)",
+                    "target": "优先级3（低）"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Remove priority",
+                    "target": "移除优先级"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Create highlight",
+                    "target": "创建高亮"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Failed to parse HTML tag:",
+                    "target": "解析HTML标签失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Search parsing error:",
+                    "target": "搜索解析错误："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Failed to execute toggle fold command:",
+                    "target": "执行切换折叠命令失败："
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Copied to clipboard",
+                    "target": "已复制到剪贴板"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Failed to copy to clipboard",
+                    "target": "复制到剪贴板失败"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Collection not found",
+                    "target": "未找到集合"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Task updated",
+                    "target": "任务已更新"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Priority set to 1 (High)",
+                    "target": "优先级设置为 1 (高)"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Priority set to 2 (Medium)",
+                    "target": "优先级设置为 2 (中)"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Priority set to 3 (Low)",
+                    "target": "优先级设置为 3 (低)"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Priority removed",
+                    "target": "已移除优先级"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Date added",
+                    "target": "添加日期"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Could not find the highlight in the editor. It might have been modified.",
+                    "target": "无法在编辑器中找到高亮。它可能已被修改。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Could not insert inline footnote.",
+                    "target": "无法插入行内脚注。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Could not access the editor.",
+                    "target": "无法访问编辑器。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Could not find the highlight in the editor.",
+                    "target": "无法在编辑器中找到高亮。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "No footnotes found for this highlight.",
+                    "target": "未找到此高亮的脚注。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Footnote index out of range.",
+                    "target": "脚注索引超出范围。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Could not find footnote definition.",
+                    "target": "找不到脚注定义。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Please select some text first",
+                    "target": "请先选择一些文本"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "No active file",
+                    "target": "没有活动文件"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Highlight created",
+                    "target": "高亮已创建"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Warning: Could not create settings backup",
+                    "target": "警告：无法创建设置备份"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Error during settings migration. Please check console for details.",
+                    "target": "设置迁移期间出错。请查看控制台以获取详细信息。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Migration successful! All collections and highlights preserved.",
+                    "target": "迁移成功！所有集合和高亮均已保留。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Warning: Could not validate collection references after migration.",
+                    "target": "警告：迁移后无法验证集合引用。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Highlight file not found",
+                    "target": "高亮文件未找到"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Highlight has moved — please refresh and try again",
+                    "target": "高亮已移动 — 请刷新并重试"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Pattern is too slow and may cause performance issues. Please simplify your pattern.",
+                    "target": "模式太慢，可能导致性能问题。请简化您的模式。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Pattern matches too frequently and may cause performance issues.",
+                    "target": "模式匹配过于频繁，可能导致性能问题。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "No restore log found. Perform a backup restoration first.",
+                    "target": "未找到恢复日志。请先执行备份恢复。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Restore log copied to clipboard!",
+                    "target": "恢复日志已复制到剪贴板！"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "highlights-group-button highlights-tag-filter-button",
+                    "target": "highlights-group-button highlights-tag-filter-button"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "highlights-group-button highlights-overflow-button",
+                    "target": "highlights-group-button highlights-overflow-button"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "highlights-search-input-container sh-hidden",
+                    "target": "highlights-search-input-container sh-hidden"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "highlights-list collections-container",
+                    "target": "highlights-list collections-container"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "highlight-group-header current-note-group-header",
+                    "target": "highlight-group-header current-note-group-header"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "highlights-list tasks-container",
+                    "target": "highlights-list tasks-container"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "pagination-info pagination-info-compact",
+                    "target": "pagination-info pagination-info-compact"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "setting-item excluded-file-item",
+                    "target": "setting-item excluded-file-item"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Display the filename/note title below highlights when viewing All Notes or Collections.",
+                    "target": "在查看所有笔记或集合时，在高亮下方显示文件名/笔记标题。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Display creation timestamps for highlights.",
+                    "target": "显示高亮的创建时间戳。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Display the actions area below each highlight (filename, stats, and buttons).",
+                    "target": "在每个高亮下方显示操作区域（文件名、统计数据和按钮）。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Display the toolbar with search, grouping, and other action buttons.",
+                    "target": "显示带有搜索、分组和其他操作按钮的工具栏。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Automatically unfold content when focusing highlights from the sidebar.",
+                    "target": "从侧边栏聚焦高亮时自动展开内容。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Format string for timestamps using moment.js syntax (e.g., YYYY-MM-DD HH:mm, MMM DD YYYY, DD/MM/YYYY h:mm A).",
+                    "target": "使用 moment.js 语法的时间戳格式字符串（例如：YYYY-MM-DD HH:mm、MMM DD YYYY、DD/MM/YYYY h:mm A）。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Hide highlights and native comments shorter than this character count from the sidebar (default 0).",
+                    "target": "从侧边栏隐藏短于此字符数的高亮和原生注释（默认0）。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Show the Current Note tab in the sidebar.",
+                    "target": "在侧边栏显示当前笔记标签。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Show the All Notes tab in the sidebar.",
+                    "target": "在侧边栏显示所有笔记标签。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Show the Collections tab in the sidebar.",
+                    "target": "在侧边栏显示收藏集标签。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Show the Tasks tab in the sidebar.",
+                    "target": "在侧边栏显示任务标签。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Adjust main highlight text size (default 11).",
+                    "target": "调整主要高亮文本大小（默认为11）。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Adjust details text size (filename, line number, etc) (default 11).",
+                    "target": "调整详细信息文本大小（文件名、行号等）（默认为11）。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Adjust comment text size (default 11).",
+                    "target": "调整注释文本大小（默认为11）。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Adjust font weight for sidebar highlights (default Normal).",
+                    "target": "调整侧边栏高亮的字体粗细（默认为正常）。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Adjust font weight for sidebar tasks (default Normal).",
+                    "target": "调整侧边栏任务的字体粗细（默认为正常）。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Optional: Add a custom name for this color to use in Group By Color instead of the hex code.",
+                    "target": "可选：为此颜色添加自定义名称，以便在“按颜色分组”中使用，而不是使用十六进制代码。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "When adding comments via the sidebar, use inline footnotes (^[comment]) instead of standard footnotes ([^ref]: comment).",
+                    "target": "通过侧边栏添加注释时，使用行内脚注（^[comment]）而不是标准脚注（[^ref]: comment）。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "When clicking a comment, select the comment instead of positioning the cursor in front of it. Note: Only works for inline footnotes (^[...]) and standard footnotes ([^1]), not HTML comments or custom patterns.",
+                    "target": "点击注释时，选中注释而不是将光标定位在注释前。注意：仅适用于行内脚注（^[...]）和标准脚注（[^1]），不适用于HTML注释或自定义模式。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Detect HTML comments (<!-- -->) as highlights. Note: HTML comments are hidden in Live Preview mode and only visible in Source mode.",
+                    "target": "将HTML注释（<!-- -->）检测为高亮。注意：HTML注释在实时预览模式下被隐藏，仅在源代码模式下可见。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "When enabled, native Obsidian comments (%% %%) that appear immediately after a highlight will be treated as comments for that highlight. When disabled, all native comments appear separately in the sidebar.",
+                    "target": "启用后，紧跟在某个高亮之后的本地Obsidian注释（%% %%）将被视为该高亮的注释。禁用时，所有本地注释将单独显示在侧边栏中。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Define custom highlight or comment patterns using regex. This allows detection of syntax from other plugins or custom formats.",
+                    "target": "使用正则表达式定义自定义高亮或注释模式。这允许检测来自其他插件或自定义格式的语法。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Skip .excalidraw files when scanning for highlights. This prevents highlights from being detected in Excalidraw drawing files.",
+                    "target": "扫描高亮时跳过.excalidraw文件。这可以防止在Excalidraw绘图文件中检测到高亮。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Include or exclude specific files and folders from being scanned for highlights and tasks.",
+                    "target": "包含或排除特定文件和文件夹，使其不被扫描高亮和任务。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Tasks containing bulleted text will display as notes under the task.",
+                    "target": "包含项目符号文本的任务将在任务下显示为备注。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Include completed tasks (- [x]) in the Tasks tab.",
+                    "target": "在“任务”标签中包含已完成的任务(- [x])。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Display a dedicated section at the top of the Tasks tab showing tasks from the currently active note.",
+                    "target": "在“任务”标签顶部显示一个专用区域，展示当前活动笔记中的任务。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "When enabled, hide all other tasks and only show tasks from the current note.",
+                    "target": "启用后，隐藏所有其他任务，仅显示当前笔记中的任务。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Date format for parsing due dates in tasks (e.g., YYYY-MM-DD, MM/DD/YYYY). Due dates matching this format will be displayed as badges.",
+                    "target": "用于解析任务到期日期的日期格式（例如YYYY-MM-DD, MM/DD/YYYY）。匹配此格式的到期日期将显示为徽章。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Restore collections that contain highlights from a backup. Sidebar Highlights automatically creates periodic backups. Highlights in Collections that no longer exist in your vault will not be restored.",
+                    "target": "从备份中恢复包含高亮的集合。侧边栏高亮会自动创建定期备份。在仓库中不再存在的集合中的高亮将不会被恢复。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Create a backup of your collections.",
+                    "target": "创建集合的备份。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "在查看所有笔记或合集时，在高亮下方显示文件名/笔记标题。",
+                    "target": "在查看所有笔记或合集时，在高亮下方显示文件名/笔记标题。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "显示高亮的创建时间戳。",
+                    "target": "显示高亮的创建时间戳。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "在每个高亮下方显示操作区域（文件名、统计信息和按钮）。",
+                    "target": "在每个高亮下方显示操作区域（文件名、统计信息和按钮）。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "显示包含搜索、分组和其他操作按钮的工具栏。",
+                    "target": "显示包含搜索、分组和其他操作按钮的工具栏。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "从侧边栏聚焦高亮时自动展开内容。",
+                    "target": "从侧边栏聚焦高亮时自动展开内容。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "使用 moment.js 语法的时间戳格式字符串（例如：YYYY-MM-DD HH:mm、MMM DD YYYY、DD/MM/YYYY h:mm A）。",
+                    "target": "使用 moment.js 语法的时间戳格式字符串（例如：YYYY-MM-DD HH:mm、MMM DD YYYY、DD/MM/YYYY h:mm A）。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "在侧边栏中隐藏少于此字符数的高亮和原生注释（默认为 0）。",
+                    "target": "在侧边栏中隐藏少于此字符数的高亮和原生注释（默认为 0）。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "在侧边栏中显示【当前笔记】标签页。",
+                    "target": "在侧边栏中显示【当前笔记】标签页。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "在侧边栏中显示【所有笔记】标签页。",
+                    "target": "在侧边栏中显示【所有笔记】标签页。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "在侧边栏中显示【合集】标签页。",
+                    "target": "在侧边栏中显示【合集】标签页。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "在侧边栏中显示【任务】标签页。",
+                    "target": "在侧边栏中显示【任务】标签页。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "调整主高亮文本大小（默认为 11）。",
+                    "target": "调整主高亮文本大小（默认为 11）。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "调整详细信息文本大小（文件名、行号等）（默认为 11）。",
+                    "target": "调整详细信息文本大小（文件名、行号等）（默认为 11）。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "调整注释文本大小（默认为 11）。",
+                    "target": "调整注释文本大小（默认为 11）。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "可选：为此颜色添加自定义名称，以便在【按颜色分组】中使用，而不是显示十六进制代码。",
+                    "target": "可选：为此颜色添加自定义名称，以便在【按颜色分组】中使用，而不是显示十六进制代码。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "通过侧边栏添加注释时，使用内联脚注 (^[注释]) 而不是标准脚注 ([^ref]: 注释)。",
+                    "target": "通过侧边栏添加注释时，使用内联脚注 (^[注释]) 而不是标准脚注 ([^ref]: 注释)。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "点击注释时，选择注释而不是将光标定位在其前面。注意：仅适用于内联脚注 (^[...]) 和标准脚注 ([^1])，不适用于 HTML 注释或自定义模式。",
+                    "target": "点击注释时，选择注释而不是将光标定位在其前面。注意：仅适用于内联脚注 (^[...]) 和标准脚注 ([^1])，不适用于 HTML 注释或自定义模式。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "将 HTML 注释 (<!-- -->) 检测为高亮。注意：HTML 注释在实时预览模式下隐藏，仅在源码模式下可见。",
+                    "target": "将 HTML 注释 (<!-- -->) 检测为高亮。注意：HTML 注释在实时预览模式下隐藏，仅在源码模式下可见。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "启用时，紧跟在高亮后的 Obsidian 原生注释 (%% %%) 将被视为该高亮的注释。禁用时，所有原生注释将单独显示在侧边栏中。",
+                    "target": "启用时，紧跟在高亮后的 Obsidian 原生注释 (%% %%) 将被视为该高亮的注释。禁用时，所有原生注释将单独显示在侧边栏中。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "使用正则表达式定义自定义高亮或注释模式。这允许检测来自其他插件或自定义格式的语法。",
+                    "target": "使用正则表达式定义自定义高亮或注释模式。这允许检测来自其他插件或自定义格式的语法。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "扫描高亮时跳过 .excalidraw 文件。这可以防止在 Excalidraw 绘图文件中检测到高亮。",
+                    "target": "扫描高亮时跳过 .excalidraw 文件。这可以防止在 Excalidraw 绘图文件中检测到高亮。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "包含或排除特定文件和文件夹，不扫描其高亮和任务。",
+                    "target": "包含或排除特定文件和文件夹，不扫描其高亮和任务。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "包含项目符号文本的任务将在任务下方显示为笔记。",
+                    "target": "包含项目符号文本的任务将在任务下方显示为笔记。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "在【任务】标签页中包含已完成的任务 (- [x])。",
+                    "target": "在【任务】标签页中包含已完成的任务 (- [x])。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "在【任务】标签页顶部显示一个专门部分,显示当前活动笔记中的任务。",
+                    "target": "在【任务】标签页顶部显示一个专门部分,显示当前活动笔记中的任务。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "启用时，隐藏所有其他任务，仅显示当前笔记中的任务。",
+                    "target": "启用时，隐藏所有其他任务，仅显示当前笔记中的任务。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "用于解析任务中截止日期的日期格式（例如：YYYY-MM-DD、MM/DD/YYYY）。匹配此格式的截止日期将显示为徽章。",
+                    "target": "用于解析任务中截止日期的日期格式（例如：YYYY-MM-DD、MM/DD/YYYY）。匹配此格式的截止日期将显示为徽章。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "从备份恢复包含高亮的收藏。Sidebar Highlights 会自动创建定期备份。收藏中不再存在于您笔记库中的高亮将不会被恢复。",
+                    "target": "从备份恢复包含高亮的收藏。Sidebar Highlights 会自动创建定期备份。收藏中不再存在于您笔记库中的高亮将不会被恢复。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "创建您收藏的备份。",
+                    "target": "创建您收藏的备份。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "Display",
+                    "target": "Display"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "Views",
+                    "target": "视图"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "Display modes",
+                    "target": "显示模式"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "Typography",
+                    "target": "排版"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "Styling",
+                    "target": "样式"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "Colors",
+                    "target": "颜色"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "Color names",
+                    "target": "颜色名称"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "Comments",
+                    "target": "注释"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "Detection",
+                    "target": "检测"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "Custom patterns",
+                    "target": "自定义模式"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "Filters",
+                    "target": "过滤器"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "Tasks",
+                    "target": "任务"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "Backup and restore",
+                    "target": "备份和还原"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "显示",
+                    "target": "显示"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "视图",
+                    "target": "视图"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "显示模式",
+                    "target": "显示模式"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "排版",
+                    "target": "排版"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "样式",
+                    "target": "样式"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "颜色",
+                    "target": "颜色"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "颜色名称",
+                    "target": "颜色名称"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "注释",
+                    "target": "注释"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "检测",
+                    "target": "检测"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "自定义模式",
+                    "target": "自定义模式"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "过滤器",
+                    "target": "过滤器"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "任务",
+                    "target": "任务"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "备份和恢复",
+                    "target": "备份和恢复"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Show note titles in all notes and collections",
+                    "target": "在所有笔记和集合中显示笔记标题"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Show note timestamps",
+                    "target": "显示笔记时间戳"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Show highlight actions",
+                    "target": "显示高亮操作"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Show toolbar",
+                    "target": "显示工具栏"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Auto-unfold on focus",
+                    "target": "聚焦时自动展开"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Date format",
+                    "target": "日期格式"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Minimum character count",
+                    "target": "最小字符数"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Show Current Note tab",
+                    "target": "显示当前笔记标签"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Show All Notes tab",
+                    "target": "显示所有笔记标签"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Show Collections tab",
+                    "target": "显示合集标签"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Show Tasks tab",
+                    "target": "显示任务标签"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Main highlight text",
+                    "target": "主要高亮文本"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Details text size",
+                    "target": "详情文字大小"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Comment text size",
+                    "target": "评论文字大小"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Highlight text weight",
+                    "target": "高亮文本粗细"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Task text weight",
+                    "target": "任务文本权重"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Use inline footnotes by default",
+                    "target": "默认使用内联脚注"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Select text on click",
+                    "target": "点击时选择文本"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Detect HTML comments",
+                    "target": "检测HTML注释"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Detect adjacent native comments",
+                    "target": "检测相邻原生注释"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Exclude Excalidraw files",
+                    "target": "排除Excalidraw文件"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "File filters",
+                    "target": "文件过滤器"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Show task notes",
+                    "target": "显示任务笔记"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Show completed tasks",
+                    "target": "显示已完成的任务"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Show current note tasks",
+                    "target": "显示当前笔记任务"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Only display current note tasks",
+                    "target": "仅显示当前笔记任务"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Due date format",
+                    "target": "截止日期格式"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Restore from backup",
+                    "target": "从备份恢复"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Create backup",
+                    "target": "创建备份"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "在所有笔记和合集中显示笔记标题",
+                    "target": "在所有笔记和合集中显示笔记标题"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "显示笔记时间戳",
+                    "target": "显示笔记时间戳"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "显示高亮操作",
+                    "target": "显示高亮操作"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "显示工具栏",
+                    "target": "显示工具栏"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "聚焦时自动展开",
+                    "target": "聚焦时自动展开"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "日期格式",
+                    "target": "日期格式"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "最小字符数",
+                    "target": "最小字符数"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "显示【当前笔记】标签页",
+                    "target": "显示【当前笔记】标签页"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "显示【所有笔记】标签页",
+                    "target": "显示【所有笔记】标签页"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "显示【合集】标签页",
+                    "target": "显示【合集】标签页"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "显示【任务】标签页",
+                    "target": "显示【任务】标签页"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "主高亮文本",
+                    "target": "主高亮文本"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "详细信息文本大小",
+                    "target": "详细信息文本大小"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "注释文本大小",
+                    "target": "注释文本大小"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "默认使用内联脚注",
+                    "target": "默认使用内联脚注"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "点击时选择文本",
+                    "target": "点击时选择文本"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "检测 HTML 注释",
+                    "target": "检测 HTML 注释"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "检测相邻的原生注释",
+                    "target": "检测相邻的原生注释"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "排除 Excalidraw 文件",
+                    "target": "排除 Excalidraw 文件"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "文件过滤器",
+                    "target": "文件过滤器"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "显示任务笔记",
+                    "target": "显示任务笔记"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "显示已完成的任务",
+                    "target": "显示已完成的任务"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "显示当前笔记任务",
+                    "target": "显示当前笔记任务"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "仅显示当前笔记任务",
+                    "target": "仅显示当前笔记任务"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "截止日期格式",
+                    "target": "截止日期格式"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "从备份恢复",
+                    "target": "从备份恢复"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "创建备份",
+                    "target": "创建备份"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "yellow",
+                    "target": "yellow"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "red",
+                    "target": "red"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "teal",
+                    "target": "teal"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "blue",
+                    "target": "blue"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "green",
+                    "target": "green"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "default",
+                    "target": "默认"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "markdown highlights (==)",
+                    "target": "Markdown 高亮 (==)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "native comments (%%)",
+                    "target": "原生注释 (%%)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "HTML comments",
+                    "target": "HTML 注释"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "placeholder",
+                    "source": "YYYY-MM-DD HH:mm",
+                    "target": "YYYY-MM-DD HH:mm"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "placeholder",
+                    "source": "e.g., \"Important\", \"Research\"",
+                    "target": "例如：“重要”、“研究”"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "placeholder",
+                    "source": "例如：【重要】、【研究】",
+                    "target": "例如：【重要】、【研究】"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "search",
+                    "source": "Search",
+                    "target": "搜索"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "search",
+                    "source": "搜索",
+                    "target": "搜索"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Add comment",
+                    "target": "添加评论"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": " › ",
+                    "target": " › "
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Use #tag @collection (-# to exclude)",
+                    "target": "使用 #标签 @集合 (-# 排除)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Matching: ",
+                    "target": "匹配："
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Status",
+                    "target": "状态"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Due Date",
+                    "target": "截止日期"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Tags",
+                    "target": "标签"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Collections",
+                    "target": "收藏集"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Save",
+                    "target": "保存"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Remove Date",
+                    "target": "移除日期"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Cancel",
+                    "target": "取消"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Highlights",
+                    "target": "高亮"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "File filters",
+                    "target": "文件过滤器"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Due Date",
+                    "target": "截止日期"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Choose Backup",
+                    "target": "选择备份"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "高亮",
+                    "target": "高亮"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "文件过滤器",
+                    "target": "文件过滤器"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "截止日期",
+                    "target": "截止日期"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "选择备份",
+                    "target": "选择备份"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "type",
+                    "source": "text",
+                    "target": "text"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "value",
+                    "source": "exclude",
+                    "target": "exclude"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "value",
+                    "source": "include",
+                    "target": "include"
+                }
+            ],
+            "regex": [
+                {
+                    "source": "error(\"[i18n] Critical error during initialization:\",c),this.fallbackTranslations={},this.translations={},this.locale=\"en\"}}normalizeLocale(c){return c.toLowerCase().startsWith(\"zh\")",
+                    "target": "error(\"[i18n] Critical error during initialization:\",c),this.fallbackTranslations={},this.translations={},this.locale=\"en\"}}normalizeLocale(c){return c.toLowerCase().startsWith(\"zh\")"
+                },
+                {
+                    "source": "setTitle(\"Open in new tab\")",
+                    "target": "setTitle(\"Open in new tab\")"
+                },
+                {
+                    "source": "setTitle(\"Open to the right\")",
+                    "target": "setTitle(\"Open to the right\")"
+                },
+                {
+                    "source": "Notice(\"Copied to clipboard\")",
+                    "target": "Notice(\"Copied to clipboard\")"
+                },
+                {
+                    "source": "Notice(\"Failed to copy to clipboard\")",
+                    "target": "Notice(\"Failed to copy to clipboard\")"
+                },
+                {
+                    "source": "Notice(\"Collection not found\")",
+                    "target": "Notice(\"Collection not found\")"
+                },
+                {
+                    "source": "Notice(\"Task updated\")",
+                    "target": "Notice(\"Task updated\")"
+                },
+                {
+                    "source": "error(\"[Task Toggle] ERROR\",l),e.removeClass(i),n?(0,f.setIcon)(e,t.completed?\"circle-check\":\"circle\")",
+                    "target": "error(\"[Task Toggle] ERROR\",l),e.removeClass(i),n?(0,f.setIcon)(e,t.completed?\"circle-check\":\"circle\")"
+                },
+                {
+                    "source": "Notice(`Failed to toggle task: ${l.message}`)",
+                    "target": "Notice(`Failed to toggle task: ${l.message}`)"
+                },
+                {
+                    "source": "setTitle(\"Priority 1 (High)\")",
+                    "target": "setTitle(\"Priority 1 (High)\")"
+                },
+                {
+                    "source": "Notice(\"Priority set to 1 (High)\")",
+                    "target": "Notice(\"Priority set to 1 (High)\")"
+                },
+                {
+                    "source": "Notice(`Failed to set priority: ${i.message}`)",
+                    "target": "Notice(`Failed to set priority: ${i.message}`)"
+                },
+                {
+                    "source": "setTitle(\"Priority 3 (Low)\")",
+                    "target": "setTitle(\"Priority 3 (Low)\")"
+                },
+                {
+                    "source": "Notice(\"Priority set to 3 (Low)\")",
+                    "target": "Notice(\"Priority set to 3 (Low)\")"
+                },
+                {
+                    "source": "setTitle(\"Remove priority\")",
+                    "target": "setTitle(\"Remove priority\")"
+                },
+                {
+                    "source": "Notice(\"Priority removed\")",
+                    "target": "Notice(\"Priority removed\")"
+                },
+                {
+                    "source": "Notice(`Failed to remove priority: ${i.message}`)",
+                    "target": "Notice(`Failed to remove priority: ${i.message}`)"
+                },
+                {
+                    "source": "Notice(`Failed to update date: ${i.message}`)",
+                    "target": "Notice(`Failed to update date: ${i.message}`)"
+                },
+                {
+                    "source": "Notice(\"Date added\")",
+                    "target": "Notice(\"Date added\")"
+                },
+                {
+                    "source": "Notice(`Failed to add date: ${i.message}`)",
+                    "target": "Notice(`Failed to add date: ${i.message}`)"
+                },
+                {
+                    "source": "Notice(\"Could not find the highlight in the editor. It might have been modified.\")",
+                    "target": "Notice(\"Could not find the highlight in the editor. It might have been modified.\")"
+                },
+                {
+                    "source": "Notice(\"Could not insert inline footnote.\")",
+                    "target": "Notice(\"Could not insert inline footnote.\")"
+                },
+                {
+                    "source": "Notice(\"Could not access the editor.\")",
+                    "target": "Notice(\"Could not access the editor.\")"
+                },
+                {
+                    "source": "Notice(\"Could not find the highlight in the editor.\")",
+                    "target": "Notice(\"Could not find the highlight in the editor.\")"
+                },
+                {
+                    "source": "Notice(\"No footnotes found for this highlight.\")",
+                    "target": "Notice(\"No footnotes found for this highlight.\")"
+                },
+                {
+                    "source": "Notice(\"Footnote index out of range.\")",
+                    "target": "Notice(\"Footnote index out of range.\")"
+                },
+                {
+                    "source": "Notice(\"Could not find footnote definition.\")",
+                    "target": "Notice(\"Could not find footnote definition.\")"
+                },
+                {
+                    "source": "appendText(\" Collection Highlights\")",
+                    "target": "appendText(\" Collection Highlights\")"
+                },
+                {
+                    "source": "setTitle(\"Create highlight\")",
+                    "target": "setTitle(\"Create highlight\")"
+                },
+                {
+                    "source": "Notice(\"Please select some text first\")",
+                    "target": "Notice(\"Please select some text first\")"
+                },
+                {
+                    "source": "Notice(\"No active file\")",
+                    "target": "Notice(\"No active file\")"
+                },
+                {
+                    "source": "Notice(\"Highlight created\")",
+                    "target": "Notice(\"Highlight created\")"
+                },
+                {
+                    "source": "Notice(`Settings backup created: ${s}`)",
+                    "target": "Notice(`Settings backup created: ${s}`)"
+                },
+                {
+                    "source": "error(\"Failed to create backup:\",e),new k.Notice(\"Warning: Could not create settings backup\")",
+                    "target": "error(\"Failed to create backup:\",e),new k.Notice(\"Warning: Could not create settings backup\")"
+                },
+                {
+                    "source": "error(`Failed to read file #${M}:`,B),p+=N.length;continue}let L=[];for(let B of N){s(`\n  Validating highlight ID: ${B.id}`)",
+                    "target": "error(`Failed to read file #${M}:`,B),p+=N.length;continue}let L=[];for(let B of N){s(`\n  Validating highlight ID: ${B.id}`)"
+                },
+                {
+                    "source": "log(`Deleted old backup: ${n.filename}`)",
+                    "target": "log(`Deleted old backup: ${n.filename}`)"
+                },
+                {
+                    "source": "Notice(`Settings successfully migrated to ${s}`)",
+                    "target": "Notice(`Settings successfully migrated to ${s}`)"
+                },
+                {
+                    "source": "error(\"Migration failed:\",e),new k.Notice(\"Error during settings migration. Please check console for details.\")",
+                    "target": "error(\"Migration failed:\",e),new k.Notice(\"Error during settings migration. Please check console for details.\")"
+                },
+                {
+                    "source": "Notice(\"Migration successful! All collections and highlights preserved.\",3e3)}catch(t){console.error(\"Collection validation failed:\",t),new k.Notice(\"Warning: Could not validate collection references after migration.\")",
+                    "target": "Notice(\"Migration successful! All collections and highlights preserved.\",3e3)}catch(t){console.error(\"Collection validation failed:\",t),new k.Notice(\"Warning: Could not validate collection references after migration.\")"
+                },
+                {
+                    "source": "log(\"Scan already in progress, skipping concurrent scan request\")",
+                    "target": "log(\"Scan already in progress, skipping concurrent scan request\")"
+                },
+                {
+                    "source": "error(`Custom pattern \"${v.name}\" exceeded match limit. Pattern may be too broad.`)",
+                    "target": "error(`Custom pattern \"${v.name}\" exceeded match limit. Pattern may be too broad.`)"
+                },
+                {
+                    "source": "setDesc(`Type: ${C.type} | Pattern: ${C.pattern}`)",
+                    "target": "setDesc(`Type: ${C.type} | Pattern: ${C.pattern}`)"
+                },
+                {
+                    "source": "setName(\"Activity log\")",
+                    "target": "setName(\"Activity log\")"
+                },
+                {
+                    "source": "setDesc(\"Copy recent restore activity for debugging.\")",
+                    "target": "setDesc(\"Copy recent restore activity for debugging.\")"
+                },
+                {
+                    "source": "Notice(\"No restore log found. Perform a backup restoration first.\")",
+                    "target": "Notice(\"No restore log found. Perform a backup restoration first.\")"
+                },
+                {
+                    "source": "Notice(\"Restore log copied to clipboard!\")",
+                    "target": "Notice(\"Restore log copied to clipboard!\")"
+                },
+                {
+                    "source": "name:\"Show note titles in all notes and collections\"",
+                    "target": "name:\"Show note titles in all notes and collections\""
+                },
+                {
+                    "source": "name:\"Show note timestamps\"",
+                    "target": "name:\"Show note timestamps\""
+                },
+                {
+                    "source": "name:\"Show highlight actions\"",
+                    "target": "name:\"Show highlight actions\""
+                },
+                {
+                    "source": "name:\"Show toolbar\"",
+                    "target": "name:\"Show toolbar\""
+                },
+                {
+                    "source": "name:\"Auto-unfold on focus\"",
+                    "target": "name:\"Auto-unfold on focus\""
+                },
+                {
+                    "source": "name:\"Date format\"",
+                    "target": "name:\"Date format\""
+                },
+                {
+                    "source": "name:\"Minimum character count\"",
+                    "target": "name:\"Minimum character count\""
+                },
+                {
+                    "source": "name:\"Show Current Note tab\"",
+                    "target": "name:\"Show Current Note tab\""
+                },
+                {
+                    "source": "name:\"Show All Notes tab\"",
+                    "target": "name:\"Show All Notes tab\""
+                },
+                {
+                    "source": "name:\"Show Collections tab\"",
+                    "target": "name:\"Show Collections tab\""
+                },
+                {
+                    "source": "name:\"Show Tasks tab\"",
+                    "target": "name:\"Show Tasks tab\""
+                },
+                {
+                    "source": "name:\"Main highlight text\"",
+                    "target": "name:\"Main highlight text\""
+                },
+                {
+                    "source": "name:\"Details text size\"",
+                    "target": "name:\"Details text size\""
+                },
+                {
+                    "source": "name:\"Comment text size\"",
+                    "target": "name:\"Comment text size\""
+                },
+                {
+                    "source": "name:\"Highlight text weight\"",
+                    "target": "name:\"Highlight text weight\""
+                },
+                {
+                    "source": "name:\"Task text weight\"",
+                    "target": "name:\"Task text weight\""
+                },
+                {
+                    "source": "name:\"Use inline footnotes by default\"",
+                    "target": "name:\"Use inline footnotes by default\""
+                },
+                {
+                    "source": "name:\"Select text on click\"",
+                    "target": "name:\"Select text on click\""
+                },
+                {
+                    "source": "name:\"Detect HTML comments\"",
+                    "target": "name:\"Detect HTML comments\""
+                },
+                {
+                    "source": "name:\"Detect adjacent native comments\"",
+                    "target": "name:\"Detect adjacent native comments\""
+                },
+                {
+                    "source": "name:\"Exclude Excalidraw files\"",
+                    "target": "name:\"Exclude Excalidraw files\""
+                },
+                {
+                    "source": "name:\"File filters\"",
+                    "target": "name:\"File filters\""
+                },
+                {
+                    "source": "name:\"Show task notes\"",
+                    "target": "name:\"Show task notes\""
+                },
+                {
+                    "source": "name:\"Show completed tasks\"",
+                    "target": "name:\"Show completed tasks\""
+                },
+                {
+                    "source": "name:\"Show current note tasks\"",
+                    "target": "name:\"Show current note tasks\""
+                },
+                {
+                    "source": "name:\"Only display current note tasks\"",
+                    "target": "name:\"Only display current note tasks\""
+                },
+                {
+                    "source": "name:\"Due date format\"",
+                    "target": "name:\"Due date format\""
+                },
+                {
+                    "source": "name:\"Restore from backup\"",
+                    "target": "name:\"Restore from backup\""
+                },
+                {
+                    "source": "name:\"Create backup\"",
+                    "target": "name:\"Create backup\""
+                },
+                {
+                    "source": "text:\"Add comment\"",
+                    "target": "text:\"Add comment\""
+                },
+                {
+                    "source": "text:\"Use #tag @collection (-# to exclude)\"",
+                    "target": "text:\"Use #tag @collection (-# to exclude)\""
+                },
+                {
+                    "source": "text:\"Matching: \"",
+                    "target": "text:\"Matching: \""
+                },
+                {
+                    "source": "text=`${s} ${i.text}`",
+                    "target": "text=`${s} ${i.text}`"
+                },
+                {
+                    "source": "text=`${s} ${t.text}`",
+                    "target": "text=`${s} ${t.text}`"
+                },
+                {
+                    "source": "text:\"Due Date\"",
+                    "target": "text:\"Due Date\""
+                },
+                {
+                    "source": "text:\"Remove Date\"",
+                    "target": "text:\"Remove Date\""
+                },
+                {
+                    "source": "name:\"markdown highlights (==)\"",
+                    "target": "name:\"markdown highlights (==)\""
+                },
+                {
+                    "source": "name:\"native comments (%%)\"",
+                    "target": "name:\"native comments (%%)\""
+                },
+                {
+                    "source": "name:\"HTML comments\"",
+                    "target": "name:\"HTML comments\""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,1010 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "obsidian-completr",
+        "version": "1.0.0",
+        "title": "Completr",
+        "description": "Completr Localization & Tweaks",
+        "language": "zh-cn",
+        "supportedVersions": "3.2.0",
+        "author": ""
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Match-Case & Replace",
+                    "target": "匹配大小写并替换"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Ignore-Case & Append",
+                    "target": "忽略大小写并追加"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Ignore-Case & Replace",
+                    "target": "忽略大小写并替换"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Completr",
+                    "target": "Completr"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Callout Manager",
+                    "target": "标注管理器"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "input",
+                    "target": "input"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "no data received!\n",
+                    "target": "未收到数据！\n"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "pure ascii",
+                    "target": "纯ASCII"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "no probers hit minimum threshhold\n",
+                    "target": "没有检测器达到最低阈值\n"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "Completr: No colors left for snippet, using random color",
+                    "target": "Completr：没有剩余的颜色用于片段，正在使用随机颜色"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "Completr latex commands parse error:",
+                    "target": "Completr LaTeX命令解析错误："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "Completr callout types parse error:",
+                    "target": "Completr标注类型解析错误："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "Completr: Please enable Live Preview mode to use snippets",
+                    "target": "Completr：请启用实时预览模式以使用代码片段"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "Completr: Without Live Preview enabled, most features of Completr will not work properly!",
+                    "target": "Completr：若未启用实时预览，Completr的大部分功能将无法正常运行！"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Scan",
+                    "target": "扫描"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Delete",
+                    "target": "删除"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Cancel",
+                    "target": "取消"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "A regular expression which matches a character of a word. Used by during completion to find the word to the left of the cursor and used by the file scanner to find valid words.",
+                    "target": "匹配单词中字符的正则表达式。在补全时用于查找光标左侧的单词，并由文件扫描器用于查找有效单词。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Whether the popup is automatically focused once it opens.",
+                    "target": "弹出窗口打开后是否自动获得焦点。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Whether the popup opens automatically when typing.",
+                    "target": "是否在输入时自动打开弹出窗口。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "The minimum length a word has to be, to count as a valid suggestion. This value is used by the file scanner and word list provider.",
+                    "target": "一个单词必须达到的最小长度，才能被视为有效建议。此值由文件扫描器和单词列表提供程序使用。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "The minimum length a word has to be, to trigger suggestions. The LaTeX provider has its own separate setting.",
+                    "target": "一个单词必须达到的最小长度，才能触发建议。LaTeX 提供程序有自己的独立设置。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "The insertion mode that is used. Ignore-case would suggest 'Hello' if the typed text is 'hello', match-case would not. Append would complete 'Hell' with 'Hello' while replace would complete it with 'hello' instead (if only 'hello' was a known word). Only used by the file scanner and word list provider.",
+                    "target": "使用的插入模式。忽略大小写会在输入文本为 'hello' 时建议 'Hello'，匹配大小写则不会。追加会用 'Hello' 补全 'Hell'，而替换会用 'hello' 补全（如果只有 'hello' 是已知单词）。仅由文件扫描器和单词列表提供程序使用。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "When enabled, the query 'Hello' can suggest 'Hèllò', meaning diacritics will be ignored when filtering the suggestions. Only used by the file scanner and word list provider.",
+                    "target": "启用后，查询 'Hello' 可以建议 'Hèllò'，即在过滤建议时将忽略变音符号。仅由文件扫描器和单词列表提供程序使用。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Whether the LaTeX provider should trigger after dollar signs which are enclosed in code blocks (for example ```$\\fr```).",
+                    "target": "LaTeX 提供程序是否应在代码块中的美元符号后触发（例如 ```$\\fr```）。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Whether the LaTeX provider should ignore the casing of the typed text. If so, the input 'MaThbb' could suggest 'mathbb'.",
+                    "target": "LaTeX 提供程序是否应忽略输入文本的大小写。如果忽略，输入 'MaThbb' 可以建议 'mathbb'。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "The minimum length a query has to be, to trigger suggestions.",
+                    "target": "查询必须达到的最小长度，才能触发建议。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Whether the Front matter provider should ignore the casing of the typed text. If so, the input 'MaThbb' could suggest 'mathbb'.",
+                    "target": "Front matter 提供程序是否应忽略输入文本的大小写。如果忽略，输入 'MaThbb' 可以建议 'mathbb'。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Whether each completed tag should be suffixed with a comma or a newline (when typing in a multi-line list). Allows faster insertion of multiple tags.",
+                    "target": "每个完成的标签是否应附加逗号或换行符（在多行列表中输入时）。允许更快地插入多个标签。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "If this setting is enabled, the currently opened file will be scanned to find new words.",
+                    "target": "如果启用此设置，将扫描当前打开的文件以查找新单词。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "A list of files which contain words to be used as suggestions. Each word should be on its own line.",
+                    "target": "一个包含建议用词的文件列表。每个词应单独占一行。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Where callout suggestions come from.",
+                    "target": "呼出建议的来源。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Word character regex",
+                    "target": "单词字符正则表达式"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Auto focus",
+                    "target": "自动聚焦"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Auto trigger",
+                    "target": "自动触发"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Minimum word length",
+                    "target": "最小单词长度"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Minimum word trigger length",
+                    "target": "最小触发单词长度"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Word insertion mode",
+                    "target": "单词插入模式"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Ignore diacritics when filtering",
+                    "target": "筛选时忽略变音符号"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Latex provider",
+                    "target": "LaTeX 提供程序"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Trigger in code blocks",
+                    "target": "在代码块中触发"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Ignore case",
+                    "target": "忽略大小写"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Front matter provider",
+                    "target": "前置元数据提供者"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Add suffix to tag completion",
+                    "target": "为标签补全添加后缀"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "File scanner provider",
+                    "target": "文件扫描器提供者"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Scan active file",
+                    "target": "扫描当前文件"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Word list provider",
+                    "target": "单词列表提供者"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Word list files",
+                    "target": "单词列表文件"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Callout provider",
+                    "target": "标注提供者"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Source",
+                    "target": "来源"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Enabled",
+                    "target": "启用"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "Obsidian Front-Matter wiki",
+                    "target": "Obsidian 前置元数据 wiki"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "Immediately scan all .md files currently in your vault.",
+                    "target": "立即扫描当前资料库中的所有 .md 文件。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "Delete all known words.",
+                    "target": "删除所有已知单词。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "Reload",
+                    "target": "重新加载"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "Remove",
+                    "target": "移除"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "align",
+                    "target": "align"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "alignat",
+                    "target": "alignat"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "aligned",
+                    "target": "aligned"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "alignedat",
+                    "target": "alignedat"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "array",
+                    "target": "array"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "bmatrix",
+                    "target": "bmatrix"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Bmatrix",
+                    "target": "Bmatrix"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "bsmallmatrix",
+                    "target": "bsmallmatrix"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Bsmallmatrix",
+                    "target": "Bsmallmatrix"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "cases",
+                    "target": "cases"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "crampedsubarray",
+                    "target": "crampedsubarray"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "dcases",
+                    "target": "dcases"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "drcases",
+                    "target": "drcases"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "empheq",
+                    "target": "empheq"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "eqnarray",
+                    "target": "eqnarray"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "equation",
+                    "target": "equation"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "flalign",
+                    "target": "flalign"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "gather",
+                    "target": "gather"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "gathered",
+                    "target": "gathered"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "lgathered",
+                    "target": "lgathered"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "matrix",
+                    "target": "matrix"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "multiline",
+                    "target": "multiline"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "multilined",
+                    "target": "multilined"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "numcases",
+                    "target": "numcases"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "pmatrix",
+                    "target": "pmatrix"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "prooftree",
+                    "target": "prooftree"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "psmallmatrix",
+                    "target": "psmallmatrix"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "rcases",
+                    "target": "rcases"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "rgathered",
+                    "target": "rgathered"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "smallmatrix",
+                    "target": "smallmatrix"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "split",
+                    "target": "split"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "spreadlines",
+                    "target": "spreadlines"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "subarray",
+                    "target": "subarray"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "subnumcases",
+                    "target": "subnumcases"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "vmatrix",
+                    "target": "vmatrix"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Vmatrix",
+                    "target": "Vmatrix"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "vsmallmatrix",
+                    "target": "vsmallmatrix"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Vsmallmatrix",
+                    "target": "Vsmallmatrix"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "xalignat",
+                    "target": "xalignat"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "xxalignat",
+                    "target": "xxalignat"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Open suggestion popup",
+                    "target": "打开建议弹出窗口"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Select next suggestion",
+                    "target": "选择下一个建议"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Select previous suggestion",
+                    "target": "选择上一个建议"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Insert selected suggestion",
+                    "target": "插入选中的建议"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Bypass the popup and press Enter",
+                    "target": "绕过弹窗并按回车键"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Bypass the popup and press Tab",
+                    "target": "绕过弹窗并按Tab键"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Add the currently selected word to the blacklist",
+                    "target": "将当前选中的单词添加到黑名单"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Close suggestion popup",
+                    "target": "关闭建议弹窗"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Jump to next snippet placeholder",
+                    "target": "跳转到下一个代码片段占位符"
+                }
+            ],
+            "regex": [
+                {
+                    "source": "log(\"pure ascii\")",
+                    "target": "log(\"pure ascii\")"
+                },
+                {
+                    "source": "log(\"Completr: No colors left for snippet, using random color\")",
+                    "target": "log(\"Completr: No colors left for snippet, using random color\")"
+                },
+                {
+                    "source": "log(\"Completr: Please enable Live Preview mode to use snippets\")",
+                    "target": "log(\"Completr: Please enable Live Preview mode to use snippets\")"
+                },
+                {
+                    "source": "setName(\"Word character regex\")",
+                    "target": "setName(\"Word character regex\")"
+                },
+                {
+                    "source": "setDesc(\"A regular expression which matches a character of a word. Used by during completion to find the word to the left of the cursor and used by the file scanner to find valid words.\")",
+                    "target": "setDesc(\"A regular expression which matches a character of a word. Used by during completion to find the word to the left of the cursor and used by the file scanner to find valid words.\")"
+                },
+                {
+                    "source": "setName(\"Auto focus\")",
+                    "target": "setName(\"Auto focus\")"
+                },
+                {
+                    "source": "setDesc(\"Whether the popup is automatically focused once it opens.\")",
+                    "target": "setDesc(\"Whether the popup is automatically focused once it opens.\")"
+                },
+                {
+                    "source": "setName(\"Auto trigger\")",
+                    "target": "setName(\"Auto trigger\")"
+                },
+                {
+                    "source": "setDesc(\"Whether the popup opens automatically when typing.\")",
+                    "target": "setDesc(\"Whether the popup opens automatically when typing.\")"
+                },
+                {
+                    "source": "setName(\"Minimum word length\")",
+                    "target": "setName(\"Minimum word length\")"
+                },
+                {
+                    "source": "setDesc(\"The minimum length a word has to be, to count as a valid suggestion. This value is used by the file scanner and word list provider.\")",
+                    "target": "setDesc(\"The minimum length a word has to be, to count as a valid suggestion. This value is used by the file scanner and word list provider.\")"
+                },
+                {
+                    "source": "setName(\"Minimum word trigger length\")",
+                    "target": "setName(\"Minimum word trigger length\")"
+                },
+                {
+                    "source": "setDesc(\"The minimum length a word has to be, to trigger suggestions. The LaTeX provider has its own separate setting.\")",
+                    "target": "setDesc(\"The minimum length a word has to be, to trigger suggestions. The LaTeX provider has its own separate setting.\")"
+                },
+                {
+                    "source": "setName(\"Word insertion mode\")",
+                    "target": "setName(\"Word insertion mode\")"
+                },
+                {
+                    "source": "setName(\"Ignore diacritics when filtering\")",
+                    "target": "setName(\"Ignore diacritics when filtering\")"
+                },
+                {
+                    "source": "setName(\"Latex provider\")",
+                    "target": "setName(\"Latex provider\")"
+                },
+                {
+                    "source": "setName(\"Trigger in code blocks\")",
+                    "target": "setName(\"Trigger in code blocks\")"
+                },
+                {
+                    "source": "setDesc(\"Whether the LaTeX provider should trigger after dollar signs which are enclosed in code blocks (for example ```$\\\\fr```).\")",
+                    "target": "setDesc(\"Whether the LaTeX provider should trigger after dollar signs which are enclosed in code blocks (for example ```$\\\\fr```).\")"
+                },
+                {
+                    "source": "setName(\"Ignore case\")",
+                    "target": "setName(\"Ignore case\")"
+                },
+                {
+                    "source": "setDesc(\"Whether the LaTeX provider should ignore the casing of the typed text. If so, the input 'MaThbb' could suggest 'mathbb'.\")",
+                    "target": "setDesc(\"Whether the LaTeX provider should ignore the casing of the typed text. If so, the input 'MaThbb' could suggest 'mathbb'.\")"
+                },
+                {
+                    "source": "setDesc(\"The minimum length a query has to be, to trigger suggestions.\")",
+                    "target": "setDesc(\"The minimum length a query has to be, to trigger suggestions.\")"
+                },
+                {
+                    "source": "setName(\"Front matter provider\")",
+                    "target": "setName(\"Front matter provider\")"
+                },
+                {
+                    "source": "setTooltip(\"Obsidian Front-Matter wiki\")",
+                    "target": "setTooltip(\"Obsidian Front-Matter wiki\")"
+                },
+                {
+                    "source": "setDesc(\"Whether the Front matter provider should ignore the casing of the typed text. If so, the input 'MaThbb' could suggest 'mathbb'.\")",
+                    "target": "setDesc(\"Whether the Front matter provider should ignore the casing of the typed text. If so, the input 'MaThbb' could suggest 'mathbb'.\")"
+                },
+                {
+                    "source": "setName(\"Add suffix to tag completion\")",
+                    "target": "setName(\"Add suffix to tag completion\")"
+                },
+                {
+                    "source": "setDesc(\"Whether each completed tag should be suffixed with a comma or a newline (when typing in a multi-line list). Allows faster insertion of multiple tags.\")",
+                    "target": "setDesc(\"Whether each completed tag should be suffixed with a comma or a newline (when typing in a multi-line list). Allows faster insertion of multiple tags.\")"
+                },
+                {
+                    "source": "setName(\"File scanner provider\")",
+                    "target": "setName(\"File scanner provider\")"
+                },
+                {
+                    "source": "setTooltip(\"Immediately scan all .md files currently in your vault.\")",
+                    "target": "setTooltip(\"Immediately scan all .md files currently in your vault.\")"
+                },
+                {
+                    "source": "setTooltip(\"Delete all known words.\")",
+                    "target": "setTooltip(\"Delete all known words.\")"
+                },
+                {
+                    "source": "setName(\"Scan active file\")",
+                    "target": "setName(\"Scan active file\")"
+                },
+                {
+                    "source": "setDesc(\"If this setting is enabled, the currently opened file will be scanned to find new words.\")",
+                    "target": "setDesc(\"If this setting is enabled, the currently opened file will be scanned to find new words.\")"
+                },
+                {
+                    "source": "setName(\"Word list provider\")",
+                    "target": "setName(\"Word list provider\")"
+                },
+                {
+                    "source": "Notice(\"Unable to import \" + file.name + \" because it already exists!\")",
+                    "target": "Notice(\"Unable to import \" + file.name + \" because it already exists!\")"
+                },
+                {
+                    "source": "Notice(\"Error while importing \" + file.name);\n        }\n      }\n      if (!changed)\n        return;\n      await this.reloadWords();\n      this.display();\n    };\n    new import_obsidian5.Setting(containerEl).setName(\"Word list files\")",
+                    "target": "Notice(\"Error while importing \" + file.name);\n        }\n      }\n      if (!changed)\n        return;\n      await this.reloadWords();\n      this.display();\n    };\n    new import_obsidian5.Setting(containerEl).setName(\"Word list files\")"
+                },
+                {
+                    "source": "setDesc(\"A list of files which contain words to be used as suggestions. Each word should be on its own line.\")",
+                    "target": "setDesc(\"A list of files which contain words to be used as suggestions. Each word should be on its own line.\")"
+                },
+                {
+                    "source": "setName(\"Callout provider\")",
+                    "target": "setName(\"Callout provider\")"
+                },
+                {
+                    "source": "setDesc(\"Where callout suggestions come from.\")",
+                    "target": "setDesc(\"Where callout suggestions come from.\")"
+                },
+                {
+                    "source": "Notice(`Loaded ${count} words`)",
+                    "target": "Notice(`Loaded ${count} words`)"
+                },
+                {
+                    "source": "log(\"Completr: Without Live Preview enabled, most features of Completr will not work properly!\")",
+                    "target": "log(\"Completr: Without Live Preview enabled, most features of Completr will not work properly!\")"
+                },
+                {
+                    "source": "name: \"align\"",
+                    "target": "name: \"align\""
+                },
+                {
+                    "source": "name: \"alignat\"",
+                    "target": "name: \"alignat\""
+                },
+                {
+                    "source": "name: \"aligned\"",
+                    "target": "name: \"aligned\""
+                },
+                {
+                    "source": "name: \"alignedat\"",
+                    "target": "name: \"alignedat\""
+                },
+                {
+                    "source": "name: \"array\"",
+                    "target": "name: \"array\""
+                },
+                {
+                    "source": "name: \"bmatrix\"",
+                    "target": "name: \"bmatrix\""
+                },
+                {
+                    "source": "name: \"Bmatrix\"",
+                    "target": "name: \"Bmatrix\""
+                },
+                {
+                    "source": "name: \"bsmallmatrix\"",
+                    "target": "name: \"bsmallmatrix\""
+                },
+                {
+                    "source": "name: \"Bsmallmatrix\"",
+                    "target": "name: \"Bsmallmatrix\""
+                },
+                {
+                    "source": "name: \"cases\"",
+                    "target": "name: \"cases\""
+                },
+                {
+                    "source": "name: \"crampedsubarray\"",
+                    "target": "name: \"crampedsubarray\""
+                },
+                {
+                    "source": "name: \"dcases\"",
+                    "target": "name: \"dcases\""
+                },
+                {
+                    "source": "name: \"drcases\"",
+                    "target": "name: \"drcases\""
+                },
+                {
+                    "source": "name: \"empheq\"",
+                    "target": "name: \"empheq\""
+                },
+                {
+                    "source": "name: \"eqnarray\"",
+                    "target": "name: \"eqnarray\""
+                },
+                {
+                    "source": "name: \"equation\"",
+                    "target": "name: \"equation\""
+                },
+                {
+                    "source": "name: \"flalign\"",
+                    "target": "name: \"flalign\""
+                },
+                {
+                    "source": "name: \"gather\"",
+                    "target": "name: \"gather\""
+                },
+                {
+                    "source": "name: \"gathered\"",
+                    "target": "name: \"gathered\""
+                },
+                {
+                    "source": "name: \"lgathered\"",
+                    "target": "name: \"lgathered\""
+                },
+                {
+                    "source": "name: \"matrix\"",
+                    "target": "name: \"matrix\""
+                },
+                {
+                    "source": "name: \"multiline\"",
+                    "target": "name: \"multiline\""
+                },
+                {
+                    "source": "name: \"multilined\"",
+                    "target": "name: \"multilined\""
+                },
+                {
+                    "source": "name: \"numcases\"",
+                    "target": "name: \"numcases\""
+                },
+                {
+                    "source": "name: \"pmatrix\"",
+                    "target": "name: \"pmatrix\""
+                },
+                {
+                    "source": "name: \"prooftree\"",
+                    "target": "name: \"prooftree\""
+                },
+                {
+                    "source": "name: \"psmallmatrix\"",
+                    "target": "name: \"psmallmatrix\""
+                },
+                {
+                    "source": "name: \"rcases\"",
+                    "target": "name: \"rcases\""
+                },
+                {
+                    "source": "name: \"rgathered\"",
+                    "target": "name: \"rgathered\""
+                },
+                {
+                    "source": "name: \"smallmatrix\"",
+                    "target": "name: \"smallmatrix\""
+                },
+                {
+                    "source": "name: \"split\"",
+                    "target": "name: \"split\""
+                },
+                {
+                    "source": "name: \"spreadlines\"",
+                    "target": "name: \"spreadlines\""
+                },
+                {
+                    "source": "name: \"subarray\"",
+                    "target": "name: \"subarray\""
+                },
+                {
+                    "source": "name: \"subnumcases\"",
+                    "target": "name: \"subnumcases\""
+                },
+                {
+                    "source": "name: \"vmatrix\"",
+                    "target": "name: \"vmatrix\""
+                },
+                {
+                    "source": "name: \"Vmatrix\"",
+                    "target": "name: \"Vmatrix\""
+                },
+                {
+                    "source": "name: \"vsmallmatrix\"",
+                    "target": "name: \"vsmallmatrix\""
+                },
+                {
+                    "source": "name: \"Vsmallmatrix\"",
+                    "target": "name: \"Vsmallmatrix\""
+                },
+                {
+                    "source": "name: \"xalignat\"",
+                    "target": "name: \"xalignat\""
+                },
+                {
+                    "source": "name: \"xxalignat\"",
+                    "target": "name: \"xxalignat\""
+                },
+                {
+                    "source": "text: \"\"",
+                    "target": "text: \"\""
+                },
+                {
+                    "source": "name: \"Open suggestion popup\"",
+                    "target": "name: \"Open suggestion popup\""
+                },
+                {
+                    "source": "name: \"Select next suggestion\"",
+                    "target": "name: \"Select next suggestion\""
+                },
+                {
+                    "source": "name: \"Select previous suggestion\"",
+                    "target": "name: \"Select previous suggestion\""
+                },
+                {
+                    "source": "name: \"Insert selected suggestion\"",
+                    "target": "name: \"Insert selected suggestion\""
+                },
+                {
+                    "source": "name: \"Bypass the popup and press Enter\"",
+                    "target": "name: \"Bypass the popup and press Enter\""
+                },
+                {
+                    "source": "name: \"Bypass the popup and press Tab\"",
+                    "target": "name: \"Bypass the popup and press Tab\""
+                },
+                {
+                    "source": "name: \"Add the currently selected word to the blacklist\"",
+                    "target": "name: \"Add the currently selected word to the blacklist\""
+                },
+                {
+                    "source": "name: \"Close suggestion popup\"",
+                    "target": "name: \"Close suggestion popup\""
+                },
+                {
+                    "source": "name: \"Jump to next snippet placeholder\"",
+                    "target": "name: \"Jump to next snippet placeholder\""
+                },
+                {
+                    "source": "name: \"(internal)\"",
+                    "target": "name: \"(internal)\""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,410 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "advanced-cursors",
+        "version": "1.0.0",
+        "title": "Advanced Cursors",
+        "description": "Advanced Cursors Localization & Tweaks",
+        "language": "zh-cn",
+        "supportedVersions": "0.5.1",
+        "author": ""
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Start:",
+                    "target": "开始:"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Increment:",
+                    "target": "递增:"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Submit",
+                    "target": "提交"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Regex",
+                    "target": "正则表达式"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "button",
+                    "target": "button"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "ol",
+                    "target": "ol"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "li",
+                    "target": "li"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "hr",
+                    "target": "hr"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "Loading advanced cursors",
+                    "target": "正在加载高级光标"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "If off, disables all notifications that are not caused by errors or changing settings.",
+                    "target": "如果关闭，将禁用所有非错误或非设置更改引起的通知。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Open Saved Query View on Load",
+                    "target": "加载时打开已保存的查询视图"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Show Command Notifications",
+                    "target": "显示命令通知"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "feather.toSvg() is deprecated. Please use feather.icons[name].toSvg() instead.",
+                    "target": "feather.toSvg() 已弃用。请改用 feather.icons[name].toSvg()。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Copied to clipboard",
+                    "target": "已复制到剪贴板"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Could not copy to clipboard",
+                    "target": "无法复制到剪贴板"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "You must be focused on a markdown file.",
+                    "target": "你必须聚焦在一个 Markdown 文件上。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Both 'name' and 'query' must have a value.",
+                    "target": "'name' 和 'query' 都必须有值。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Something went wrong when deleting that query. Check the console for errors.",
+                    "target": "删除该查询时出了问题。请检查控制台错误。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "info",
+                    "source": "<circle cx=\"12\" cy=\"12\" r=\"10\"></circle><line x1=\"12\" y1=\"16\" x2=\"12\" y2=\"12\"></line><line x1=\"12\" y1=\"8\" x2=\"12.01\" y2=\"8\"></line>",
+                    "target": "<circle cx=\"12\" cy=\"12\" r=\"10\"></circle><line x1=\"12\" y1=\"16\" x2=\"12\" y2=\"12\"></line><line x1=\"12\" y1=\"8\" x2=\"12.01\" y2=\"8\"></line>"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "link",
+                    "source": "<path d=\"M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71\"></path><path d=\"M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71\"></path>",
+                    "target": "<path d=\"M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71\"></path><path d=\"M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71\"></path>"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Open Regex Match Modal",
+                    "target": "打开正则匹配模态框"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Move to next instance of current selection",
+                    "target": "移动到当前选择的下一个实例"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Move to previous instance of current selection",
+                    "target": "移动到当前选择的上一个实例"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Add next instance of current selection to selections",
+                    "target": "将当前选择的下一个实例添加到选区"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Add previous instance of current selection to selections",
+                    "target": "将当前选择的上一个实例添加到选区"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Copy Current Line Upwards",
+                    "target": "向上复制当前行"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Copy Current Line Downwards",
+                    "target": "向下复制当前行"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Add a cursor on the line above",
+                    "target": "在上一行添加光标"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Add a cursor on the line below",
+                    "target": "在下一行添加光标"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Insert an incrementing value at each cursor",
+                    "target": "在每个光标处插入递增的值"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Open Saved Query View",
+                    "target": "打开已保存的查询视图"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "search",
+                    "source": "<circle cx=\"11\" cy=\"11\" r=\"8\"></circle><line x1=\"21\" y1=\"21\" x2=\"16.65\" y2=\"16.65\"></line>",
+                    "target": "<circle cx=\"11\" cy=\"11\" r=\"8\"></circle><line x1=\"21\" y1=\"21\" x2=\"16.65\" y2=\"16.65\"></line>"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": " → ",
+                    "target": " → "
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "✏️",
+                    "target": "✏️"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Advanced Cursors Settings",
+                    "target": "高级光标设置"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Saved Queries",
+                    "target": "已保存的查询"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Add Query",
+                    "target": "添加查询"
+                }
+            ],
+            "regex": [
+                {
+                    "source": "Notice(\"Copied to clipboard\")",
+                    "target": "Notice(\"已复制到剪贴板\")"
+                },
+                {
+                    "source": "Notice(\"Could not copy to clipboard\")",
+                    "target": "Notice(\"无法复制到剪贴板\")"
+                },
+                {
+                    "source": "Notice(\"You must be focused on a markdown file.\")",
+                    "target": "Notice(\"您必须聚焦于一个Markdown文件。\")"
+                },
+                {
+                    "source": "Notice(\"Both 'name' and 'query' must have a value.\")",
+                    "target": "Notice(\"Both 'name' and 'query'必须都有值。\")"
+                },
+                {
+                    "source": "Notice(`A query with named \"${name}\" already exists`)",
+                    "target": "Notice(`名为\"${name}\"的查询已存在`)"
+                },
+                {
+                    "source": "Notice(`${name} → ${query} updated.`)",
+                    "target": "Notice(`${name} → ${query} 已更新。`)"
+                },
+                {
+                    "source": "Notice(`${name} → ${query} added.`)",
+                    "target": "Notice(`${name} → ${query} 已添加。`)"
+                },
+                {
+                    "source": "Notice(`${displayQ(removedQ)} removed`)",
+                    "target": "Notice(`${displayQ(removedQ)} 已移除`)"
+                },
+                {
+                    "source": "Notice(`Something went wrong when deleting that query. Check the console for errors.`)",
+                    "target": "Notice(`删除该查询时出现问题。请检查控制台错误信息。`)"
+                },
+                {
+                    "source": "setName(\"Open Saved Query View on Load\")",
+                    "target": "setName(\"启动时打开已保存查询视图\")"
+                },
+                {
+                    "source": "setName(\"Show Command Notifications\")",
+                    "target": "setName(\"显示命令通知\")"
+                },
+                {
+                    "source": "setDesc(\"If off, disables all notifications that are not caused by errors or changing settings.\")",
+                    "target": "setDesc(\"如果关闭，则禁用所有非由错误或更改设置引起的通知。\")"
+                },
+                {
+                    "source": "log(\"Loading advanced cursors\")",
+                    "target": "log(\"加载高级光标\")"
+                },
+                {
+                    "source": "Notice(`${matches.length} matches found.`)",
+                    "target": "Notice(`找到 ${matches.length} 个匹配项。`)"
+                },
+                {
+                    "source": "Notice(`No instance of '${toSelect}' found anywhere in note (that isn't already selected).`)",
+                    "target": "Notice(`在笔记中任何位置都未找到 '${toSelect}' 的实例（尚未选中的）。`)"
+                },
+                {
+                    "source": "name: `Obsidian.md.md`",
+                    "target": "name: `Obsidian.md.md`"
+                },
+                {
+                    "source": "text: `Waiting for content from: '${source}'`",
+                    "target": "text: `等待来自 '${source}' 的内容`"
+                },
+                {
+                    "source": "textContent = \"Start:\"",
+                    "target": "textContent = \"开始：\""
+                },
+                {
+                    "source": "textContent = \"Increment:\"",
+                    "target": "textContent = \"增量：\""
+                },
+                {
+                    "source": "textContent = \"Submit\"",
+                    "target": "textContent = \"提交\""
+                },
+                {
+                    "source": "name: \"\"",
+                    "target": "名称: \"\""
+                },
+                {
+                    "source": "textContent = \"button.savedQ-nextOrPrev.svelte-1ow3q36{float:right;width:fit-content;padding:6px}\"",
+                    "target": "textContent = \"button.savedQ-nextOrPrev.svelte-1ow3q36{float:right;width:fit-content;padding:6px}\""
+                },
+                {
+                    "source": "textContent = \"→\"",
+                    "target": "textContent = \"→\""
+                },
+                {
+                    "source": "textContent = \"←\"",
+                    "target": "textContent = \"←\""
+                },
+                {
+                    "source": "textContent = \"Regex\"",
+                    "target": "textContent = \"正则表达式\""
+                },
+                {
+                    "source": "text: \" → \"",
+                    "target": "text: \" → \""
+                },
+                {
+                    "source": "text: \"❌\"",
+                    "target": "text: \"❌\""
+                },
+                {
+                    "source": "text: \"✏️\"",
+                    "target": "text: \"✏️\""
+                },
+                {
+                    "source": "text: \"Advanced Cursors Settings\"",
+                    "target": "text: \"高级光标设置\""
+                },
+                {
+                    "source": "text: \"Saved Queries\"",
+                    "target": "text: \"已保存的查询\""
+                },
+                {
+                    "source": "text: \"Add Query\"",
+                    "target": "text: \"添加查询\""
+                },
+                {
+                    "source": "name: \"Open Regex Match Modal\"",
+                    "target": "name: \"打开正则匹配模态框\""
+                },
+                {
+                    "source": "name: \"Move to next instance of current selection\"",
+                    "target": "name: \"移动到当前选择的下一个实例\""
+                },
+                {
+                    "source": "name: \"Move to previous instance of current selection\"",
+                    "target": "name: \"移动到当前选择的上一个实例\""
+                },
+                {
+                    "source": "name: \"Add next instance of current selection to selections\"",
+                    "target": "name: \"将当前选择的下一个实例添加到选择中\""
+                },
+                {
+                    "source": "name: \"Add previous instance of current selection to selections\"",
+                    "target": "name: \"将当前选择的上一个实例添加到选择中\""
+                },
+                {
+                    "source": "name: \"Copy Current Line Upwards\"",
+                    "target": "name: \"向上复制当前行\""
+                },
+                {
+                    "source": "name: \"Copy Current Line Downwards\"",
+                    "target": "name: \"向下复制当前行\""
+                },
+                {
+                    "source": "name: \"Add a cursor on the line above\"",
+                    "target": "name: \"在上一行添加光标\""
+                },
+                {
+                    "source": "name: \"Add a cursor on the line below\"",
+                    "target": "name: \"在下一行添加光标\""
+                },
+                {
+                    "source": "name: \"Insert an incrementing value at each cursor\"",
+                    "target": "name: \"在每个光标处插入一个递增值\""
+                },
+                {
+                    "source": "name: \"Open Saved Query View\"",
+                    "target": "name: \"打开已保存的查询视图\""
+                }
+            ]
+        }
+    }
+}

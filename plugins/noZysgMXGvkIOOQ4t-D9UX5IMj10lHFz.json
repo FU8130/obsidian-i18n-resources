@@ -1,0 +1,216 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "obsidian-plugin-toc",
+        "version": "1.0.0",
+        "title": "Table of Contents",
+        "description": "Table of Contents Localization & Tweaks",
+        "language": "zh-cn",
+        "supportedVersions": "0.2.0",
+        "author": ""
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "number",
+                    "target": "数字"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Number",
+                    "target": "数字"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "bullet",
+                    "target": "项目符号"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Bullet",
+                    "target": "项目符号"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": "Github generates section links differently than Obsidian, this setting uses ",
+                    "target": "GitHub生成章节链接的方式与Obsidian不同，此设置使用"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": " to generate the proper links.",
+                    "target": "来生成正确的链接。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "Load Table of Contents plugin",
+                    "target": "加载目录插件"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "The type of list to render the table of contents as.",
+                    "target": "用于呈现目录的列表类型。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Optional title to put before the table of contents",
+                    "target": "放在目录前的可选标题"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "The lowest header depth to add to the table of contents. Defaults to 2",
+                    "target": "要添加到目录的最低标题深度。默认为2"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "The highest header depth to add to the table of contents. Defaults to 6",
+                    "target": "要添加到目录的最高标题深度。默认为6"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Auto-generate Markdown links, instead of the default WikiLinks",
+                    "target": "自动生成Markdown链接，而非默认的WikiLinks"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "List Style",
+                    "target": "列表样式"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Title",
+                    "target": "标题"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Minimum Header Depth",
+                    "target": "最小标题深度"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Maximum Header Depth",
+                    "target": "最大标题深度"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Use Markdown links",
+                    "target": "使用Markdown链接"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Github compliant Markdown section links",
+                    "target": "符合Github规范的Markdown章节链接"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "**Table of Contents**",
+                    "target": "**目录**"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Create table of contents",
+                    "target": "创建目录"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Create table of contents for next heading level",
+                    "target": "为下一标题级别创建目录"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Table of Contents - Settings",
+                    "target": "目录 - 设置"
+                }
+            ],
+            "regex": [
+                {
+                    "source": "setName(\"List Style\")",
+                    "target": "setName(\"List Style\")"
+                },
+                {
+                    "source": "setDesc(\"The type of list to render the table of contents as.\")",
+                    "target": "setDesc(\"The type of list to render the table of contents as.\")"
+                },
+                {
+                    "source": "setDesc(\"Optional title to put before the table of contents\")",
+                    "target": "setDesc(\"Optional title to put before the table of contents\")"
+                },
+                {
+                    "source": "setPlaceholder(\"**Table of Contents**\")",
+                    "target": "setPlaceholder(\"**Table of Contents**\")"
+                },
+                {
+                    "source": "setName(\"Minimum Header Depth\")",
+                    "target": "setName(\"Minimum Header Depth\")"
+                },
+                {
+                    "source": "setName(\"Maximum Header Depth\")",
+                    "target": "setName(\"Maximum Header Depth\")"
+                },
+                {
+                    "source": "setDesc(\"The highest header depth to add to the table of contents. Defaults to 6\")",
+                    "target": "setDesc(\"The highest header depth to add to the table of contents. Defaults to 6\")"
+                },
+                {
+                    "source": "setName(\"Use Markdown links\")",
+                    "target": "setName(\"Use Markdown links\")"
+                },
+                {
+                    "source": "setDesc(\"Auto-generate Markdown links, instead of the default WikiLinks\")",
+                    "target": "setDesc(\"Auto-generate Markdown links, instead of the default WikiLinks\")"
+                },
+                {
+                    "source": "appendText(\"Github generates section links differently than Obsidian, this setting uses \")",
+                    "target": "appendText(\"Github generates section links differently than Obsidian, this setting uses \")"
+                },
+                {
+                    "source": "appendText(\" to generate the proper links.\")",
+                    "target": "appendText(\" to generate the proper links.\")"
+                },
+                {
+                    "source": "setName(\"Github compliant Markdown section links\")",
+                    "target": "setName(\"Github compliant Markdown section links\")"
+                },
+                {
+                    "source": "log(\"Load Table of Contents plugin\")",
+                    "target": "log(\"Load Table of Contents plugin\")"
+                },
+                {
+                    "source": "text:\"Table of Contents - Settings\"",
+                    "target": "text:\"Table of Contents - Settings\""
+                },
+                {
+                    "source": "name:\"Create table of contents\"",
+                    "target": "name:\"Create table of contents\""
+                },
+                {
+                    "source": "name:\"Create table of contents for next heading level\"",
+                    "target": "name:\"Create table of contents for next heading level\""
+                }
+            ]
+        }
+    }
+}
