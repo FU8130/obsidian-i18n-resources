@@ -1,0 +1,156 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "lazy-plugins",
+        "version": "1.0.0",
+        "title": "Lazy Loader",
+        "description": "Lazy Loader Localization & Tweaks",
+        "language": "zh-cn",
+        "supportedVersions": "1.0.24",
+        "author": ""
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Nothing configured",
+                    "target": "Nothing configured"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Set all plugins to be:",
+                    "target": "Set all plugins to be:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "div",
+                    "target": "div"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "button",
+                    "target": "button"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Filter by: ",
+                    "target": "Filter by: "
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Separate desktop/mobile configuration",
+                    "target": "Separate desktop/mobile configuration"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Lazy Loader settings",
+                    "target": "Lazy Loader settings"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Default startup type for new plugins",
+                    "target": "Default startup type for new plugins"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Show plugin descriptions",
+                    "target": "Show plugin descriptions"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Set the delay for all plugins at once",
+                    "target": "Set the delay for all plugins at once"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Plugins",
+                    "target": "Plugins"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Type to filter list",
+                    "target": "Type to filter list"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Load plugins with a delay on startup, so that you can get your app startup down into the sub-second loading time.",
+                    "target": "Load plugins with a delay on startup, so that you can get your app startup down into the sub-second loading time."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Lazy Loader",
+                    "target": "Lazy Loader"
+                }
+            ],
+            "regex": [
+                {
+                    "source": "setName(\"Separate desktop/mobile configuration\")",
+                    "target": "setName(\"Separate desktop/mobile configuration\")"
+                },
+                {
+                    "source": "setDesc(`Enable this if you want to have different settings depending whether you're using a desktop or mobile device. All of the settings below can be configured differently on desktop and mobile. You're currently using the ${this.lazyPlugin.device} settings.`)",
+                    "target": "setDesc(`Enable this if you want to have different settings depending whether you're using a desktop or mobile device. All of the settings below can be configured differently on desktop and mobile. You're currently using the ${this.lazyPlugin.device} settings.`)"
+                },
+                {
+                    "source": "setName(\"Lazy Loader settings\")",
+                    "target": "setName(\"Lazy Loader settings\")"
+                },
+                {
+                    "source": "setName(\"Default startup type for new plugins\")",
+                    "target": "setName(\"Default startup type for new plugins\")"
+                },
+                {
+                    "source": "setName(\"Show plugin descriptions\")",
+                    "target": "setName(\"Show plugin descriptions\")"
+                },
+                {
+                    "source": "setName(\"Set the delay for all plugins at once\")",
+                    "target": "setName(\"Set the delay for all plugins at once\")"
+                },
+                {
+                    "source": "setDesc(\"Filter by: \")",
+                    "target": "setDesc(\"Filter by: \")"
+                },
+                {
+                    "source": "setPlaceholder(\"Type to filter list\")",
+                    "target": "setPlaceholder(\"Type to filter list\")"
+                },
+                {
+                    "source": "log(`Starting ${pluginId} after a ${startupType} delay`)",
+                    "target": "log(`Starting ${pluginId} after a ${startupType} delay`)"
+                },
+                {
+                    "source": "log(`Set ${plugin.id} back to instant start`)",
+                    "target": "log(`Set ${plugin.id} back to instant start`)"
+                },
+                {
+                    "source": "name: \"Lazy Loader\"",
+                    "target": "name: \"Lazy Loader\""
+                },
+                {
+                    "source": "description: \"Load plugins with a delay on startup, so that you can get your app startup down into the sub-second loading time.\"",
+                    "target": "description: \"Load plugins with a delay on startup, so that you can get your app startup down into the sub-second loading time.\""
+                },
+                {
+                    "source": "textContent = \"\"",
+                    "target": "textContent = \"\""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,376 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "clever-search",
+        "version": "1.0.0",
+        "title": "Clever Search",
+        "description": "Clever Search Localization & Tweaks",
+        "language": "zh-cn",
+        "supportedVersions": "0.2.24",
+        "author": ""
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "AssignmentExpression",
+                    "name": "innerHTML",
+                    "source": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n\t\t\t<line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"></line>\n\t\t\t<line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"></line>\n\t\t</svg>",
+                    "target": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n\t\t\t<line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"></line>\n\t\t\t<line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"></line>\n\t\t</svg>"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "color: red;",
+                    "target": "color: red;"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Only support https, current url starts with http",
+                    "target": "仅支持https，当前URL以http开头"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "jieba segmenter isn't ready",
+                    "target": "jieba分词器未就绪"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error initializing worker:",
+                    "target": "初始化worker时出错："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "can't find scrollElement",
+                    "target": "找不到scrollElement"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "info",
+                    "source": "color: blue;",
+                    "target": "color: blue;"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "info",
+                    "source": "download successfully",
+                    "target": "下载成功"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "info",
+                    "source": "Old version databases will be deleted",
+                    "target": "旧版本数据库将被删除"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "info",
+                    "source": "No markdown view to insert file link",
+                    "target": "没有markdown视图可插入文件链接"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "info",
+                    "source": "No markdown view to jump",
+                    "target": "没有可跳转的 Markdown 视图"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "info",
+                    "source": "remove listener...",
+                    "target": "移除监听器..."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "info",
+                    "source": "add listener...",
+                    "target": "添加监听器..."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "color: #5f6368;",
+                    "target": "颜色: #5f6368;"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "Received from worker:\n",
+                    "target": "从 Worker 收到:\n"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "curr scrollTop:",
+                    "target": "当前 scrollTop:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "click",
+                    "target": "点击"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "domain and key",
+                    "target": "域和键"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "description",
+                    "target": "描述"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Todo",
+                    "target": "待办事项"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "API provider1",
+                    "target": "API 提供商1"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "API provider2",
+                    "target": "API 提供商2"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Image",
+                    "target": "图像"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "API key",
+                    "target": "API 密钥"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "`WebAssembly.instantiateStreaming` failed because your server does not serve wasm with `application/wasm` MIME type. Falling back to `WebAssembly.instantiate` which is slower. Original error:\n",
+                    "target": "`WebAssembly.instantiateStreaming` 失败，因为您的服务器未使用 `application/wasm` MIME 类型提供 wasm。回退到较慢的 `WebAssembly.instantiate`。原始错误：\n"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "color: orange;",
+                    "target": "color: orange;"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "failed to download assets",
+                    "target": "下载资产失败"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Dexie: Need to reopen db",
+                    "target": "Dexie：需要重新打开数据库"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Dexie SchemaDiff: Schema was extended without increasing the number passed to db.version(). Some queries may fail.",
+                    "target": "Dexie SchemaDiff：模式已扩展，但未增加传递给 db.version() 的数字。某些查询可能会失败。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "failed to connect to ai-helper. launch clever-search-ai-helper or disable semantic search in the setting to avoid this warning.",
+                    "target": "无法连接到 ai-helper。启动 clever-search-ai-helper 或禁用设置中的语义搜索以避免此警告。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "There might be inconsistency with previous search step, which lead to a missed match to target line",
+                    "target": "可能与之前的搜索步骤存在不一致，导致无法匹配目标行"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Editor failed to initialize in time.",
+                    "target": "编辑器未能及时初始化"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "web worker only enabled on dev environment now",
+                    "target": "Web Worker 现在仅在开发环境中启用"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "仅在开发模式开启RecentFileManager",
+                    "target": "仅在开发模式开启RecentFileManager"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "debug",
+                    "source": "debug",
+                    "target": "debug"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "error",
+                    "target": "error"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "info",
+                    "source": "info",
+                    "target": "info"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "VirtualIndexMiddleware",
+                    "target": "VirtualIndexMiddleware"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "HooksMiddleware",
+                    "target": "HooksMiddleware"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "In file search - floating window",
+                    "target": "文件内搜索 - 浮动窗口"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Search in file",
+                    "target": "搜索文件"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Toggle privacy mode",
+                    "target": "切换隐私模式"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Search in Vault",
+                    "target": "搜索库"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Search in file with last Omnisearch query",
+                    "target": "使用上次的Omnisearch查询在文件中搜索"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Search in vault semantically",
+                    "target": "语义搜索库"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "none",
+                    "source": "none",
+                    "target": "none"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "trace",
+                    "source": "trace",
+                    "target": "trace"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "warn",
+                    "source": "warn",
+                    "target": "warn"
+                }
+            ],
+            "regex": [
+                {
+                    "source": "error(`%c[error] ${this.getCallerName()}\n`,\"color: red;\",...e)}getCallerName(){var i;let e=(i=new Error().stack)==null?void 0:i.split(`\n`)",
+                    "target": "error(`%c[error] ${this.getCallerName()}\n`,\"color: red;\",...e)}getCallerName(){var i;let e=(i=new Error().stack)==null?void 0:i.split(`\n`)"
+                },
+                {
+                    "source": "error(\"Only support https, current url starts with http\")",
+                    "target": "error(\"Only support https, current url starts with http\")"
+                },
+                {
+                    "source": "error(`failed to download ${t}`)",
+                    "target": "error(`failed to download ${t}`)"
+                },
+                {
+                    "source": "error(\"jieba segmenter isn't ready\")",
+                    "target": "error(\"jieba segmenter isn't ready\")"
+                },
+                {
+                    "source": "error(`KnownException: ${t.message}`)",
+                    "target": "error(`KnownException: ${t.message}`)"
+                },
+                {
+                    "source": "error(`UnknownException: ${t.message}`)",
+                    "target": "error(`UnknownException: ${t.message}`)"
+                },
+                {
+                    "source": "setName(\"API provider1\")",
+                    "target": "setName(\"API provider1\")"
+                },
+                {
+                    "source": "setDesc(\"domain and key\")",
+                    "target": "setDesc(\"domain and key\")"
+                },
+                {
+                    "source": "setPlaceholder(\"API key\")",
+                    "target": "setPlaceholder(\"API key\")"
+                },
+                {
+                    "source": "log(\"curr scrollTop:\",e);let t={top:e,left:0}};this.handleScrollDebounced=Ns(1e3,()=>this.handleScroll())}init(){this.plugin.registerEvent(this.app.workspace.on(\"active-leaf-change\",async e=>{e&&e.view instanceof eo.MarkdownView&&(this.scrollElement&&(A.info(\"remove listener...\")",
+                    "target": "log(\"curr scrollTop:\",e);let t={top:e,left:0}};this.handleScrollDebounced=Ns(1e3,()=>this.handleScroll())}init(){this.plugin.registerEvent(this.app.workspace.on(\"active-leaf-change\",async e=>{e&&e.view instanceof eo.MarkdownView&&(this.scrollElement&&(A.info(\"remove listener...\")"
+                },
+                {
+                    "source": "error(\"can't find scrollElement\")",
+                    "target": "error(\"can't find scrollElement\")"
+                },
+                {
+                    "source": "name:\"In file search - floating window\"",
+                    "target": "name:\"In file search - floating window\""
+                },
+                {
+                    "source": "name:\"Search in file\"",
+                    "target": "name:\"Search in file\""
+                },
+                {
+                    "source": "name:\"Toggle privacy mode\"",
+                    "target": "name:\"Toggle privacy mode\""
+                },
+                {
+                    "source": "name:\"Search in Vault\"",
+                    "target": "name:\"Search in Vault\""
+                },
+                {
+                    "source": "name:\"Search in file with last Omnisearch query\"",
+                    "target": "name:\"Search in file with last Omnisearch query\""
+                },
+                {
+                    "source": "name:\"Search in vault semantically\"",
+                    "target": "name:\"Search in vault semantically\""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,4128 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "notion-suite",
+        "version": "1.0.0",
+        "title": "Notion Suite",
+        "description": "Notion Suite Localization & Tweaks",
+        "language": "zh-cn",
+        "supportedVersions": "1.8.1",
+        "author": ""
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "AssignmentExpression",
+                    "name": "placeholder",
+                    "source": "today",
+                    "target": "today"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "placeholder",
+                    "source": "New option name",
+                    "target": "New option name"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "placeholder",
+                    "source": "Search…",
+                    "target": "Search…"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "placeholder",
+                    "source": "anything",
+                    "target": "anything"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "No select property available",
+                    "target": "No select property available"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "No grouping",
+                    "target": "No grouping"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "No date property available",
+                    "target": "No date property available"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "None",
+                    "target": "None"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "day",
+                    "target": "day"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Days",
+                    "target": "Days"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "week",
+                    "target": "week"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Weeks",
+                    "target": "Weeks"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "month",
+                    "target": "month"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Months",
+                    "target": "Months"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Medium",
+                    "target": "Medium"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "small",
+                    "target": "small"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Small",
+                    "target": "Small"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "large",
+                    "target": "large"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Large",
+                    "target": "Large"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "No numeric property available",
+                    "target": "No numeric property available"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Largest first",
+                    "target": "Largest first"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "value",
+                    "target": "value"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Smallest first",
+                    "target": "Smallest first"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "label",
+                    "target": "label"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "By name",
+                    "target": "By name"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "none",
+                    "target": "none"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Leave as-is",
+                    "target": "Leave as-is"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "plain",
+                    "target": "plain"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Plain",
+                    "target": "Plain"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "percent",
+                    "target": "percent"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Percent",
+                    "target": "Percent"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "currency",
+                    "target": "currency"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Currency",
+                    "target": "Currency"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Not set up",
+                    "target": "Not set up"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "textarea",
+                    "target": "textarea"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "select",
+                    "target": "select"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "option",
+                    "target": "option"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "input",
+                    "target": "input"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "table",
+                    "target": "table"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "tr",
+                    "target": "tr"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "thead",
+                    "target": "thead"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "th",
+                    "target": "th"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "tbody",
+                    "target": "tbody"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "tfoot",
+                    "target": "tfoot"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "td",
+                    "target": "td"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "img",
+                    "target": "img"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "button",
+                    "target": "button"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Notion Suite: could not open the issue page",
+                    "target": "Notion Suite: could not open the issue page"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Notion Suite: deleting rows failed",
+                    "target": "Notion Suite: deleting rows failed"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Notion Suite: renaming a row failed",
+                    "target": "Notion Suite: renaming a row failed"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Notion Suite: moving a card failed",
+                    "target": "Notion Suite: moving a card failed"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Notion Suite: could not register the board with Bases",
+                    "target": "Notion Suite: could not register the board with Bases"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Notion Suite: could not repoint links after a rename",
+                    "target": "Notion Suite: could not repoint links after a rename"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Cancel",
+                    "target": "Cancel"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Create database",
+                    "target": "Create database"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Create",
+                    "target": "Create"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Import",
+                    "target": "Import"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Save template",
+                    "target": "Save template"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Delete",
+                    "target": "Delete"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Save",
+                    "target": "Save"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Done",
+                    "target": "Done"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Clear the value",
+                    "target": "Clear the value"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Apply",
+                    "target": "Apply"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Close",
+                    "target": "Close"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Remove both",
+                    "target": "Remove both"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Where the row notes are stored.",
+                    "target": "Where the row notes are stored."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Handy for seeing the views working straight away.",
+                    "target": "Handy for seeing the views working straight away."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Each value becomes a column.",
+                    "target": "Each value becomes a column."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Splits the table into foldable bands, each with its own totals.",
+                    "target": "Splits the table into foldable bands, each with its own totals."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Overdue, today, this week, later — rather than one band per day.",
+                    "target": "Overdue, today, this week, later — rather than one band per day."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Where each bar begins.",
+                    "target": "Where each bar begins."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Leave as None to mark single days instead of bars.",
+                    "target": "Leave as None to mark single days instead of bars."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Property holding an image path or URL.",
+                    "target": "Property holding an image path or URL."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Comma-separated, in order. Blank shows all of them.",
+                    "target": "Comma-separated, in order. Blank shows all of them."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Leave blank for every row.",
+                    "target": "Leave blank for every row."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Shown in the view's toolbar instead of the database name.",
+                    "target": "Shown in the view's toolbar instead of the database name."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Each value of this property becomes a bar or slice.",
+                    "target": "Each value of this property becomes a bar or slice."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "How each group is turned into a number.",
+                    "target": "How each group is turned into a number."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Optional second grouping, drawn as separate colours.",
+                    "target": "Optional second grouping, drawn as separate colours."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Off places them side by side.",
+                    "target": "Off places them side by side."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Leave blank for every group.",
+                    "target": "Leave blank for every group."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Pixels. Blank uses the default.",
+                    "target": "Pixels. Blank uses the default."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Vault-relative, e.g. Notion Export/Tasks",
+                    "target": "Vault-relative, e.g. Notion Export/Tasks"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "One per line. Prefix with a stage to group them: “todo: Not started”, “doing: In progress”, “done: Shipped”. Boards order their columns by that stage.",
+                    "target": "One per line. Prefix with a stage to group them: “todo: Not started”, “doing: In progress”, “done: Shipped”. Boards order their columns by that stage."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "One per line. Colours are assigned automatically.",
+                    "target": "One per line. Colours are assigned automatically."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Put in front of the number, e.g. TASK gives TASK-1. Cosmetic: changing it renumbers nothing.",
+                    "target": "Put in front of the number, e.g. TASK gives TASK-1. Cosmetic: changing it renumbers nothing."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Lets you drag cards into an order within a board column. The position is stored in this property, so it is visible and editable like any other.",
+                    "target": "Lets you drag cards into an order within a board column. The position is stored in this property, so it is visible and editable like any other."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "The symbol, where it sits and how the digits are grouped all follow the currency, so this is not only a symbol swap.",
+                    "target": "The symbol, where it sits and how the digits are grouped all follow the currency, so this is not only a symbol swap."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Reference properties in {braces}. Arithmetic only: + - * / ( )",
+                    "target": "Reference properties in {braces}. Arithmetic only: + - * / ( )"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Rows are linked by note title.",
+                    "target": "Rows are linked by note title."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Turns rows into a tree: a row pointing at another becomes its sub-item, indented beneath it with a fold arrow.",
+                    "target": "Turns rows into a tree: a row pointing at another becomes its sub-item, indented beneath it with a fold arrow."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Which link to follow.",
+                    "target": "Which link to follow."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "How the gathered values become one value.",
+                    "target": "How the gathered values become one value."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "A text property holding \"weekly\", \"every 3 days\", \"every Tuesday\".",
+                    "target": "A text property holding \"weekly\", \"every 3 days\", \"every Tuesday\"."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "An emoji shown above the note's title.",
+                    "target": "An emoji shown above the note's title."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "A vault path, a wikilink, or a URL. Leave blank for none.",
+                    "target": "A vault path, a wikilink, or a URL. Leave blank for none."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Name",
+                    "target": "Name"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Folder",
+                    "target": "Folder"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Add a few example rows",
+                    "target": "Add a few example rows"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Database",
+                    "target": "Database"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "View",
+                    "target": "View"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Group by",
+                    "target": "Group by"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Bucket the dates",
+                    "target": "Bucket the dates"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Date property",
+                    "target": "Date property"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Start date",
+                    "target": "Start date"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "End date",
+                    "target": "End date"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Scale",
+                    "target": "Scale"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Cover image",
+                    "target": "Cover image"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Card size",
+                    "target": "Card size"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Filter",
+                    "target": "Filter"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Sort",
+                    "target": "Sort"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Show properties",
+                    "target": "Show properties"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Show only the first",
+                    "target": "Show only the first"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Heading",
+                    "target": "Heading"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Chart type",
+                    "target": "Chart type"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Measure",
+                    "target": "Measure"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Value property",
+                    "target": "Value property"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Split into series",
+                    "target": "Split into series"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Stack the series",
+                    "target": "Stack the series"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Order",
+                    "target": "Order"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Show only the top",
+                    "target": "Show only the top"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Title",
+                    "target": "Title"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Height",
+                    "target": "Height"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Show legend",
+                    "target": "Show legend"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Show data labels",
+                    "target": "Show data labels"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Database name",
+                    "target": "Database name"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Template name",
+                    "target": "Template name"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Type",
+                    "target": "Type"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Options",
+                    "target": "Options"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Prefix",
+                    "target": "Prefix"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Use for manual ordering",
+                    "target": "Use for manual ordering"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Format",
+                    "target": "Format"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Currency",
+                    "target": "Currency"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Expression",
+                    "target": "Expression"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Related database",
+                    "target": "Related database"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Mirror it back as",
+                    "target": "Mirror it back as"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Use as the parent link",
+                    "target": "Use as the parent link"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Relation",
+                    "target": "Relation"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Property",
+                    "target": "Property"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Calculate",
+                    "target": "Calculate"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "The rule is in",
+                    "target": "The rule is in"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Move this date",
+                    "target": "Move this date"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "When this is ticked",
+                    "target": "When this is ticked"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Icon",
+                    "target": "Icon"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Choose a database…",
+                    "target": "Choose a database…"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Tasks",
+                    "target": "Tasks"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "All",
+                    "target": "All"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Optional",
+                    "target": "Optional"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Untitled",
+                    "target": "Untitled"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Notion Export/Tasks",
+                    "target": "Notion Export/Tasks"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Search…",
+                    "target": "Search…"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Status",
+                    "target": "Status"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "todo: Not started\ndoing: In progress\ndone: Complete",
+                    "target": "todo: Not started\ndoing: In progress\ndone: Complete"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Not started\nIn progress\nDone",
+                    "target": "Not started\nIn progress\nDone"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "{Current} / {Target}",
+                    "target": "{Current} / {Target}"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "🚀",
+                    "target": "🚀"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "No rows yet. Use “+ new” to add the first one.",
+                    "target": "No rows yet. Use “+ new” to add the first one."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Open",
+                    "target": "Open"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Open in new pane",
+                    "target": "Open in new pane"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Save as template",
+                    "target": "Save as template"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Delete",
+                    "target": "Delete"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Clear",
+                    "target": "Clear"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Add new option…",
+                    "target": "Add new option…"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Clear all",
+                    "target": "Clear all"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Manage templates…",
+                    "target": "Manage templates…"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "None",
+                    "target": "None"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Checked",
+                    "target": "Checked"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Unchecked",
+                    "target": "Unchecked"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Sort ascending",
+                    "target": "Sort ascending"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Sort descending",
+                    "target": "Sort descending"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Edit property…",
+                    "target": "Edit property…"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Hide property",
+                    "target": "Hide property"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "No limit",
+                    "target": "No limit"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Save this view…",
+                    "target": "Save this view…"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Export to CSV",
+                    "target": "Export to CSV"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "New property…",
+                    "target": "New property…"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Add a property…",
+                    "target": "Add a property…"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "When this changes, do that…",
+                    "target": "When this changes, do that…"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Repeating rows…",
+                    "target": "Repeating rows…"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Forget this view",
+                    "target": "Forget this view"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Open in a new tab",
+                    "target": "Open in a new tab"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "Add a property",
+                    "target": "Add a property"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Couldn't locate this block in the note — try again in reading view.",
+                    "target": "Couldn't locate this block in the note — try again in reading view."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Give the database a name first.",
+                    "target": "Give the database a name first."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Enter the folder to import.",
+                    "target": "Enter the folder to import."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "No frontmatter properties found in that folder.",
+                    "target": "No frontmatter properties found in that folder."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Could not open the browser. The issue tracker is at github.com/navysum/notion-suite.",
+                    "target": "Could not open the browser. The issue tracker is at github.com/navysum/notion-suite."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Give the template a name.",
+                    "target": "Give the template a name."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Give the property a name.",
+                    "target": "Give the property a name."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Choose which relation this rollup should follow.",
+                    "target": "Choose which relation this rollup should follow."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Choose which database this relation points at.",
+                    "target": "Choose which database this relation points at."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Could not rename that row.",
+                    "target": "Could not rename that row."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Could not move that card. See the developer console for details.",
+                    "target": "Could not move that card. See the developer console for details."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Made you a Tasks database and a page to drive it from.",
+                    "target": "Made you a Tasks database and a page to drive it from."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Database views refreshed.",
+                    "target": "Database views refreshed."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "No databases yet. Create one first.",
+                    "target": "No databases yet. Create one first."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Open a note first.",
+                    "target": "Open a note first."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Some links to the renamed row could not be updated.",
+                    "target": "Some links to the renamed row could not be updated."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "body",
+                    "source": "The notes go to your vault's trash, so this can be undone there.",
+                    "target": "The notes go to your vault's trash, so this can be undone there."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "body",
+                    "source": "Notion Suite can make you a Tasks database with a few rows, and a page showing them as a board, a table, some counts and a chart.",
+                    "target": "Notion Suite can make you a Tasks database with a few rows, and a page showing them as a board, a table, some counts and a chart."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cancelText",
+                    "source": "Not now",
+                    "target": "Not now"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "nfo-pill nfo-color-blue nfo-relation",
+                    "target": "nfo-pill nfo-color-blue nfo-relation"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "nfo-th nfo-th-name",
+                    "target": "nfo-th nfo-th-name"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "nfo-th nfo-th-actions",
+                    "target": "nfo-th nfo-th-actions"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "nfo-td nfo-calc-cell nfo-calc-label",
+                    "target": "nfo-td nfo-calc-cell nfo-calc-label"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "nfo-td nfo-calc-cell",
+                    "target": "nfo-td nfo-calc-cell"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "nfo-pill nfo-color-default",
+                    "target": "nfo-pill nfo-color-default"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "nfo-td nfo-td-name",
+                    "target": "nfo-td nfo-td-name"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "nfo-td nfo-td-actions",
+                    "target": "nfo-td nfo-td-actions"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "nfo-bulk-action nfo-bulk-danger",
+                    "target": "nfo-bulk-action nfo-bulk-danger"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "nfo-cell-input nfo-title-input",
+                    "target": "nfo-cell-input nfo-title-input"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "nfo-gallery-card nfo-gallery-add",
+                    "target": "nfo-gallery-card nfo-gallery-add"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "nfo-more-btn nfo-more-all",
+                    "target": "nfo-more-btn nfo-more-all"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "nfo-toolbar-btn nfo-toolbar-primary",
+                    "target": "nfo-toolbar-btn nfo-toolbar-primary"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "nfo-widget nfo-callout-error",
+                    "target": "nfo-widget nfo-callout-error"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "nfo-sidebar-item nfo-sidebar-view",
+                    "target": "nfo-sidebar-item nfo-sidebar-view"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "nfo-crumb nfo-crumb-current",
+                    "target": "nfo-crumb nfo-crumb-current"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "confirmText",
+                    "source": "Move it anyway",
+                    "target": "Move it anyway"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "confirmText",
+                    "source": "Add it and reorder",
+                    "target": "Add it and reorder"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "confirmText",
+                    "source": "Set it up",
+                    "target": "Set it up"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Type the trigger character in the editor to insert blocks, views and charts.",
+                    "target": "Type the trigger character in the editor to insert blocks, views and charts."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Defaults to “/”, matching Notion. A single character.",
+                    "target": "Defaults to “/”, matching Notion. A single character."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Show an emoji and a banner image at the top of notes that set them in frontmatter.",
+                    "target": "Show an emoji and a banner image at the top of notes that set them in frontmatter."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Show a row's properties at the top of its own note, editable the same way they are in a view, instead of leaving you with raw frontmatter.",
+                    "target": "Show a row's properties at the top of its own note, editable the same way they are in a view, instead of leaving you with raw frontmatter."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "A cover set to an http(s) address is fetched from that server, which tells it your IP address and when you opened the note. Off by default: everything else this plugin does stays on your machine. Covers stored in your vault always work.",
+                    "target": "A cover set to an http(s) address is fetched from that server, which tells it your IP address and when you opened the note. Off by default: everything else this plugin does stays on your machine. Covers stored in your vault always work."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "How tall the banner image is, in pixels.",
+                    "target": "How tall the banner image is, in pixels."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Apply Notion-like spacing, headings and callout styling to notes.",
+                    "target": "Apply Notion-like spacing, headings and callout styling to notes."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "New databases are created inside this folder.",
+                    "target": "New databases are created inside this folder."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Keeps every database one click away, the way Notion's sidebar does.",
+                    "target": "Keeps every database one click away, the way Notion's sidebar does."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Clicking a row opens its note in a side pane, so you keep the table or board you were working in.",
+                    "target": "Clicking a row opens its note in a side pane, so you keep the table or board you were working in."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Tighter row height in table and list views.",
+                    "target": "Tighter row height in table and list views."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Opens a bug report with your versions already filled in. Ideas are as welcome as bugs — if something is awkward rather than broken, that is worth knowing too.",
+                    "target": "Opens a bug report with your versions already filled in. Ideas are as welcome as bugs — if something is awkward rather than broken, that is worth knowing too."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Turn a folder of notes (for example a Notion export) into a database.",
+                    "target": "Turn a folder of notes (for example a Notion export) into a database."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "One text property. Add the rest as you go.",
+                    "target": "One text property. Add the rest as you go."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Status board with due dates and priorities.",
+                    "target": "Status board with due dates and priorities."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Track projects with owners, dates and progress.",
+                    "target": "Track projects with owners, dates and progress."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Quarterly goals with a completion percentage.",
+                    "target": "Quarterly goals with a completion percentage."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "One row per day, charted over time.",
+                    "target": "One row per day, charted over time."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Gallery of books with covers and ratings.",
+                    "target": "Gallery of books with covers and ratings."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Contacts with company, status and last touch.",
+                    "target": "Contacts with company, status and last touch."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Spending by category, ready to chart.",
+                    "target": "Spending by category, ready to chart."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Dated notes with attendees and follow-ups.",
+                    "target": "Dated notes with attendees and follow-ups."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Just start writing with plain text.",
+                    "target": "Just start writing with plain text."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Big section heading.",
+                    "target": "Big section heading."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Medium section heading.",
+                    "target": "Medium section heading."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Small section heading.",
+                    "target": "Small section heading."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Create a simple bulleted list.",
+                    "target": "Create a simple bulleted list."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Create a list with numbering.",
+                    "target": "Create a list with numbering."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Track tasks with a checkbox.",
+                    "target": "Track tasks with a checkbox."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Hide content inside a collapsible block.",
+                    "target": "Hide content inside a collapsible block."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "A big heading that folds its section away.",
+                    "target": "A big heading that folds its section away."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "A medium heading that folds its section away.",
+                    "target": "A medium heading that folds its section away."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "A small heading that folds its section away.",
+                    "target": "A small heading that folds its section away."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Links to every heading in this note.",
+                    "target": "Links to every heading in this note."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Shows where this note sits in your vault.",
+                    "target": "Shows where this note sits in your vault."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Add an emoji and a banner image to this note.",
+                    "target": "Add an emoji and a banner image to this note."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "A metric, progress bar, countdown, list or button.",
+                    "target": "A metric, progress bar, countdown, list or button."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Capture a quotation.",
+                    "target": "Capture a quotation."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Visually divide blocks.",
+                    "target": "Visually divide blocks."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Capture a snippet of code.",
+                    "target": "Capture a snippet of code."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Insert a simple markdown table.",
+                    "target": "Insert a simple markdown table."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Place blocks side by side.",
+                    "target": "Place blocks side by side."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Make writing stand out.",
+                    "target": "Make writing stand out."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "A helpful hint.",
+                    "target": "A helpful hint."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Something to watch out for.",
+                    "target": "Something to watch out for."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "A serious warning.",
+                    "target": "A serious warning."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Confirm something went well.",
+                    "target": "Confirm something went well."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Pose an open question.",
+                    "target": "Pose an open question."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Create a brand-new database and embed it here.",
+                    "target": "Create a brand-new database and embed it here."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Embed a table, board, gallery, list or calendar.",
+                    "target": "Embed a table, board, gallery, list or calendar."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Create a new row in an existing database.",
+                    "target": "Create a new row in an existing database."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Bar, line, pie or donut built from your data.",
+                    "target": "Bar, line, pie or donut built from your data."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Insert tomorrow's date.",
+                    "target": "Insert tomorrow's date."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Link to another note in your vault.",
+                    "target": "Link to another note in your vault."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Show another note inline.",
+                    "target": "Show another note inline."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Insert a LaTeX block equation.",
+                    "target": "Insert a LaTeX block equation."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Emphasise a phrase.",
+                    "target": "Emphasise a phrase."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "detail",
+                    "source": "Keeping them leaves them pointing at a note that no longer exists, so they become top-level rows.",
+                    "target": "Keeping them leaves them pointing at a note that no longer exists, so they become top-level rows."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "detail",
+                    "source": "Keeping them leaves them pointing at notes that no longer exist, so they become top-level rows.",
+                    "target": "Keeping them leaves them pointing at notes that no longer exist, so they become top-level rows."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "detail",
+                    "source": "Limits are a reminder, not a rule. Moving it anyway is fine.",
+                    "target": "Limits are a reminder, not a rule. Moving it anyway is fine."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "detail",
+                    "source": "It is an ordinary number in each note's frontmatter, so the order survives without this plugin. It stays hidden from your views.",
+                    "target": "It is an ordinary number in each note's frontmatter, so the order survives without this plugin. It stays hidden from your views."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "detail",
+                    "source": "Everything on it is an ordinary block you can change, copy or delete. You can also do this later from the command palette.",
+                    "target": "Everything on it is an ordinary block you can change, copy or delete. You can also do this later from the command palette."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "Expected `key: value` lines inside this block.",
+                    "target": "Expected `key: value` lines inside this block."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "Missing `database:` — name the database this view should show.",
+                    "target": "Missing `database:` — name the database this view should show."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "Missing `database:` — name the database to chart.",
+                    "target": "Missing `database:` — name the database to chart."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "Missing `group:` — name the property whose values become the bars or slices.",
+                    "target": "Missing `group:` — name the property whose values become the bars or slices."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "Missing `database:` — name the database this metric counts.",
+                    "target": "Missing `database:` — name the database this metric counts."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "Missing `database:` — name the database this bar measures.",
+                    "target": "Missing `database:` — name the database this bar measures."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "Missing `filter:` — say what counts as done, for example `filter: Status is Done`.",
+                    "target": "Missing `filter:` — say what counts as done, for example `filter: Status is Done`."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "A countdown needs either `date: 2026-01-01` or `database:` plus `date_property:`.",
+                    "target": "A countdown needs either `date: 2026-01-01` or `database:` plus `date_property:`."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "Missing `date_property:` — name the date property to count down to.",
+                    "target": "Missing `date_property:` — name the date property to count down to."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "Missing `database:` — name the database to list rows from.",
+                    "target": "Missing `database:` — name the database to list rows from."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "Missing `database:` — name the database this button adds to.",
+                    "target": "Missing `database:` — name the database this button adds to."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "`set:` should be a list of `Property: value` lines, indented under `set:`.",
+                    "target": "`set:` should be a list of `Property: value` lines, indented under `set:`."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "Expected `key: value` lines describing a widget.",
+                    "target": "Expected `key: value` lines describing a widget."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "`widgets:` should be a list — one `- widget: ...` entry per card.",
+                    "target": "`widgets:` should be a list — one `- widget: ...` entry per card."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "`widgets:` is empty — add at least one `- widget: ...` entry.",
+                    "target": "`widgets:` is empty — add at least one `- widget: ...` entry."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "Editing",
+                    "target": "Editing"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "Databases",
+                    "target": "Databases"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "US dollar ($)",
+                    "target": "US dollar ($)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Euro (€)",
+                    "target": "Euro (€)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Pound sterling (£)",
+                    "target": "Pound sterling (£)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Japanese yen (¥)",
+                    "target": "Japanese yen (¥)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Chinese yuan (¥)",
+                    "target": "Chinese yuan (¥)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Indian rupee (₹)",
+                    "target": "Indian rupee (₹)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Australian dollar (A$)",
+                    "target": "Australian dollar (A$)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Canadian dollar (C$)",
+                    "target": "Canadian dollar (C$)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Swiss franc (CHF)",
+                    "target": "Swiss franc (CHF)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Swedish krona (kr)",
+                    "target": "Swedish krona (kr)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Norwegian krone (kr)",
+                    "target": "Norwegian krone (kr)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Danish krone (kr)",
+                    "target": "Danish krone (kr)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Polish złoty (zł)",
+                    "target": "Polish złoty (zł)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Czech koruna (Kč)",
+                    "target": "Czech koruna (Kč)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Hungarian forint (Ft)",
+                    "target": "Hungarian forint (Ft)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Romanian leu (lei)",
+                    "target": "Romanian leu (lei)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Turkish lira (₺)",
+                    "target": "Turkish lira (₺)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Russian rouble (₽)",
+                    "target": "Russian rouble (₽)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Ukrainian hryvnia (₴)",
+                    "target": "Ukrainian hryvnia (₴)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Brazilian real (R$)",
+                    "target": "Brazilian real (R$)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Mexican peso (MX$)",
+                    "target": "Mexican peso (MX$)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Argentine peso (ARS)",
+                    "target": "Argentine peso (ARS)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Chilean peso (CLP)",
+                    "target": "Chilean peso (CLP)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Colombian peso (COP)",
+                    "target": "Colombian peso (COP)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "South African rand (R)",
+                    "target": "South African rand (R)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Nigerian naira (₦)",
+                    "target": "Nigerian naira (₦)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Kenyan shilling (KSh)",
+                    "target": "Kenyan shilling (KSh)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Egyptian pound (E£)",
+                    "target": "Egyptian pound (E£)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "UAE dirham (AED)",
+                    "target": "UAE dirham (AED)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Saudi riyal (SAR)",
+                    "target": "Saudi riyal (SAR)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Israeli shekel (₪)",
+                    "target": "Israeli shekel (₪)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "South Korean won (₩)",
+                    "target": "South Korean won (₩)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Singapore dollar (S$)",
+                    "target": "Singapore dollar (S$)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Hong Kong dollar (HK$)",
+                    "target": "Hong Kong dollar (HK$)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "New Taiwan dollar (NT$)",
+                    "target": "New Taiwan dollar (NT$)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Thai baht (฿)",
+                    "target": "Thai baht (฿)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Malaysian ringgit (RM)",
+                    "target": "Malaysian ringgit (RM)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Indonesian rupiah (Rp)",
+                    "target": "Indonesian rupiah (Rp)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Philippine peso (₱)",
+                    "target": "Philippine peso (₱)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Vietnamese dong (₫)",
+                    "target": "Vietnamese dong (₫)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Pakistani rupee (₨)",
+                    "target": "Pakistani rupee (₨)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Bangladeshi taka (৳)",
+                    "target": "Bangladeshi taka (৳)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Sri Lankan rupee (Rs)",
+                    "target": "Sri Lankan rupee (Rs)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "New Zealand dollar (NZ$)",
+                    "target": "New Zealand dollar (NZ$)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Delete only this row",
+                    "target": "Delete only this row"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Table",
+                    "target": "Table"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Name",
+                    "target": "Name"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Blank",
+                    "target": "Blank"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Notes",
+                    "target": "Notes"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Task tracker",
+                    "target": "Task tracker"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Due",
+                    "target": "Due"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Done",
+                    "target": "Done"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Set up my first database",
+                    "target": "Set up my first database"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Try the board view",
+                    "target": "Try the board view"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Read the plugin README",
+                    "target": "Read the plugin README"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Projects",
+                    "target": "Projects"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Owner",
+                    "target": "Owner"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Start",
+                    "target": "Start"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Target",
+                    "target": "Target"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Progress",
+                    "target": "Progress"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Link",
+                    "target": "Link"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Goals",
+                    "target": "Goals"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Current",
+                    "target": "Current"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Completion",
+                    "target": "Completion"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Achieved",
+                    "target": "Achieved"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Habit log",
+                    "target": "Habit log"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Date",
+                    "target": "Date"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Completed",
+                    "target": "Completed"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Minutes",
+                    "target": "Minutes"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Reading list",
+                    "target": "Reading list"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Author",
+                    "target": "Author"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Cover",
+                    "target": "Cover"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Rating",
+                    "target": "Rating"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Finished",
+                    "target": "Finished"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "People / CRM",
+                    "target": "People / CRM"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Company",
+                    "target": "Company"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Email",
+                    "target": "Email"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Phone",
+                    "target": "Phone"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Last contact",
+                    "target": "Last contact"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Expenses",
+                    "target": "Expenses"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Amount",
+                    "target": "Amount"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Reimbursable",
+                    "target": "Reimbursable"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Meeting notes",
+                    "target": "Meeting notes"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Attendees",
+                    "target": "Attendees"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Follow-up needed",
+                    "target": "Follow-up needed"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Slash command menu",
+                    "target": "Slash command menu"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Trigger character",
+                    "target": "Trigger character"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Page icons and covers",
+                    "target": "Page icons and covers"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Properties on the page",
+                    "target": "Properties on the page"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Load covers from the web",
+                    "target": "Load covers from the web"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Cover height",
+                    "target": "Cover height"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Notion typography",
+                    "target": "Notion typography"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Default folder",
+                    "target": "Default folder"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Show the databases sidebar on startup",
+                    "target": "Show the databases sidebar on startup"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Open rows beside the view",
+                    "target": "Open rows beside the view"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Compact rows",
+                    "target": "Compact rows"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Report a problem",
+                    "target": "Report a problem"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Import an existing folder",
+                    "target": "Import an existing folder"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "New database",
+                    "target": "New database"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Order",
+                    "target": "Order"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Tasks",
+                    "target": "Tasks"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Board",
+                    "target": "Board"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Show the databases sidebar",
+                    "target": "Show the databases sidebar"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Open a database",
+                    "target": "Open a database"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Assign unique IDs to existing rows",
+                    "target": "Assign unique IDs to existing rows"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Set up an example database and page",
+                    "target": "Set up an example database and page"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Insert database view",
+                    "target": "Insert database view"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Insert chart from database",
+                    "target": "Insert chart from database"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Add item to a database",
+                    "target": "Add item to a database"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Add a property to a database",
+                    "target": "Add a property to a database"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Turn a folder into a database",
+                    "target": "Turn a folder into a database"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Toggle the slash menu",
+                    "target": "Toggle the slash menu"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Set this note's icon and cover",
+                    "target": "Set this note's icon and cover"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Toggle the checkbox property on the active row",
+                    "target": "Toggle the checkbox property on the active row"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Refresh all database views",
+                    "target": "Refresh all database views"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "placeholder",
+                    "source": "Databases",
+                    "target": "Databases"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Text",
+                    "target": "Text"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "No data matches this chart.",
+                    "target": "No data matches this chart."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Add a condition",
+                    "target": "Add a condition"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "This filter has brackets in it, so it is edited as text.",
+                    "target": "This filter has brackets in it, so it is edited as text."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Start again with rows",
+                    "target": "Start again with rows"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Show rows where",
+                    "target": "Show rows where"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "of these match:",
+                    "target": "of these match:"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "No conditions — every row is shown.",
+                    "target": "No conditions — every row is shown."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "No sort — rows stay in file order.",
+                    "target": "No sort — rows stay in file order."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "New database",
+                    "target": "New database"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "A database is a folder of notes. Each note is a row, and its properties live in the note's frontmatter — so everything stays plain markdown.",
+                    "target": "A database is a folder of notes. Each note is a row, and its properties live in the note's frontmatter — so everything stays plain markdown."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "No databases yet — create one first with “Notion: New database”.",
+                    "target": "No databases yet — create one first with “Notion: New database”."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "No databases yet — create one first.",
+                    "target": "No databases yet — create one first."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Nothing to preview yet.",
+                    "target": "Nothing to preview yet."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Turn a folder into a database",
+                    "target": "Turn a folder into a database"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Reads the frontmatter of every note in the folder and guesses a property for each key. Ideal for a Notion export.",
+                    "target": "Reads the frontmatter of every note in the folder and guesses a property for each key. Ideal for a Notion export."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Save as template",
+                    "target": "Save as template"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "None yet. Set a row up the way you like, then right-click it and choose “Save as template”.",
+                    "target": "None yet. Set a row up the way you like, then right-click it and choose “Save as template”."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Save this view",
+                    "target": "Save this view"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "It will appear under this database in the sidebar.",
+                    "target": "It will appear under this database in the sidebar."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "A view with this name already exists and will be replaced.",
+                    "target": "A view with this name already exists and will be replaced."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Empty",
+                    "target": "Empty"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "A rollup reaches through a relation, so this database needs a relation property first. Add one (type: Relation) pointing at the database you want to pull numbers from, then come back.",
+                    "target": "A rollup reaches through a relation, so this database needs a relation property first. Add one (type: Relation) pointing at the database you want to pull numbers from, then come back."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Name",
+                    "target": "Name"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "New",
+                    "target": "New"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Calculate",
+                    "target": "Calculate"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Set a property",
+                    "target": "Set a property"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Delete",
+                    "target": "Delete"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Clear selection",
+                    "target": "Clear selection"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Board view needs a `group` property (a select, multi-select or checkbox).",
+                    "target": "Board view needs a `group` property (a select, multi-select or checkbox)."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "No rows match this view.",
+                    "target": "No rows match this view."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Calendar view needs a `date` property. Add one to the database, or set `date: <property>` on the view.",
+                    "target": "Calendar view needs a `date` property. Add one to the database, or set `date: <property>` on the view."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Today",
+                    "target": "Today"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Timeline view needs a `date` property. Add one to the database, or set `start: <property>` (and optionally `end: <property>`) on the view.",
+                    "target": "Timeline view needs a `date` property. Add one to the database, or set `start: <property>` (and optionally `end: <property>`) on the view."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "No rows to show.",
+                    "target": "No rows to show."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Show all",
+                    "target": "Show all"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Properties",
+                    "target": "Properties"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Notion for Obsidian",
+                    "target": "Notion for Obsidian"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Nothing to show yet.",
+                    "target": "Nothing to show yet."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Repeating rows",
+                    "target": "Repeating rows"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Ticking a row off creates the next one, with everything else about it copied across. Nothing appears until you finish the last one, so a fortnight away does not leave you fourteen identical rows.",
+                    "target": "Ticking a row off creates the next one, with everything else about it copied across. Nothing appears until you finish the last one, so a fortnight away does not leave you fourteen identical rows."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "This needs a text property for the rule, a date property to move, and a checkbox to tick. Add whichever is missing first.",
+                    "target": "This needs a text property for the rule, a date property to move, and a checkbox to tick. Add whichever is missing first."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Understood rules: daily · weekly · fortnightly · monthly · quarterly · yearly · every 3 days · every other week · every Tuesday · weekdays",
+                    "target": "Understood rules: daily · weekly · fortnightly · monthly · quarterly · yearly · every 3 days · every other week · every Tuesday · weekdays"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "When this changes, do that",
+                    "target": "When this changes, do that"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "A rule watches one property and writes another. It fires on a change, so re-picking a value it already had does nothing — a completion date is stamped once, not every time somebody opens the menu.",
+                    "target": "A rule watches one property and writes another. It fires on a change, so re-picking a value it already had does nothing — a completion date is stamped once, not every time somebody opens the menu."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Add a rule",
+                    "target": "Add a rule"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "This database needs at least two editable properties before a rule can do anything.",
+                    "target": "This database needs at least two editable properties before a rule can do anything."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "No rules — nothing happens on its own.",
+                    "target": "No rules — nothing happens on its own."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "When",
+                    "target": "When"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "becomes",
+                    "target": "becomes"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "anything",
+                    "target": "anything"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "checked",
+                    "target": "checked"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "unchecked",
+                    "target": "unchecked"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "set",
+                    "target": "set"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "to",
+                    "target": "to"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "today",
+                    "target": "today"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "clear it",
+                    "target": "clear it"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "This database no longer exists. It may have been removed from settings.",
+                    "target": "This database no longer exists. It may have been removed from settings."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Databases",
+                    "target": "Databases"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "No databases yet.",
+                    "target": "No databases yet."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Create your first one",
+                    "target": "Create your first one"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "…or set up an example to look at",
+                    "target": "…or set up an example to look at"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "No headings in this note yet.",
+                    "target": "No headings in this note yet."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Add a property",
+                    "target": "Add a property"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "A board needs a property to group by. Choose one under “Group by” in this view's settings.",
+                    "target": "A board needs a property to group by. Choose one under “Group by” in this view's settings."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "No value",
+                    "target": "No value"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Page icon and cover",
+                    "target": "Page icon and cover"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Notion Suite",
+                    "target": "Notion Suite"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Over the limit",
+                    "target": "Over the limit"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Remember this order?",
+                    "target": "Remember this order?"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Text",
+                    "target": "Text"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Heading 1",
+                    "target": "Heading 1"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Heading 2",
+                    "target": "Heading 2"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Heading 3",
+                    "target": "Heading 3"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Bulleted list",
+                    "target": "Bulleted list"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Numbered list",
+                    "target": "Numbered list"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "To-do list",
+                    "target": "To-do list"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Toggle list",
+                    "target": "Toggle list"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Toggle heading 1",
+                    "target": "Toggle heading 1"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Toggle heading 2",
+                    "target": "Toggle heading 2"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Toggle heading 3",
+                    "target": "Toggle heading 3"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Table of contents",
+                    "target": "Table of contents"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Breadcrumb",
+                    "target": "Breadcrumb"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Page icon and cover",
+                    "target": "Page icon and cover"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Widget",
+                    "target": "Widget"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Quote",
+                    "target": "Quote"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Divider",
+                    "target": "Divider"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Code",
+                    "target": "Code"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Table",
+                    "target": "Table"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Columns",
+                    "target": "Columns"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Callout",
+                    "target": "Callout"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Callout: tip",
+                    "target": "Callout: tip"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Callout: warning",
+                    "target": "Callout: warning"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Callout: danger",
+                    "target": "Callout: danger"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Callout: success",
+                    "target": "Callout: success"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Callout: question",
+                    "target": "Callout: question"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Database — new",
+                    "target": "Database — new"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Database — view",
+                    "target": "Database — view"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Database — add item",
+                    "target": "Database — add item"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Chart from database",
+                    "target": "Chart from database"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Date — today",
+                    "target": "Date — today"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Date — tomorrow",
+                    "target": "Date — tomorrow"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Link to page",
+                    "target": "Link to page"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Embed page",
+                    "target": "Embed page"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Equation",
+                    "target": "Equation"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Highlight",
+                    "target": "Highlight"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Set up an example to look at?",
+                    "target": "Set up an example to look at?"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "type",
+                    "source": "checkbox",
+                    "target": "checkbox"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "type",
+                    "source": "text",
+                    "target": "text"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "type",
+                    "source": "date",
+                    "target": "date"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "type",
+                    "source": "search",
+                    "target": "search"
+                }
+            ],
+            "regex": [
+                {
+                    "source": "setDesc(\"Where the row notes are stored.\")",
+                    "target": "setDesc(\"Where the row notes are stored.\")"
+                },
+                {
+                    "source": "setName(\"Add a few example rows\")",
+                    "target": "setName(\"Add a few example rows\")"
+                },
+                {
+                    "source": "setDesc(\"Handy for seeing the views working straight away.\")",
+                    "target": "setDesc(\"Handy for seeing the views working straight away.\")"
+                },
+                {
+                    "source": "setButtonText(\"Create database\")",
+                    "target": "setButtonText(\"Create database\")"
+                },
+                {
+                    "source": "Notice(\"Give the database a name first.\")",
+                    "target": "Notice(\"Give the database a name first.\")"
+                },
+                {
+                    "source": "setName(\"Group by\")",
+                    "target": "setName(\"Group by\")"
+                },
+                {
+                    "source": "setDesc(\"Each value becomes a column.\")",
+                    "target": "setDesc(\"Each value becomes a column.\")"
+                },
+                {
+                    "source": "setDesc(\"Splits the table into foldable bands, each with its own totals.\")",
+                    "target": "setDesc(\"Splits the table into foldable bands, each with its own totals.\")"
+                },
+                {
+                    "source": "setName(\"Bucket the dates\")",
+                    "target": "setName(\"Bucket the dates\")"
+                },
+                {
+                    "source": "setName(\"Date property\")",
+                    "target": "setName(\"Date property\")"
+                },
+                {
+                    "source": "setName(\"Start date\")",
+                    "target": "setName(\"Start date\")"
+                },
+                {
+                    "source": "setDesc(\"Where each bar begins.\")",
+                    "target": "setDesc(\"Where each bar begins.\")"
+                },
+                {
+                    "source": "setName(\"End date\")",
+                    "target": "setName(\"End date\")"
+                },
+                {
+                    "source": "setDesc(\"Leave as None to mark single days instead of bars.\")",
+                    "target": "setDesc(\"Leave as None to mark single days instead of bars.\")"
+                },
+                {
+                    "source": "setName(\"Cover image\")",
+                    "target": "setName(\"Cover image\")"
+                },
+                {
+                    "source": "setDesc(\"Property holding an image path or URL.\")",
+                    "target": "setDesc(\"Property holding an image path or URL.\")"
+                },
+                {
+                    "source": "setName(\"Card size\")",
+                    "target": "setName(\"Card size\")"
+                },
+                {
+                    "source": "setName(\"Show properties\")",
+                    "target": "setName(\"Show properties\")"
+                },
+                {
+                    "source": "setDesc(\"Comma-separated, in order. Blank shows all of them.\")",
+                    "target": "setDesc(\"Comma-separated, in order. Blank shows all of them.\")"
+                },
+                {
+                    "source": "setName(\"Show only the first\")",
+                    "target": "setName(\"Show only the first\")"
+                },
+                {
+                    "source": "setDesc(\"Leave blank for every row.\")",
+                    "target": "setDesc(\"Leave blank for every row.\")"
+                },
+                {
+                    "source": "setDesc(\"Shown in the view's toolbar instead of the database name.\")",
+                    "target": "setDesc(\"Shown in the view's toolbar instead of the database name.\")"
+                },
+                {
+                    "source": "setName(\"Chart type\")",
+                    "target": "setName(\"Chart type\")"
+                },
+                {
+                    "source": "setDesc(\"Each value of this property becomes a bar or slice.\")",
+                    "target": "setDesc(\"Each value of this property becomes a bar or slice.\")"
+                },
+                {
+                    "source": "setDesc(\"How each group is turned into a number.\")",
+                    "target": "setDesc(\"How each group is turned into a number.\")"
+                },
+                {
+                    "source": "setName(\"Value property\")",
+                    "target": "setName(\"Value property\")"
+                },
+                {
+                    "source": "setName(\"Split into series\")",
+                    "target": "setName(\"Split into series\")"
+                },
+                {
+                    "source": "setDesc(\"Optional second grouping, drawn as separate colours.\")",
+                    "target": "setDesc(\"Optional second grouping, drawn as separate colours.\")"
+                },
+                {
+                    "source": "setName(\"Stack the series\")",
+                    "target": "setName(\"Stack the series\")"
+                },
+                {
+                    "source": "setDesc(\"Off places them side by side.\")",
+                    "target": "setDesc(\"Off places them side by side.\")"
+                },
+                {
+                    "source": "setName(\"Show only the top\")",
+                    "target": "setName(\"Show only the top\")"
+                },
+                {
+                    "source": "setDesc(\"Leave blank for every group.\")",
+                    "target": "setDesc(\"Leave blank for every group.\")"
+                },
+                {
+                    "source": "setDesc(\"Pixels. Blank uses the default.\")",
+                    "target": "setDesc(\"Pixels. Blank uses the default.\")"
+                },
+                {
+                    "source": "setName(\"Show legend\")",
+                    "target": "setName(\"Show legend\")"
+                },
+                {
+                    "source": "setName(\"Show data labels\")",
+                    "target": "setName(\"Show data labels\")"
+                },
+                {
+                    "source": "setDesc(\"Vault-relative, e.g. Notion Export/Tasks\")",
+                    "target": "setDesc(\"Vault-relative, e.g. Notion Export/Tasks\")"
+                },
+                {
+                    "source": "setPlaceholder(\"Notion Export/Tasks\")",
+                    "target": "setPlaceholder(\"Notion Export/Tasks\")"
+                },
+                {
+                    "source": "setName(\"Database name\")",
+                    "target": "setName(\"Database name\")"
+                },
+                {
+                    "source": "Notice(\"Enter the folder to import.\")",
+                    "target": "Notice(\"Enter the folder to import.\")"
+                },
+                {
+                    "source": "Notice(\"No frontmatter properties found in that folder.\")",
+                    "target": "Notice(\"No frontmatter properties found in that folder.\")"
+                },
+                {
+                    "source": "error(`Notion Suite: ${t} failed`,e),new Lo.Notice(`Could not ${t}.`)",
+                    "target": "error(`Notion Suite: ${t} failed`,e),new Lo.Notice(`Could not ${t}.`)"
+                },
+                {
+                    "source": "error(\"Notion Suite: could not open the issue page\",r),new hn.Notice(\"Could not open the browser. The issue tracker is at github.com/navysum/notion-suite.\")",
+                    "target": "error(\"Notion Suite: could not open the issue page\",r),new hn.Notice(\"Could not open the browser. The issue tracker is at github.com/navysum/notion-suite.\")"
+                },
+                {
+                    "source": "setTooltip(\"Add a property\")",
+                    "target": "setTooltip(\"Add a property\")"
+                },
+                {
+                    "source": "setName(\"Template name\")",
+                    "target": "setName(\"Template name\")"
+                },
+                {
+                    "source": "setButtonText(\"Save template\")",
+                    "target": "setButtonText(\"Save template\")"
+                },
+                {
+                    "source": "Notice(\"Give the template a name.\")",
+                    "target": "Notice(\"Give the template a name.\")"
+                },
+                {
+                    "source": "setDesc(`${a} ${a===1?\"property\":\"properties\"} pre-filled`)",
+                    "target": "setDesc(`${a} ${a===1?\"property\":\"properties\"} pre-filled`)"
+                },
+                {
+                    "source": "error(`Notion Suite: ${n} failed`,r),new Dn.Notice(`Could not ${n}. Your note was not changed.`)",
+                    "target": "error(`Notion Suite: ${n} failed`,r),new Dn.Notice(`Could not ${n}. Your note was not changed.`)"
+                },
+                {
+                    "source": "setTitle(\"Open in new pane\")",
+                    "target": "setTitle(\"Open in new pane\")"
+                },
+                {
+                    "source": "setTitle(\"Save as template\")",
+                    "target": "setTitle(\"Save as template\")"
+                },
+                {
+                    "source": "setTitle(\"Clear all\")",
+                    "target": "setTitle(\"Clear all\")"
+                },
+                {
+                    "source": "setButtonText(\"Clear the value\")",
+                    "target": "setButtonText(\"Clear the value\")"
+                },
+                {
+                    "source": "setPlaceholder(`todo: Not started\ndoing: In progress\ndone: Complete`)",
+                    "target": "setPlaceholder(`todo: Not started\ndoing: In progress\ndone: Complete`)"
+                },
+                {
+                    "source": "setDesc(\"One per line. Colours are assigned automatically.\")",
+                    "target": "setDesc(\"One per line. Colours are assigned automatically.\")"
+                },
+                {
+                    "source": "setPlaceholder(`Not started\nIn progress\nDone`)",
+                    "target": "setPlaceholder(`Not started\nIn progress\nDone`)"
+                },
+                {
+                    "source": "setDesc(\"Put in front of the number, e.g. TASK gives TASK-1. Cosmetic: changing it renumbers nothing.\")",
+                    "target": "setDesc(\"Put in front of the number, e.g. TASK gives TASK-1. Cosmetic: changing it renumbers nothing.\")"
+                },
+                {
+                    "source": "setName(\"Use for manual ordering\")",
+                    "target": "setName(\"Use for manual ordering\")"
+                },
+                {
+                    "source": "setDesc(\"Lets you drag cards into an order within a board column. The position is stored in this property, so it is visible and editable like any other.\")",
+                    "target": "setDesc(\"Lets you drag cards into an order within a board column. The position is stored in this property, so it is visible and editable like any other.\")"
+                },
+                {
+                    "source": "setDesc(\"The symbol, where it sits and how the digits are grouped all follow the currency, so this is not only a symbol swap.\")",
+                    "target": "setDesc(\"The symbol, where it sits and how the digits are grouped all follow the currency, so this is not only a symbol swap.\")"
+                },
+                {
+                    "source": "setDesc(\"Reference properties in {braces}. Arithmetic only: + - * / ( )\")",
+                    "target": "setDesc(\"Reference properties in {braces}. Arithmetic only: + - * / ( )\")"
+                },
+                {
+                    "source": "setPlaceholder(\"{Current} / {Target}\")",
+                    "target": "setPlaceholder(\"{Current} / {Target}\")"
+                },
+                {
+                    "source": "setName(\"Related database\")",
+                    "target": "setName(\"Related database\")"
+                },
+                {
+                    "source": "setDesc(\"Rows are linked by note title.\")",
+                    "target": "setDesc(\"Rows are linked by note title.\")"
+                },
+                {
+                    "source": "setName(\"Mirror it back as\")",
+                    "target": "setName(\"Mirror it back as\")"
+                },
+                {
+                    "source": "setDesc(`Makes the relation two-way: linking a row here adds this row to that property on the ${i.name} side, and unlinking removes it. Leave it off for a one-way link.`)",
+                    "target": "setDesc(`Makes the relation two-way: linking a row here adds this row to that property on the ${i.name} side, and unlinking removes it. Leave it off for a one-way link.`)"
+                },
+                {
+                    "source": "setName(\"Use as the parent link\")",
+                    "target": "setName(\"Use as the parent link\")"
+                },
+                {
+                    "source": "setDesc(\"Turns rows into a tree: a row pointing at another becomes its sub-item, indented beneath it with a fold arrow.\")",
+                    "target": "setDesc(\"Turns rows into a tree: a row pointing at another becomes its sub-item, indented beneath it with a fold arrow.\")"
+                },
+                {
+                    "source": "setDesc(\"Which link to follow.\")",
+                    "target": "setDesc(\"Which link to follow.\")"
+                },
+                {
+                    "source": "setDesc(`Which property of each related ${i.name} row to gather.`)",
+                    "target": "setDesc(`Which property of each related ${i.name} row to gather.`)"
+                },
+                {
+                    "source": "setDesc(\"How the gathered values become one value.\")",
+                    "target": "setDesc(\"How the gathered values become one value.\")"
+                },
+                {
+                    "source": "Notice(\"Give the property a name.\")",
+                    "target": "Notice(\"Give the property a name.\")"
+                },
+                {
+                    "source": "Notice(\"Choose which relation this rollup should follow.\")",
+                    "target": "Notice(\"Choose which relation this rollup should follow.\")"
+                },
+                {
+                    "source": "Notice(\"Choose which database this relation points at.\")",
+                    "target": "Notice(\"Choose which database this relation points at.\")"
+                },
+                {
+                    "source": "setText(`${r.length} ${r.length===1?\"row\":\"rows\"}`)",
+                    "target": "setText(`${r.length} ${r.length===1?\"row\":\"rows\"}`)"
+                },
+                {
+                    "source": "error(\"Notion Suite: renaming a row failed\",p),new I.Notice(\"Could not rename that row.\")",
+                    "target": "error(\"Notion Suite: renaming a row failed\",p),new I.Notice(\"Could not rename that row.\")"
+                },
+                {
+                    "source": "setTitle(\"Sort ascending\")",
+                    "target": "setTitle(\"Sort ascending\")"
+                },
+                {
+                    "source": "setTitle(\"Sort descending\")",
+                    "target": "setTitle(\"Sort descending\")"
+                },
+                {
+                    "source": "setTitle(\"Hide property\")",
+                    "target": "setTitle(\"Hide property\")"
+                },
+                {
+                    "source": "setTitle(`Limit ${l}`)",
+                    "target": "setTitle(`Limit ${l}`)"
+                },
+                {
+                    "source": "setTitle(\"No limit\")",
+                    "target": "setTitle(\"No limit\")"
+                },
+                {
+                    "source": "error(\"Notion Suite: moving a card failed\",n),new ke.Notice(\"Could not move that card. See the developer console for details.\")",
+                    "target": "error(\"Notion Suite: moving a card failed\",n),new ke.Notice(\"Could not move that card. See the developer console for details.\")"
+                },
+                {
+                    "source": "Notice(`Exported ${r.length} ${r.length===1?\"row\":\"rows\"} to ${o}`)",
+                    "target": "Notice(`Exported ${r.length} ${r.length===1?\"row\":\"rows\"} to ${o}`)"
+                },
+                {
+                    "source": "setTitle(\"Export to CSV\")",
+                    "target": "setTitle(\"Export to CSV\")"
+                },
+                {
+                    "source": "setName(\"The rule is in\")",
+                    "target": "setName(\"The rule is in\")"
+                },
+                {
+                    "source": "setDesc('A text property holding \"weekly\", \"every 3 days\", \"every Tuesday\".')",
+                    "target": "setDesc('A text property holding \"weekly\", \"every 3 days\", \"every Tuesday\".')"
+                },
+                {
+                    "source": "setName(\"Move this date\")",
+                    "target": "setName(\"Move this date\")"
+                },
+                {
+                    "source": "setName(\"When this is ticked\")",
+                    "target": "setName(\"When this is ticked\")"
+                },
+                {
+                    "source": "setTitle(`Open as ${i}`)",
+                    "target": "setTitle(`Open as ${i}`)"
+                },
+                {
+                    "source": "Notice(`Exported ${a.length} rows to ${c}`)",
+                    "target": "Notice(`Exported ${a.length} rows to ${c}`)"
+                },
+                {
+                    "source": "Notice(\"Made you a Tasks database and a page to drive it from.\")",
+                    "target": "Notice(\"Made you a Tasks database and a page to drive it from.\")"
+                },
+                {
+                    "source": "setTitle(\"Forget this view\")",
+                    "target": "setTitle(\"Forget this view\")"
+                },
+                {
+                    "source": "setTitle(\"Open in a new tab\")",
+                    "target": "setTitle(\"Open in a new tab\")"
+                },
+                {
+                    "source": "error(\"Notion Suite: could not register the board with Bases\",r),!1}}var Ie=require(\"obsidian\")",
+                    "target": "error(\"Notion Suite: could not register the board with Bases\",r),!1}}var Ie=require(\"obsidian\")"
+                },
+                {
+                    "source": "setDesc(\"An emoji shown above the note's title.\")",
+                    "target": "setDesc(\"An emoji shown above the note's title.\")"
+                },
+                {
+                    "source": "setDesc(\"A vault path, a wikilink, or a URL. Leave blank for none.\")",
+                    "target": "setDesc(\"A vault path, a wikilink, or a URL. Leave blank for none.\")"
+                },
+                {
+                    "source": "setButtonText(\"Remove both\")",
+                    "target": "setButtonText(\"Remove both\")"
+                },
+                {
+                    "source": "Notice(`Slash menu ${this.settings.enableSlashMenu?\"enabled\":\"disabled\"}.`)",
+                    "target": "Notice(`Slash menu ${this.settings.enableSlashMenu?\"enabled\":\"disabled\"}.`)"
+                },
+                {
+                    "source": "Notice(\"Database views refreshed.\")",
+                    "target": "Notice(\"Database views refreshed.\")"
+                },
+                {
+                    "source": "Notice(\"No databases yet. Create one first.\")",
+                    "target": "Notice(\"No databases yet. Create one first.\")"
+                },
+                {
+                    "source": "Notice(\"Open a note first.\")",
+                    "target": "Notice(\"Open a note first.\")"
+                },
+                {
+                    "source": "error(\"Notion Suite: could not repoint links after a rename\",o),new X.Notice(\"Some links to the renamed row could not be updated.\")",
+                    "target": "error(\"Notion Suite: could not repoint links after a rename\",o),new X.Notice(\"Some links to the renamed row could not be updated.\")"
+                },
+                {
+                    "source": "text:\"No data matches this chart.\"",
+                    "target": "text:\"No data matches this chart.\""
+                },
+                {
+                    "source": "textContent=`${e.labels[p]}: ${de(u)} (${x}%)`",
+                    "target": "textContent=`${e.labels[p]}: ${de(u)} (${x}%)`"
+                },
+                {
+                    "source": "description:\"One text property. Add the rest as you go.\"",
+                    "target": "description:\"One text property. Add the rest as you go.\""
+                },
+                {
+                    "source": "name:\"Task tracker\"",
+                    "target": "name:\"Task tracker\""
+                },
+                {
+                    "source": "description:\"Status board with due dates and priorities.\"",
+                    "target": "description:\"Status board with due dates and priorities.\""
+                },
+                {
+                    "source": "name:\"Set up my first database\"",
+                    "target": "name:\"Set up my first database\""
+                },
+                {
+                    "source": "name:\"Try the board view\"",
+                    "target": "name:\"Try the board view\""
+                },
+                {
+                    "source": "name:\"Read the plugin README\"",
+                    "target": "name:\"Read the plugin README\""
+                },
+                {
+                    "source": "description:\"Track projects with owners, dates and progress.\"",
+                    "target": "description:\"Track projects with owners, dates and progress.\""
+                },
+                {
+                    "source": "description:\"Quarterly goals with a completion percentage.\"",
+                    "target": "description:\"Quarterly goals with a completion percentage.\""
+                },
+                {
+                    "source": "name:\"Habit log\"",
+                    "target": "name:\"Habit log\""
+                },
+                {
+                    "source": "description:\"One row per day, charted over time.\"",
+                    "target": "description:\"One row per day, charted over time.\""
+                },
+                {
+                    "source": "name:\"Reading list\"",
+                    "target": "name:\"Reading list\""
+                },
+                {
+                    "source": "description:\"Gallery of books with covers and ratings.\"",
+                    "target": "description:\"Gallery of books with covers and ratings.\""
+                },
+                {
+                    "source": "name:\"People / CRM\"",
+                    "target": "name:\"People / CRM\""
+                },
+                {
+                    "source": "description:\"Contacts with company, status and last touch.\"",
+                    "target": "description:\"Contacts with company, status and last touch.\""
+                },
+                {
+                    "source": "name:\"Last contact\"",
+                    "target": "name:\"Last contact\""
+                },
+                {
+                    "source": "description:\"Spending by category, ready to chart.\"",
+                    "target": "description:\"Spending by category, ready to chart.\""
+                },
+                {
+                    "source": "name:\"Meeting notes\"",
+                    "target": "name:\"Meeting notes\""
+                },
+                {
+                    "source": "description:\"Dated notes with attendees and follow-ups.\"",
+                    "target": "description:\"Dated notes with attendees and follow-ups.\""
+                },
+                {
+                    "source": "name:\"Follow-up needed\"",
+                    "target": "name:\"Follow-up needed\""
+                },
+                {
+                    "source": "text:\"Add a condition\"",
+                    "target": "text:\"Add a condition\""
+                },
+                {
+                    "source": "text:\"This filter has brackets in it, so it is edited as text.\"",
+                    "target": "text:\"This filter has brackets in it, so it is edited as text.\""
+                },
+                {
+                    "source": "text:\"Start again with rows\"",
+                    "target": "text:\"Start again with rows\""
+                },
+                {
+                    "source": "text:\"Show rows where\"",
+                    "target": "text:\"Show rows where\""
+                },
+                {
+                    "source": "text:\"of these match:\"",
+                    "target": "text:\"of these match:\""
+                },
+                {
+                    "source": "text:\"New database\"",
+                    "target": "text:\"New database\""
+                },
+                {
+                    "source": "text:\"Nothing to preview yet.\"",
+                    "target": "text:\"Nothing to preview yet.\""
+                },
+                {
+                    "source": "text:`New item in ${this.schema.name}`",
+                    "target": "text:`New item in ${this.schema.name}`"
+                },
+                {
+                    "source": "text:\"Turn a folder into a database\"",
+                    "target": "text:\"Turn a folder into a database\""
+                },
+                {
+                    "source": "text:\"Reads the frontmatter of every note in the folder and guesses a property for each key. Ideal for a Notion export.\"",
+                    "target": "text:\"Reads the frontmatter of every note in the folder and guesses a property for each key. Ideal for a Notion export.\""
+                },
+                {
+                    "source": "name:\"Slash command menu\"",
+                    "target": "name:\"Slash command menu\""
+                },
+                {
+                    "source": "name:\"Trigger character\"",
+                    "target": "name:\"Trigger character\""
+                },
+                {
+                    "source": "name:\"Page icons and covers\"",
+                    "target": "name:\"Page icons and covers\""
+                },
+                {
+                    "source": "name:\"Properties on the page\"",
+                    "target": "name:\"Properties on the page\""
+                },
+                {
+                    "source": "name:\"Load covers from the web\"",
+                    "target": "name:\"Load covers from the web\""
+                },
+                {
+                    "source": "name:\"Cover height\"",
+                    "target": "name:\"Cover height\""
+                },
+                {
+                    "source": "name:\"Notion typography\"",
+                    "target": "name:\"Notion typography\""
+                },
+                {
+                    "source": "name:\"Default folder\"",
+                    "target": "name:\"Default folder\""
+                },
+                {
+                    "source": "name:\"Show the databases sidebar on startup\"",
+                    "target": "name:\"Show the databases sidebar on startup\""
+                },
+                {
+                    "source": "name:\"Open rows beside the view\"",
+                    "target": "name:\"Open rows beside the view\""
+                },
+                {
+                    "source": "name:\"Compact rows\"",
+                    "target": "name:\"Compact rows\""
+                },
+                {
+                    "source": "name:\"Report a problem\"",
+                    "target": "name:\"Report a problem\""
+                },
+                {
+                    "source": "name:\"Import an existing folder\"",
+                    "target": "name:\"Import an existing folder\""
+                },
+                {
+                    "source": "name:\"New database\"",
+                    "target": "name:\"New database\""
+                },
+                {
+                    "source": "text:\"Save as template\"",
+                    "target": "text:\"Save as template\""
+                },
+                {
+                    "source": "text:`Templates in ${this.schema.name}`",
+                    "target": "text:`Templates in ${this.schema.name}`"
+                },
+                {
+                    "source": "text:\"Save this view\"",
+                    "target": "text:\"Save this view\""
+                },
+                {
+                    "source": "text:\"It will appear under this database in the sidebar.\"",
+                    "target": "text:\"It will appear under this database in the sidebar.\""
+                },
+                {
+                    "source": "text:\"A view with this name already exists and will be replaced.\"",
+                    "target": "text:\"A view with this name already exists and will be replaced.\""
+                },
+                {
+                    "source": "text:`Link to ${this.related.name}`",
+                    "target": "text:`Link to ${this.related.name}`"
+                },
+                {
+                    "source": "text:`Set ${this.prop.name}`",
+                    "target": "text:`Set ${this.prop.name}`"
+                },
+                {
+                    "source": "text:`${i.name} has no relation property to mirror into yet. Add one there first, pointing back at this database.`",
+                    "target": "text:`${i.name} has no relation property to mirror into yet. Add one there first, pointing back at this database.`"
+                },
+                {
+                    "source": "text:\"A rollup reaches through a relation, so this database needs a relation property first. Add one (type: Relation) pointing at the database you want to pull numbers from, then come back.\"",
+                    "target": "text:\"A rollup reaches through a relation, so this database needs a relation property first. Add one (type: Relation) pointing at the database you want to pull numbers from, then come back.\""
+                },
+                {
+                    "source": "text:`${h.name} ${st(g).toLowerCase()}: ${Et(g,b,h)}`",
+                    "target": "text:`${h.name} ${st(g).toLowerCase()}: ${Et(g,b,h)}`"
+                },
+                {
+                    "source": "text:`${o.length} selected`",
+                    "target": "text:`${o.length} selected`"
+                },
+                {
+                    "source": "text:\"Set a property\"",
+                    "target": "text:\"Set a property\""
+                },
+                {
+                    "source": "text:\"Clear selection\"",
+                    "target": "text:\"Clear selection\""
+                },
+                {
+                    "source": "text:\"Board view needs a `group` property (a select, multi-select or checkbox).\"",
+                    "target": "text:\"Board view needs a `group` property (a select, multi-select or checkbox).\""
+                },
+                {
+                    "source": "text:`${U.name} ${st(_).toLowerCase()}: ${Et(_,ee,U)}`",
+                    "target": "text:`${U.name} ${st(_).toLowerCase()}: ${Et(_,ee,U)}`"
+                },
+                {
+                    "source": "text:\"No rows match this view.\"",
+                    "target": "text:\"No rows match this view.\""
+                },
+                {
+                    "source": "text:\"Calendar view needs a `date` property. Add one to the database, or set `date: <property>` on the view.\"",
+                    "target": "text:\"Calendar view needs a `date` property. Add one to the database, or set `date: <property>` on the view.\""
+                },
+                {
+                    "source": "text:\"Timeline view needs a `date` property. Add one to the database, or set `start: <property>` (and optionally `end: <property>`) on the view.\"",
+                    "target": "text:\"Timeline view needs a `date` property. Add one to the database, or set `start: <property>` (and optionally `end: <property>`) on the view.\""
+                },
+                {
+                    "source": "text:\"No rows to show.\"",
+                    "target": "text:\"No rows to show.\""
+                },
+                {
+                    "source": "text:`Unscheduled (${se.length})`",
+                    "target": "text:`Unscheduled (${se.length})`"
+                },
+                {
+                    "source": "text:`Showing ${r.toLocaleString()} of ${o.toLocaleString()}`",
+                    "target": "text:`Showing ${r.toLocaleString()} of ${o.toLocaleString()}`"
+                },
+                {
+                    "source": "text:`Show ${a.toLocaleString()} more`",
+                    "target": "text:`Show ${a.toLocaleString()} more`"
+                },
+                {
+                    "source": "text:\"Show all\"",
+                    "target": "text:\"Show all\""
+                },
+                {
+                    "source": "text:\"Notion for Obsidian\"",
+                    "target": "text:\"Notion for Obsidian\""
+                },
+                {
+                    "source": "text:`${i} of ${o.length}`",
+                    "target": "text:`${i} of ${o.length}`"
+                },
+                {
+                    "source": "text:\"Nothing to show yet.\"",
+                    "target": "text:\"Nothing to show yet.\""
+                },
+                {
+                    "source": "text:`Could not add a row: ${s.message}`",
+                    "target": "text:`Could not add a row: ${s.message}`"
+                },
+                {
+                    "source": "description:\"Just start writing with plain text.\"",
+                    "target": "description:\"Just start writing with plain text.\""
+                },
+                {
+                    "source": "description:\"Big section heading.\"",
+                    "target": "description:\"Big section heading.\""
+                },
+                {
+                    "source": "description:\"Medium section heading.\"",
+                    "target": "description:\"Medium section heading.\""
+                },
+                {
+                    "source": "description:\"Small section heading.\"",
+                    "target": "description:\"Small section heading.\""
+                },
+                {
+                    "source": "description:\"Create a simple bulleted list.\"",
+                    "target": "description:\"Create a simple bulleted list.\""
+                },
+                {
+                    "source": "description:\"Create a list with numbering.\"",
+                    "target": "description:\"Create a list with numbering.\""
+                },
+                {
+                    "source": "description:\"Track tasks with a checkbox.\"",
+                    "target": "description:\"Track tasks with a checkbox.\""
+                },
+                {
+                    "source": "description:\"Hide content inside a collapsible block.\"",
+                    "target": "description:\"Hide content inside a collapsible block.\""
+                },
+                {
+                    "source": "description:\"A big heading that folds its section away.\"",
+                    "target": "description:\"A big heading that folds its section away.\""
+                },
+                {
+                    "source": "description:\"A medium heading that folds its section away.\"",
+                    "target": "description:\"A medium heading that folds its section away.\""
+                },
+                {
+                    "source": "description:\"A small heading that folds its section away.\"",
+                    "target": "description:\"A small heading that folds its section away.\""
+                },
+                {
+                    "source": "description:\"Links to every heading in this note.\"",
+                    "target": "description:\"Links to every heading in this note.\""
+                },
+                {
+                    "source": "description:\"Shows where this note sits in your vault.\"",
+                    "target": "description:\"Shows where this note sits in your vault.\""
+                },
+                {
+                    "source": "description:\"Add an emoji and a banner image to this note.\"",
+                    "target": "description:\"Add an emoji and a banner image to this note.\""
+                },
+                {
+                    "source": "description:\"A metric, progress bar, countdown, list or button.\"",
+                    "target": "description:\"A metric, progress bar, countdown, list or button.\""
+                },
+                {
+                    "source": "description:\"Capture a quotation.\"",
+                    "target": "description:\"Capture a quotation.\""
+                },
+                {
+                    "source": "description:\"Visually divide blocks.\"",
+                    "target": "description:\"Visually divide blocks.\""
+                },
+                {
+                    "source": "description:\"Capture a snippet of code.\"",
+                    "target": "description:\"Capture a snippet of code.\""
+                },
+                {
+                    "source": "description:\"Insert a simple markdown table.\"",
+                    "target": "description:\"Insert a simple markdown table.\""
+                },
+                {
+                    "source": "description:\"Place blocks side by side.\"",
+                    "target": "description:\"Place blocks side by side.\""
+                },
+                {
+                    "source": "description:\"Make writing stand out.\"",
+                    "target": "description:\"Make writing stand out.\""
+                },
+                {
+                    "source": "description:\"A helpful hint.\"",
+                    "target": "description:\"A helpful hint.\""
+                },
+                {
+                    "source": "description:\"Something to watch out for.\"",
+                    "target": "description:\"Something to watch out for.\""
+                },
+                {
+                    "source": "description:\"A serious warning.\"",
+                    "target": "description:\"A serious warning.\""
+                },
+                {
+                    "source": "description:\"Confirm something went well.\"",
+                    "target": "description:\"Confirm something went well.\""
+                },
+                {
+                    "source": "description:\"Pose an open question.\"",
+                    "target": "description:\"Pose an open question.\""
+                },
+                {
+                    "source": "description:\"Create a brand-new database and embed it here.\"",
+                    "target": "description:\"Create a brand-new database and embed it here.\""
+                },
+                {
+                    "source": "description:\"Embed a table, board, gallery, list or calendar.\"",
+                    "target": "description:\"Embed a table, board, gallery, list or calendar.\""
+                },
+                {
+                    "source": "description:\"Create a new row in an existing database.\"",
+                    "target": "description:\"Create a new row in an existing database.\""
+                },
+                {
+                    "source": "description:\"Bar, line, pie or donut built from your data.\"",
+                    "target": "description:\"Bar, line, pie or donut built from your data.\""
+                },
+                {
+                    "source": "description:`Insert ${dt()}.`",
+                    "target": "description:`Insert ${dt()}.`"
+                },
+                {
+                    "source": "description:\"Insert tomorrow's date.\"",
+                    "target": "description:\"Insert tomorrow's date.\""
+                },
+                {
+                    "source": "description:\"Link to another note in your vault.\"",
+                    "target": "description:\"Link to another note in your vault.\""
+                },
+                {
+                    "source": "description:\"Show another note inline.\"",
+                    "target": "description:\"Show another note inline.\""
+                },
+                {
+                    "source": "description:\"Insert a LaTeX block equation.\"",
+                    "target": "description:\"Insert a LaTeX block equation.\""
+                },
+                {
+                    "source": "description:\"Emphasise a phrase.\"",
+                    "target": "description:\"Emphasise a phrase.\""
+                },
+                {
+                    "source": "text:\"Repeating rows\"",
+                    "target": "text:\"Repeating rows\""
+                },
+                {
+                    "source": "text:\"Ticking a row off creates the next one, with everything else about it copied across. Nothing appears until you finish the last one, so a fortnight away does not leave you fourteen identical rows.\"",
+                    "target": "text:\"Ticking a row off creates the next one, with everything else about it copied across. Nothing appears until you finish the last one, so a fortnight away does not leave you fourteen identical rows.\""
+                },
+                {
+                    "source": "text:\"This needs a text property for the rule, a date property to move, and a checkbox to tick. Add whichever is missing first.\"",
+                    "target": "text:\"This needs a text property for the rule, a date property to move, and a checkbox to tick. Add whichever is missing first.\""
+                },
+                {
+                    "source": "text:\"When this changes, do that\"",
+                    "target": "text:\"When this changes, do that\""
+                },
+                {
+                    "source": "text:\"Add a rule\"",
+                    "target": "text:\"Add a rule\""
+                },
+                {
+                    "source": "text:\"This database needs at least two editable properties before a rule can do anything.\"",
+                    "target": "text:\"This database needs at least two editable properties before a rule can do anything.\""
+                },
+                {
+                    "source": "text:\"clear it\"",
+                    "target": "text:\"clear it\""
+                },
+                {
+                    "source": "text:\"This database no longer exists. It may have been removed from settings.\"",
+                    "target": "text:\"This database no longer exists. It may have been removed from settings.\""
+                },
+                {
+                    "source": "text:\"No databases yet.\"",
+                    "target": "text:\"No databases yet.\""
+                },
+                {
+                    "source": "text:\"Create your first one\"",
+                    "target": "text:\"Create your first one\""
+                },
+                {
+                    "source": "text:`${u} ${u===1?\"row\":\"rows\"}`",
+                    "target": "text:`${u} ${u===1?\"row\":\"rows\"}`"
+                },
+                {
+                    "source": "text:\"No headings in this note yet.\"",
+                    "target": "text:\"No headings in this note yet.\""
+                },
+                {
+                    "source": "text:\"Add a property\"",
+                    "target": "text:\"Add a property\""
+                },
+                {
+                    "source": "text:\"No value\"",
+                    "target": "text:\"No value\""
+                },
+                {
+                    "source": "text:\"Page icon and cover\"",
+                    "target": "text:\"Page icon and cover\""
+                },
+                {
+                    "source": "text:\"Notion Suite\"",
+                    "target": "text:\"Notion Suite\""
+                },
+                {
+                    "source": "name:\"Show the databases sidebar\"",
+                    "target": "name:\"Show the databases sidebar\""
+                },
+                {
+                    "source": "name:\"Open a database\"",
+                    "target": "name:\"Open a database\""
+                },
+                {
+                    "source": "name:\"Assign unique IDs to existing rows\"",
+                    "target": "name:\"Assign unique IDs to existing rows\""
+                },
+                {
+                    "source": "name:\"Set up an example database and page\"",
+                    "target": "name:\"Set up an example database and page\""
+                },
+                {
+                    "source": "name:\"Insert database view\"",
+                    "target": "name:\"Insert database view\""
+                },
+                {
+                    "source": "name:\"Insert chart from database\"",
+                    "target": "name:\"Insert chart from database\""
+                },
+                {
+                    "source": "name:\"Add item to a database\"",
+                    "target": "name:\"Add item to a database\""
+                },
+                {
+                    "source": "name:\"Add a property to a database\"",
+                    "target": "name:\"Add a property to a database\""
+                },
+                {
+                    "source": "name:\"Turn a folder into a database\"",
+                    "target": "name:\"Turn a folder into a database\""
+                },
+                {
+                    "source": "name:\"Toggle the slash menu\"",
+                    "target": "name:\"Toggle the slash menu\""
+                },
+                {
+                    "source": "name:\"Set this note's icon and cover\"",
+                    "target": "name:\"Set this note's icon and cover\""
+                },
+                {
+                    "source": "name:\"Toggle the checkbox property on the active row\"",
+                    "target": "name:\"Toggle the checkbox property on the active row\""
+                },
+                {
+                    "source": "name:\"Refresh all database views\"",
+                    "target": "name:\"Refresh all database views\""
+                }
+            ]
+        }
+    }
+}

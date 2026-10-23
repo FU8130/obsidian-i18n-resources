@@ -1,0 +1,391 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "unfinished-todo-highlighter",
+        "version": "1.0.0",
+        "title": "Unfinished Todo Highlighter",
+        "description": "Unfinished Todo Highlighter Localization & Tweaks",
+        "language": "zh-cn",
+        "supportedVersions": "1.1.3",
+        "author": ""
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "both",
+                    "target": "两者"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "背景とファイル名",
+                    "target": "背景和文件名"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "text",
+                    "target": "文本"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "ファイル名",
+                    "target": "文件名"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "background",
+                    "target": "背景"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "背景",
+                    "target": "背景"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "ul",
+                    "target": "ul"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "li",
+                    "target": "li"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "input",
+                    "target": "input"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Failed to complete an unfinished To Do",
+                    "target": "无法完成未完成的待办事项"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "作成・開く",
+                    "target": "创建/打开"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "再読み込み",
+                    "target": "重新加载"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "未完了To Doがあるファイルに使用する色です。",
+                    "target": "用于包含未完成待办事项的文件的颜色。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "背景、ファイル名、または両方を色付けします。",
+                    "target": "对背景、文件名或两者进行着色。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "背景色を使う場合の透明度です。",
+                    "target": "使用背景色时的透明度。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "ファイル名と背景の周囲を軽く光らせます。",
+                    "target": "使文件名和背景周围轻微发光。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "ファイル名の後ろに色付きの丸印を追加します。",
+                    "target": "在文件名后添加彩色圆点。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "ハイライトの対象です。空欄ならVault全体です。未達成リストは常にVault全体を対象にします。",
+                    "target": "高亮对象。如果留空则为整个Vault。未完成列表始终针对整个Vault。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Vaultを再走査し、ハイライトを更新します。",
+                    "target": "重新扫描Vault并更新高亮。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "一般",
+                    "target": "通用"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "ハイライト色",
+                    "target": "高亮颜色"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "色の付け方",
+                    "target": "着色方式"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "背景の濃さ",
+                    "target": "背景深度"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "光彩を付ける",
+                    "target": "添加光泽"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "太字にする",
+                    "target": "加粗"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "丸印を表示",
+                    "target": "显示圆点"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "対象フォルダ",
+                    "target": "目标文件夹"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "To Do未達成リストの保存先",
+                    "target": "To Do未完成列表的保存位置"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "ステータスバーに件数を表示",
+                    "target": "在状态栏显示数量"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "今すぐ再読み込み",
+                    "target": "立即重新加载"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Daily",
+                    "target": "每日"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "To Do未達成リストを作成しました",
+                    "target": "已创建未完成待办事项列表"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "元ノートを更新できませんでした",
+                    "target": "无法更新原笔记"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "同じTo Doが複数あるため、元ノート側でチェックしてください",
+                    "target": "由于存在多个相同的待办事项，请在原笔记中检查"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "To Doが変更または削除されています。一覧を更新します",
+                    "target": "待办事项已被更改或删除。将更新列表"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "utdh-summary-source internal-link",
+                    "target": "utdh-summary-source internal-link"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "未完了To Doがあるファイルに使用する色です。",
+                    "target": "这是用于包含未完成待办事项的文件的颜色。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "背景、ファイル名、または両方を色付けします。",
+                    "target": "为背景、文件名或两者添加颜色。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "背景色を使う場合の透明度です。",
+                    "target": "使用背景色时的透明度。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "ファイル名と背景の周囲を軽く光らせます。",
+                    "target": "在文件名和背景周围添加轻微发光效果。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "ファイル名の後ろに色付きの丸印を追加します。",
+                    "target": "在文件名后添加彩色实心圆点。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "ハイライトの対象です。空欄ならVault全体です。未達成リストは常にVault全体を対象にします。",
+                    "target": "高亮对象。留空则针对整个Vault。未完成列表始终针对整个Vault。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "設定した保存先に一覧ノートを作成するか、既存の一覧ノートを開きます。",
+                    "target": "在设定的保存位置创建列表笔记，或打开已有列表笔记。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Vaultを再走査し、ハイライトを更新します。",
+                    "target": "重新扫描Vault，更新高亮。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "一般",
+                    "target": "常规"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "未完了To Doのハイライトを再読み込み",
+                    "target": "重新加载未完成待办的高亮"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "To Do未達成リストを作成または開く",
+                    "target": "创建或打开待办未完成列表"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "ハイライト色",
+                    "target": "高亮颜色"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "色の付け方",
+                    "target": "颜色标记方式"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "背景の濃さ",
+                    "target": "背景浓度"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "光彩を付ける",
+                    "target": "添加光泽"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "太字にする",
+                    "target": "加粗"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "丸印を表示",
+                    "target": "显示圆形标记"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "対象フォルダ",
+                    "target": "目标文件夹"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "To Do未達成リストの保存先",
+                    "target": "待办未完成列表的保存位置"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "To Do未達成リストを作成・開く",
+                    "target": "创建/打开待办未完成列表"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "ステータスバーに件数を表示",
+                    "target": "在状态栏显示数量"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "今すぐ再読み込み",
+                    "target": "立即重新加载"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "placeholder",
+                    "source": "Daily",
+                    "target": "每日"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "未完了のTo Doはありません。",
+                    "target": "没有未完成的待办事项。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "ファイル名",
+                    "target": "文件名"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "未完了の標準Markdownタスク（- [ ]）を含むノートを、ファイルエクスプローラーで自動的に強調します。",
+                    "target": "在文件资源管理器中自动高亮包含未完成的标准Markdown任务（- [ ]）的笔记。"
+                }
+            ],
+            "regex": []
+        }
+    }
+}
