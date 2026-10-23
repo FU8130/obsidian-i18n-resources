@@ -346,8 +346,21 @@
         "supported_versions": "1.8.1",
         "title": "Notion Suite",
         "description": "Notion Suite Localization & Tweaks",
-        "hash": "5a81ed0b5a81ed0b5a81ed0b5a81ed0b",
+        "hash": "06ab0ba906ab0ba906ab0ba906ab0ba9",
         "created_at": "2026-10-23T06:05:06.736Z",
-        "updated_at": "2026-10-23T06:05:06.736Z"
+        "updated_at": "2026-10-23T06:25:34.761Z"
+    },
+    {
+        "id": "uexvb5emZgxuVbjldYmpM6m7tIkAGS1_",
+        "plugin": "powereditor",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "1.62.3",
+        "title": "Power Editor",
+        "description": "Power Editor Localization & Tweaks",
+        "hash": "086e6c92086e6c92086e6c92086e6c92",
+        "created_at": "2026-10-23T06:25:34.761Z",
+        "updated_at": "2026-10-23T06:25:34.761Z"
     }
 ]
