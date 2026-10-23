@@ -16,127 +16,127 @@
                     "type": "AssignmentExpression",
                     "name": "placeholder",
                     "source": "today",
-                    "target": "today"
+                    "target": "今天"
                 },
                 {
                     "type": "AssignmentExpression",
                     "name": "placeholder",
                     "source": "New option name",
-                    "target": "New option name"
+                    "target": "新选项名称"
                 },
                 {
                     "type": "AssignmentExpression",
                     "name": "placeholder",
                     "source": "Search…",
-                    "target": "Search…"
+                    "target": "搜索…"
                 },
                 {
                     "type": "AssignmentExpression",
                     "name": "placeholder",
                     "source": "anything",
-                    "target": "anything"
+                    "target": "任何内容"
                 },
                 {
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "No select property available",
-                    "target": "No select property available"
+                    "target": "没有可用的选择属性"
                 },
                 {
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "No grouping",
-                    "target": "No grouping"
+                    "target": "无分组"
                 },
                 {
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "No date property available",
-                    "target": "No date property available"
+                    "target": "没有可用的日期属性"
                 },
                 {
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "None",
-                    "target": "None"
+                    "target": "无"
                 },
                 {
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "day",
-                    "target": "day"
+                    "target": "天"
                 },
                 {
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "Days",
-                    "target": "Days"
+                    "target": "天"
                 },
                 {
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "week",
-                    "target": "week"
+                    "target": "周"
                 },
                 {
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "Weeks",
-                    "target": "Weeks"
+                    "target": "周"
                 },
                 {
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "month",
-                    "target": "month"
+                    "target": "月"
                 },
                 {
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "Months",
-                    "target": "Months"
+                    "target": "月"
                 },
                 {
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "Medium",
-                    "target": "Medium"
+                    "target": "中"
                 },
                 {
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "small",
-                    "target": "small"
+                    "target": "小"
                 },
                 {
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "Small",
-                    "target": "Small"
+                    "target": "小"
                 },
                 {
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "large",
-                    "target": "large"
+                    "target": "大"
                 },
                 {
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "Large",
-                    "target": "Large"
+                    "target": "大"
                 },
                 {
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "No numeric property available",
-                    "target": "No numeric property available"
+                    "target": "无可用数值属性"
                 },
                 {
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "Largest first",
-                    "target": "Largest first"
+                    "target": "从大到小"
                 },
                 {
                     "type": "CallExpression",
@@ -148,7 +148,7 @@
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "Smallest first",
-                    "target": "Smallest first"
+                    "target": "从小到大"
                 },
                 {
                     "type": "CallExpression",
@@ -160,7 +160,7 @@
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "By name",
-                    "target": "By name"
+                    "target": "按名称"
                 },
                 {
                     "type": "CallExpression",
@@ -172,7 +172,7 @@
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "Leave as-is",
-                    "target": "Leave as-is"
+                    "target": "保持原样"
                 },
                 {
                     "type": "CallExpression",
@@ -184,7 +184,7 @@
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "Plain",
-                    "target": "Plain"
+                    "target": "普通"
                 },
                 {
                     "type": "CallExpression",
@@ -196,7 +196,7 @@
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "Percent",
-                    "target": "Percent"
+                    "target": "百分比"
                 },
                 {
                     "type": "CallExpression",
@@ -208,13 +208,13 @@
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "Currency",
-                    "target": "Currency"
+                    "target": "货币"
                 },
                 {
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "Not set up",
-                    "target": "Not set up"
+                    "target": "未设置"
                 },
                 {
                     "type": "CallExpression",
@@ -298,613 +298,613 @@
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Notion Suite: could not open the issue page",
-                    "target": "Notion Suite: could not open the issue page"
+                    "target": "Notion Suite：无法打开问题页面"
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Notion Suite: deleting rows failed",
-                    "target": "Notion Suite: deleting rows failed"
+                    "target": "Notion Suite：删除行失败"
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Notion Suite: renaming a row failed",
-                    "target": "Notion Suite: renaming a row failed"
+                    "target": "Notion Suite：重命名行失败"
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Notion Suite: moving a card failed",
-                    "target": "Notion Suite: moving a card failed"
+                    "target": "Notion Suite：移动卡片失败"
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Notion Suite: could not register the board with Bases",
-                    "target": "Notion Suite: could not register the board with Bases"
+                    "target": "Notion Suite：无法将看板注册到 Bases"
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Notion Suite: could not repoint links after a rename",
-                    "target": "Notion Suite: could not repoint links after a rename"
+                    "target": "Notion Suite：重命名后无法重新指向链接"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setButtonText",
                     "source": "Cancel",
-                    "target": "Cancel"
+                    "target": "取消"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setButtonText",
                     "source": "Create database",
-                    "target": "Create database"
+                    "target": "创建数据库"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setButtonText",
                     "source": "Create",
-                    "target": "Create"
+                    "target": "创建"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setButtonText",
                     "source": "Import",
-                    "target": "Import"
+                    "target": "导入"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setButtonText",
                     "source": "Save template",
-                    "target": "Save template"
+                    "target": "保存模板"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setButtonText",
                     "source": "Delete",
-                    "target": "Delete"
+                    "target": "删除"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setButtonText",
                     "source": "Save",
-                    "target": "Save"
+                    "target": "保存"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setButtonText",
                     "source": "Done",
-                    "target": "Done"
+                    "target": "完成"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setButtonText",
                     "source": "Clear the value",
-                    "target": "Clear the value"
+                    "target": "清除值"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setButtonText",
                     "source": "Apply",
-                    "target": "Apply"
+                    "target": "应用"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setButtonText",
                     "source": "Close",
-                    "target": "Close"
+                    "target": "关闭"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setButtonText",
                     "source": "Remove both",
-                    "target": "Remove both"
+                    "target": "移除两者"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setDesc",
                     "source": "Where the row notes are stored.",
-                    "target": "Where the row notes are stored."
+                    "target": "行备注的存储位置。"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setDesc",
                     "source": "Handy for seeing the views working straight away.",
-                    "target": "Handy for seeing the views working straight away."
+                    "target": "便于立即查看视图运行效果。"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setDesc",
                     "source": "Each value becomes a column.",
-                    "target": "Each value becomes a column."
+                    "target": "每个值都会成为一列。"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setDesc",
                     "source": "Splits the table into foldable bands, each with its own totals.",
-                    "target": "Splits the table into foldable bands, each with its own totals."
+                    "target": "将表格拆分为可折叠的分组，每组都有自己的合计。"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setDesc",
                     "source": "Overdue, today, this week, later — rather than one band per day.",
-                    "target": "Overdue, today, this week, later — rather than one band per day."
+                    "target": "逾期、今天、本周、以后——而不是每天一个分组。"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setDesc",
                     "source": "Where each bar begins.",
-                    "target": "Where each bar begins."
+                    "target": "每个条形的起始位置。"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setDesc",
                     "source": "Leave as None to mark single days instead of bars.",
-                    "target": "Leave as None to mark single days instead of bars."
+                    "target": "保持为“无”，以标记单日而非条形。"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setDesc",
                     "source": "Property holding an image path or URL.",
-                    "target": "Property holding an image path or URL."
+                    "target": "存放图片路径或 URL 的属性。"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setDesc",
                     "source": "Comma-separated, in order. Blank shows all of them.",
-                    "target": "Comma-separated, in order. Blank shows all of them."
+                    "target": "用逗号分隔，按顺序排列。留空则显示全部。"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setDesc",
                     "source": "Leave blank for every row.",
-                    "target": "Leave blank for every row."
+                    "target": "留空则适用于每一行。"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setDesc",
                     "source": "Shown in the view's toolbar instead of the database name.",
-                    "target": "Shown in the view's toolbar instead of the database name."
+                    "target": "显示在视图工具栏中，而非数据库名称。"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setDesc",
                     "source": "Each value of this property becomes a bar or slice.",
-                    "target": "Each value of this property becomes a bar or slice."
+                    "target": "此属性的每个值都会成为一个条形或扇区。"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setDesc",
                     "source": "How each group is turned into a number.",
-                    "target": "How each group is turned into a number."
+                    "target": "每个分组如何转换为数字。"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setDesc",
                     "source": "Optional second grouping, drawn as separate colours.",
-                    "target": "Optional second grouping, drawn as separate colours."
+                    "target": "可选的第二分组，以不同颜色绘制。"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setDesc",
                     "source": "Off places them side by side.",
-                    "target": "Off places them side by side."
+                    "target": "关闭后会并排显示。"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setDesc",
                     "source": "Leave blank for every group.",
-                    "target": "Leave blank for every group."
+                    "target": "留空则适用于所有分组。"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setDesc",
                     "source": "Pixels. Blank uses the default.",
-                    "target": "Pixels. Blank uses the default."
+                    "target": "像素。留空则使用默认值。"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setDesc",
                     "source": "Vault-relative, e.g. Notion Export/Tasks",
-                    "target": "Vault-relative, e.g. Notion Export/Tasks"
+                    "target": "相对于库，例如 Notion Export/Tasks"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setDesc",
                     "source": "One per line. Prefix with a stage to group them: “todo: Not started”, “doing: In progress”, “done: Shipped”. Boards order their columns by that stage.",
-                    "target": "One per line. Prefix with a stage to group them: “todo: Not started”, “doing: In progress”, “done: Shipped”. Boards order their columns by that stage."
+                    "target": "每行一个。使用阶段前缀进行分组：“todo: 未开始”、“doing: 进行中”、“done: 已交付”。看板会按该阶段排列各列。"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setDesc",
                     "source": "One per line. Colours are assigned automatically.",
-                    "target": "One per line. Colours are assigned automatically."
+                    "target": "每行一个。颜色会自动分配。"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setDesc",
                     "source": "Put in front of the number, e.g. TASK gives TASK-1. Cosmetic: changing it renumbers nothing.",
-                    "target": "Put in front of the number, e.g. TASK gives TASK-1. Cosmetic: changing it renumbers nothing."
+                    "target": "放在数字前面，例如 TASK 会生成 TASK-1。仅作装饰：更改它不会重新编号任何内容。"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setDesc",
                     "source": "Lets you drag cards into an order within a board column. The position is stored in this property, so it is visible and editable like any other.",
-                    "target": "Lets you drag cards into an order within a board column. The position is stored in this property, so it is visible and editable like any other."
+                    "target": "允许你在看板列内拖动卡片来排序。位置会存储在此属性中，因此和其他属性一样可见、可编辑。"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setDesc",
                     "source": "The symbol, where it sits and how the digits are grouped all follow the currency, so this is not only a symbol swap.",
-                    "target": "The symbol, where it sits and how the digits are grouped all follow the currency, so this is not only a symbol swap."
+                    "target": "符号、其位置以及数字的分组方式均随货币而定，因此这不仅仅是更换符号。"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setDesc",
                     "source": "Reference properties in {braces}. Arithmetic only: + - * / ( )",
-                    "target": "Reference properties in {braces}. Arithmetic only: + - * / ( )"
+                    "target": "在 {braces} 中引用属性。仅支持算术运算：+ - * / ( )"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setDesc",
                     "source": "Rows are linked by note title.",
-                    "target": "Rows are linked by note title."
+                    "target": "各行通过笔记标题关联。"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setDesc",
                     "source": "Turns rows into a tree: a row pointing at another becomes its sub-item, indented beneath it with a fold arrow.",
-                    "target": "Turns rows into a tree: a row pointing at another becomes its sub-item, indented beneath it with a fold arrow."
+                    "target": "将行转换为树形结构：指向另一行的行会成为其子项，缩进显示在下方并带有折叠箭头。"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setDesc",
                     "source": "Which link to follow.",
-                    "target": "Which link to follow."
+                    "target": "要跟随的链接。"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setDesc",
                     "source": "How the gathered values become one value.",
-                    "target": "How the gathered values become one value."
+                    "target": "收集到的值如何合并为一个值。"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setDesc",
                     "source": "A text property holding \"weekly\", \"every 3 days\", \"every Tuesday\".",
-                    "target": "A text property holding \"weekly\", \"every 3 days\", \"every Tuesday\"."
+                    "target": "一个文本属性，可填写 \"weekly\"、\"every 3 days\"、\"every Tuesday\"。"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setDesc",
                     "source": "An emoji shown above the note's title.",
-                    "target": "An emoji shown above the note's title."
+                    "target": "显示在笔记标题上方的 emoji。"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setDesc",
                     "source": "A vault path, a wikilink, or a URL. Leave blank for none.",
-                    "target": "A vault path, a wikilink, or a URL. Leave blank for none."
+                    "target": "库路径、wikilink 或 URL。留空表示无。"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Name",
-                    "target": "Name"
+                    "target": "名称"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Folder",
-                    "target": "Folder"
+                    "target": "文件夹"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Add a few example rows",
-                    "target": "Add a few example rows"
+                    "target": "添加几行示例"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Database",
-                    "target": "Database"
+                    "target": "数据库"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "View",
-                    "target": "View"
+                    "target": "视图"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Group by",
-                    "target": "Group by"
+                    "target": "分组依据"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Bucket the dates",
-                    "target": "Bucket the dates"
+                    "target": "将日期分桶"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Date property",
-                    "target": "Date property"
+                    "target": "日期属性"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Start date",
-                    "target": "Start date"
+                    "target": "开始日期"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "End date",
-                    "target": "End date"
+                    "target": "结束日期"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Scale",
-                    "target": "Scale"
+                    "target": "缩放"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Cover image",
-                    "target": "Cover image"
+                    "target": "封面图片"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Card size",
-                    "target": "Card size"
+                    "target": "卡片大小"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Filter",
-                    "target": "Filter"
+                    "target": "筛选"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Sort",
-                    "target": "Sort"
+                    "target": "排序"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Show properties",
-                    "target": "Show properties"
+                    "target": "显示属性"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Show only the first",
-                    "target": "Show only the first"
+                    "target": "仅显示第一个"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Heading",
-                    "target": "Heading"
+                    "target": "标题"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Chart type",
-                    "target": "Chart type"
+                    "target": "图表类型"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Measure",
-                    "target": "Measure"
+                    "target": "度量"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Value property",
-                    "target": "Value property"
+                    "target": "值属性"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Split into series",
-                    "target": "Split into series"
+                    "target": "拆分为系列"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Stack the series",
-                    "target": "Stack the series"
+                    "target": "堆叠系列"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Order",
-                    "target": "Order"
+                    "target": "顺序"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Show only the top",
-                    "target": "Show only the top"
+                    "target": "仅显示前几项"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Title",
-                    "target": "Title"
+                    "target": "标题"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Height",
-                    "target": "Height"
+                    "target": "高度"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Show legend",
-                    "target": "Show legend"
+                    "target": "显示图例"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Show data labels",
-                    "target": "Show data labels"
+                    "target": "显示数据标签"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Database name",
-                    "target": "Database name"
+                    "target": "数据库名称"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Template name",
-                    "target": "Template name"
+                    "target": "模板名称"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Type",
-                    "target": "Type"
+                    "target": "类型"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Options",
-                    "target": "Options"
+                    "target": "选项"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Prefix",
-                    "target": "Prefix"
+                    "target": "前缀"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Use for manual ordering",
-                    "target": "Use for manual ordering"
+                    "target": "用于手动排序"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Format",
-                    "target": "Format"
+                    "target": "格式"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Currency",
-                    "target": "Currency"
+                    "target": "货币"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Expression",
-                    "target": "Expression"
+                    "target": "表达式"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Related database",
-                    "target": "Related database"
+                    "target": "关联数据库"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Mirror it back as",
-                    "target": "Mirror it back as"
+                    "target": "反向镜像为"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Use as the parent link",
-                    "target": "Use as the parent link"
+                    "target": "用作父级链接"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Relation",
-                    "target": "Relation"
+                    "target": "关联"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Property",
-                    "target": "Property"
+                    "target": "属性"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Calculate",
-                    "target": "Calculate"
+                    "target": "计算"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "The rule is in",
-                    "target": "The rule is in"
+                    "target": "规则位于"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Move this date",
-                    "target": "Move this date"
+                    "target": "移动此日期"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "When this is ticked",
-                    "target": "When this is ticked"
+                    "target": "勾选此项时"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setName",
                     "source": "Icon",
-                    "target": "Icon"
+                    "target": "图标"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setPlaceholder",
                     "source": "Choose a database…",
-                    "target": "Choose a database…"
+                    "target": "选择数据库…"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setPlaceholder",
                     "source": "Tasks",
-                    "target": "Tasks"
+                    "target": "任务"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setPlaceholder",
                     "source": "All",
-                    "target": "All"
+                    "target": "全部"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setPlaceholder",
                     "source": "Optional",
-                    "target": "Optional"
+                    "target": "可选"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setPlaceholder",
                     "source": "Untitled",
-                    "target": "Untitled"
+                    "target": "无标题"
                 },
                 {
                     "type": "CallExpression",
@@ -916,25 +916,25 @@
                     "type": "CallExpression",
                     "name": "setPlaceholder",
                     "source": "Search…",
-                    "target": "Search…"
+                    "target": "搜索…"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setPlaceholder",
                     "source": "Status",
-                    "target": "Status"
+                    "target": "状态"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setPlaceholder",
                     "source": "todo: Not started\ndoing: In progress\ndone: Complete",
-                    "target": "todo: Not started\ndoing: In progress\ndone: Complete"
+                    "target": "todo: 未开始\ndoing: 进行中\ndone: 已完成"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setPlaceholder",
                     "source": "Not started\nIn progress\nDone",
-                    "target": "Not started\nIn progress\nDone"
+                    "target": "未开始\n进行中\n已完成"
                 },
                 {
                     "type": "CallExpression",
@@ -952,271 +952,271 @@
                     "type": "CallExpression",
                     "name": "setText",
                     "source": "No rows yet. Use “+ new” to add the first one.",
-                    "target": "No rows yet. Use “+ new” to add the first one."
+                    "target": "尚无数据。使用“+ 新建”添加第一行。"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setTitle",
                     "source": "Open",
-                    "target": "Open"
+                    "target": "打开"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setTitle",
                     "source": "Open in new pane",
-                    "target": "Open in new pane"
+                    "target": "在新窗格中打开"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setTitle",
                     "source": "Save as template",
-                    "target": "Save as template"
+                    "target": "另存为模板"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setTitle",
                     "source": "Delete",
-                    "target": "Delete"
+                    "target": "删除"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setTitle",
                     "source": "Clear",
-                    "target": "Clear"
+                    "target": "清除"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setTitle",
                     "source": "Add new option…",
-                    "target": "Add new option…"
+                    "target": "添加新选项…"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setTitle",
                     "source": "Clear all",
-                    "target": "Clear all"
+                    "target": "全部清除"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setTitle",
                     "source": "Manage templates…",
-                    "target": "Manage templates…"
+                    "target": "管理模板…"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setTitle",
                     "source": "None",
-                    "target": "None"
+                    "target": "无"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setTitle",
                     "source": "Checked",
-                    "target": "Checked"
+                    "target": "已勾选"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setTitle",
                     "source": "Unchecked",
-                    "target": "Unchecked"
+                    "target": "未勾选"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setTitle",
                     "source": "Sort ascending",
-                    "target": "Sort ascending"
+                    "target": "升序排序"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setTitle",
                     "source": "Sort descending",
-                    "target": "Sort descending"
+                    "target": "降序排序"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setTitle",
                     "source": "Edit property…",
-                    "target": "Edit property…"
+                    "target": "编辑属性…"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setTitle",
                     "source": "Hide property",
-                    "target": "Hide property"
+                    "target": "隐藏属性"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setTitle",
                     "source": "No limit",
-                    "target": "No limit"
+                    "target": "无限制"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setTitle",
                     "source": "Save this view…",
-                    "target": "Save this view…"
+                    "target": "保存此视图…"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setTitle",
                     "source": "Export to CSV",
-                    "target": "Export to CSV"
+                    "target": "导出为 CSV"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setTitle",
                     "source": "New property…",
-                    "target": "New property…"
+                    "target": "新建属性…"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setTitle",
                     "source": "Add a property…",
-                    "target": "Add a property…"
+                    "target": "添加属性…"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setTitle",
                     "source": "When this changes, do that…",
-                    "target": "When this changes, do that…"
+                    "target": "当此内容变更时，执行相应操作…"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setTitle",
                     "source": "Repeating rows…",
-                    "target": "Repeating rows…"
+                    "target": "重复行…"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setTitle",
                     "source": "Forget this view",
-                    "target": "Forget this view"
+                    "target": "移除此视图"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setTitle",
                     "source": "Open in a new tab",
-                    "target": "Open in a new tab"
+                    "target": "在新标签页中打开"
                 },
                 {
                     "type": "CallExpression",
                     "name": "setTooltip",
                     "source": "Add a property",
-                    "target": "Add a property"
+                    "target": "添加属性"
                 },
                 {
                     "type": "NewExpression",
                     "name": "Notice",
                     "source": "Couldn't locate this block in the note — try again in reading view.",
-                    "target": "Couldn't locate this block in the note — try again in reading view."
+                    "target": "无法在笔记中定位此块——请在阅读视图中重试。"
                 },
                 {
                     "type": "NewExpression",
                     "name": "Notice",
                     "source": "Give the database a name first.",
-                    "target": "Give the database a name first."
+                    "target": "请先为数据库命名。"
                 },
                 {
                     "type": "NewExpression",
                     "name": "Notice",
                     "source": "Enter the folder to import.",
-                    "target": "Enter the folder to import."
+                    "target": "输入要导入的文件夹。"
                 },
                 {
                     "type": "NewExpression",
                     "name": "Notice",
                     "source": "No frontmatter properties found in that folder.",
-                    "target": "No frontmatter properties found in that folder."
+                    "target": "该文件夹中未找到 frontmatter 属性。"
                 },
                 {
                     "type": "NewExpression",
                     "name": "Notice",
                     "source": "Could not open the browser. The issue tracker is at github.com/navysum/notion-suite.",
-                    "target": "Could not open the browser. The issue tracker is at github.com/navysum/notion-suite."
+                    "target": "无法打开浏览器。问题跟踪器位于 github.com/navysum/notion-suite。"
                 },
                 {
                     "type": "NewExpression",
                     "name": "Notice",
                     "source": "Give the template a name.",
-                    "target": "Give the template a name."
+                    "target": "请为模板命名。"
                 },
                 {
                     "type": "NewExpression",
                     "name": "Notice",
                     "source": "Give the property a name.",
-                    "target": "Give the property a name."
+                    "target": "请为属性命名。"
                 },
                 {
                     "type": "NewExpression",
                     "name": "Notice",
                     "source": "Choose which relation this rollup should follow.",
-                    "target": "Choose which relation this rollup should follow."
+                    "target": "选择此汇总应遵循的关联。"
                 },
                 {
                     "type": "NewExpression",
                     "name": "Notice",
                     "source": "Choose which database this relation points at.",
-                    "target": "Choose which database this relation points at."
+                    "target": "选择此关联指向哪个数据库。"
                 },
                 {
                     "type": "NewExpression",
                     "name": "Notice",
                     "source": "Could not rename that row.",
-                    "target": "Could not rename that row."
+                    "target": "无法重命名该行。"
                 },
                 {
                     "type": "NewExpression",
                     "name": "Notice",
                     "source": "Could not move that card. See the developer console for details.",
-                    "target": "Could not move that card. See the developer console for details."
+                    "target": "无法移动该卡片。请查看开发者控制台了解详情。"
                 },
                 {
                     "type": "NewExpression",
                     "name": "Notice",
                     "source": "Made you a Tasks database and a page to drive it from.",
-                    "target": "Made you a Tasks database and a page to drive it from."
+                    "target": "已为你创建一个任务数据库以及一个用于操作它的页面。"
                 },
                 {
                     "type": "NewExpression",
                     "name": "Notice",
                     "source": "Database views refreshed.",
-                    "target": "Database views refreshed."
+                    "target": "数据库视图已刷新。"
                 },
                 {
                     "type": "NewExpression",
                     "name": "Notice",
                     "source": "No databases yet. Create one first.",
-                    "target": "No databases yet. Create one first."
+                    "target": "还没有数据库。请先创建一个。"
                 },
                 {
                     "type": "NewExpression",
                     "name": "Notice",
                     "source": "Open a note first.",
-                    "target": "Open a note first."
+                    "target": "请先打开一个笔记。"
                 },
                 {
                     "type": "NewExpression",
                     "name": "Notice",
                     "source": "Some links to the renamed row could not be updated.",
-                    "target": "Some links to the renamed row could not be updated."
+                    "target": "指向重命名行的部分链接无法更新。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "body",
                     "source": "The notes go to your vault's trash, so this can be undone there.",
-                    "target": "The notes go to your vault's trash, so this can be undone there."
+                    "target": "这些笔记会进入你库的回收站，因此可以在那里撤销此操作。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "body",
                     "source": "Notion Suite can make you a Tasks database with a few rows, and a page showing them as a board, a table, some counts and a chart.",
-                    "target": "Notion Suite can make you a Tasks database with a few rows, and a page showing them as a board, a table, some counts and a chart."
+                    "target": "Notion Suite 可以为你创建一个包含几行数据的任务数据库，以及一个以看板、表格、计数和图表形式展示这些数据的页面。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "cancelText",
                     "source": "Not now",
-                    "target": "Not now"
+                    "target": "暂不"
                 },
                 {
                     "type": "ObjectProperty",
@@ -1318,1315 +1318,1315 @@
                     "type": "ObjectProperty",
                     "name": "confirmText",
                     "source": "Move it anyway",
-                    "target": "Move it anyway"
+                    "target": "仍然移动"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "confirmText",
                     "source": "Add it and reorder",
-                    "target": "Add it and reorder"
+                    "target": "添加并重新排序"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "confirmText",
                     "source": "Set it up",
-                    "target": "Set it up"
+                    "target": "开始设置"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "desc",
                     "source": "Type the trigger character in the editor to insert blocks, views and charts.",
-                    "target": "Type the trigger character in the editor to insert blocks, views and charts."
+                    "target": "在编辑器中输入触发字符即可插入块、视图和图表。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "desc",
                     "source": "Defaults to “/”, matching Notion. A single character.",
-                    "target": "Defaults to “/”, matching Notion. A single character."
+                    "target": "默认为“/”，与 Notion 一致。单个字符。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "desc",
                     "source": "Show an emoji and a banner image at the top of notes that set them in frontmatter.",
-                    "target": "Show an emoji and a banner image at the top of notes that set them in frontmatter."
+                    "target": "在笔记顶部显示表情符号和横幅图片（需在 frontmatter 中设置）。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "desc",
                     "source": "Show a row's properties at the top of its own note, editable the same way they are in a view, instead of leaving you with raw frontmatter.",
-                    "target": "Show a row's properties at the top of its own note, editable the same way they are in a view, instead of leaving you with raw frontmatter."
+                    "target": "在笔记顶部显示该行的属性，并像在视图中一样可编辑，而不是让你面对原始的 frontmatter。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "desc",
                     "source": "A cover set to an http(s) address is fetched from that server, which tells it your IP address and when you opened the note. Off by default: everything else this plugin does stays on your machine. Covers stored in your vault always work.",
-                    "target": "A cover set to an http(s) address is fetched from that server, which tells it your IP address and when you opened the note. Off by default: everything else this plugin does stays on your machine. Covers stored in your vault always work."
+                    "target": "设置为 http(s) 地址的封面会从该服务器获取，这会把你的 IP 地址以及你打开笔记的时间告知该服务器。默认关闭：此插件的其他功能均完全在你的设备上运行。存储在库中的封面始终可用。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "desc",
                     "source": "How tall the banner image is, in pixels.",
-                    "target": "How tall the banner image is, in pixels."
+                    "target": "横幅图片的高度（像素）。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "desc",
                     "source": "Apply Notion-like spacing, headings and callout styling to notes.",
-                    "target": "Apply Notion-like spacing, headings and callout styling to notes."
+                    "target": "为笔记应用类似 Notion 的间距、标题和标注样式。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "desc",
                     "source": "New databases are created inside this folder.",
-                    "target": "New databases are created inside this folder."
+                    "target": "新数据库将创建在此文件夹内。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "desc",
                     "source": "Keeps every database one click away, the way Notion's sidebar does.",
-                    "target": "Keeps every database one click away, the way Notion's sidebar does."
+                    "target": "让每个数据库都触手可及，就像 Notion 的侧边栏一样。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "desc",
                     "source": "Clicking a row opens its note in a side pane, so you keep the table or board you were working in.",
-                    "target": "Clicking a row opens its note in a side pane, so you keep the table or board you were working in."
+                    "target": "点击某一行会在侧边窗格中打开其笔记，这样你仍可留在当前使用的表格或看板中。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "desc",
                     "source": "Tighter row height in table and list views.",
-                    "target": "Tighter row height in table and list views."
+                    "target": "表格和列表视图中更紧凑的行高。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "desc",
                     "source": "Opens a bug report with your versions already filled in. Ideas are as welcome as bugs — if something is awkward rather than broken, that is worth knowing too.",
-                    "target": "Opens a bug report with your versions already filled in. Ideas are as welcome as bugs — if something is awkward rather than broken, that is worth knowing too."
+                    "target": "打开一个已填写版本信息的错误报告。想法和错误一样欢迎——如果有些地方用起来别扭而不是损坏，也值得了解。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "desc",
                     "source": "Turn a folder of notes (for example a Notion export) into a database.",
-                    "target": "Turn a folder of notes (for example a Notion export) into a database."
+                    "target": "将笔记文件夹（例如 Notion 导出）转换为数据库。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "One text property. Add the rest as you go.",
-                    "target": "One text property. Add the rest as you go."
+                    "target": "一个文本属性。其余的可随时添加。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Status board with due dates and priorities.",
-                    "target": "Status board with due dates and priorities."
+                    "target": "带有截止日期和优先级的状态看板。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Track projects with owners, dates and progress.",
-                    "target": "Track projects with owners, dates and progress."
+                    "target": "跟踪项目，包含负责人、日期和进度。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Quarterly goals with a completion percentage.",
-                    "target": "Quarterly goals with a completion percentage."
+                    "target": "季度目标，带有完成百分比。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "One row per day, charted over time.",
-                    "target": "One row per day, charted over time."
+                    "target": "每天一行，随时间绘制图表。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Gallery of books with covers and ratings.",
-                    "target": "Gallery of books with covers and ratings."
+                    "target": "书籍画廊，包含封面和评分。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Contacts with company, status and last touch.",
-                    "target": "Contacts with company, status and last touch."
+                    "target": "联系人，包含公司、状态和最后联系时间。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Spending by category, ready to chart.",
-                    "target": "Spending by category, ready to chart."
+                    "target": "按类别统计支出，可直接生成图表。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Dated notes with attendees and follow-ups.",
-                    "target": "Dated notes with attendees and follow-ups."
+                    "target": "带参与者和后续事项的日期笔记。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Just start writing with plain text.",
-                    "target": "Just start writing with plain text."
+                    "target": "直接用纯文本开始写作。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Big section heading.",
-                    "target": "Big section heading."
+                    "target": "大号章节标题。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Medium section heading.",
-                    "target": "Medium section heading."
+                    "target": "中号章节标题。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Small section heading.",
-                    "target": "Small section heading."
+                    "target": "小号章节标题。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Create a simple bulleted list.",
-                    "target": "Create a simple bulleted list."
+                    "target": "创建简单的项目符号列表。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Create a list with numbering.",
-                    "target": "Create a list with numbering."
+                    "target": "创建带编号的列表。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Track tasks with a checkbox.",
-                    "target": "Track tasks with a checkbox."
+                    "target": "用复选框跟踪任务。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Hide content inside a collapsible block.",
-                    "target": "Hide content inside a collapsible block."
+                    "target": "将内容隐藏在可折叠块中。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "A big heading that folds its section away.",
-                    "target": "A big heading that folds its section away."
+                    "target": "可折叠所在区域的大标题。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "A medium heading that folds its section away.",
-                    "target": "A medium heading that folds its section away."
+                    "target": "可折叠所在区域的中标题。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "A small heading that folds its section away.",
-                    "target": "A small heading that folds its section away."
+                    "target": "可折叠所在区域的小标题。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Links to every heading in this note.",
-                    "target": "Links to every heading in this note."
+                    "target": "链接到此笔记中的每个标题。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Shows where this note sits in your vault.",
-                    "target": "Shows where this note sits in your vault."
+                    "target": "显示此笔记在库中的位置。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Add an emoji and a banner image to this note.",
-                    "target": "Add an emoji and a banner image to this note."
+                    "target": "为此笔记添加表情符号和横幅图片。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "A metric, progress bar, countdown, list or button.",
-                    "target": "A metric, progress bar, countdown, list or button."
+                    "target": "一个指标、进度条、倒计时、列表或按钮。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Capture a quotation.",
-                    "target": "Capture a quotation."
+                    "target": "摘录一段引文。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Visually divide blocks.",
-                    "target": "Visually divide blocks."
+                    "target": "以视觉方式分隔区块。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Capture a snippet of code.",
-                    "target": "Capture a snippet of code."
+                    "target": "摘录一段代码。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Insert a simple markdown table.",
-                    "target": "Insert a simple markdown table."
+                    "target": "插入一个简单的 Markdown 表格。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Place blocks side by side.",
-                    "target": "Place blocks side by side."
+                    "target": "将区块并排放置。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Make writing stand out.",
-                    "target": "Make writing stand out."
+                    "target": "让文字更醒目。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "A helpful hint.",
-                    "target": "A helpful hint."
+                    "target": "一条有用的提示。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Something to watch out for.",
-                    "target": "Something to watch out for."
+                    "target": "需要注意的事项。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "A serious warning.",
-                    "target": "A serious warning."
+                    "target": "一条严重警告。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Confirm something went well.",
-                    "target": "Confirm something went well."
+                    "target": "确认事情进展顺利。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Pose an open question.",
-                    "target": "Pose an open question."
+                    "target": "提出一个开放性问题。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Create a brand-new database and embed it here.",
-                    "target": "Create a brand-new database and embed it here."
+                    "target": "创建一个全新的数据库并嵌入此处。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Embed a table, board, gallery, list or calendar.",
-                    "target": "Embed a table, board, gallery, list or calendar."
+                    "target": "嵌入表格、看板、画廊、列表或日历。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Create a new row in an existing database.",
-                    "target": "Create a new row in an existing database."
+                    "target": "在现有数据库中创建新行。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Bar, line, pie or donut built from your data.",
-                    "target": "Bar, line, pie or donut built from your data."
+                    "target": "基于你的数据生成条形图、折线图、饼图或环形图。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Insert tomorrow's date.",
-                    "target": "Insert tomorrow's date."
+                    "target": "插入明天的日期。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Link to another note in your vault.",
-                    "target": "Link to another note in your vault."
+                    "target": "链接到库中的另一条笔记。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Show another note inline.",
-                    "target": "Show another note inline."
+                    "target": "在行内显示另一条笔记。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Insert a LaTeX block equation.",
-                    "target": "Insert a LaTeX block equation."
+                    "target": "插入 LaTeX 块级公式。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "Emphasise a phrase.",
-                    "target": "Emphasise a phrase."
+                    "target": "强调一个短语。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "detail",
                     "source": "Keeping them leaves them pointing at a note that no longer exists, so they become top-level rows.",
-                    "target": "Keeping them leaves them pointing at a note that no longer exists, so they become top-level rows."
+                    "target": "保留它们会让它们继续指向已不存在的笔记，因此它们会变成顶级行。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "detail",
                     "source": "Keeping them leaves them pointing at notes that no longer exist, so they become top-level rows.",
-                    "target": "Keeping them leaves them pointing at notes that no longer exist, so they become top-level rows."
+                    "target": "保留它们会让它们继续指向已不存在的笔记，因此它们会变成顶级行。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "detail",
                     "source": "Limits are a reminder, not a rule. Moving it anyway is fine.",
-                    "target": "Limits are a reminder, not a rule. Moving it anyway is fine."
+                    "target": "限制只是提醒，并非规则。仍要移动也没问题。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "detail",
                     "source": "It is an ordinary number in each note's frontmatter, so the order survives without this plugin. It stays hidden from your views.",
-                    "target": "It is an ordinary number in each note's frontmatter, so the order survives without this plugin. It stays hidden from your views."
+                    "target": "它是每条笔记 frontmatter 中的普通数字，因此即使没有此插件，顺序也能保留。它会在你的视图中保持隐藏。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "detail",
                     "source": "Everything on it is an ordinary block you can change, copy or delete. You can also do this later from the command palette.",
-                    "target": "Everything on it is an ordinary block you can change, copy or delete. You can also do this later from the command palette."
+                    "target": "上面的所有内容都是普通块，你可以更改、复制或删除。之后你也可以从命令面板中执行此操作。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "error",
                     "source": "Expected `key: value` lines inside this block.",
-                    "target": "Expected `key: value` lines inside this block."
+                    "target": "此块内应包含 `key: value` 行。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "error",
                     "source": "Missing `database:` — name the database this view should show.",
-                    "target": "Missing `database:` — name the database this view should show."
+                    "target": "缺少 `database:` — 请指定此视图应显示的数据库。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "error",
                     "source": "Missing `database:` — name the database to chart.",
-                    "target": "Missing `database:` — name the database to chart."
+                    "target": "缺少 `database:` — 请指定要绘制图表的数据库。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "error",
                     "source": "Missing `group:` — name the property whose values become the bars or slices.",
-                    "target": "Missing `group:` — name the property whose values become the bars or slices."
+                    "target": "缺少 `group:` — 请指定其值将用作条形或扇区的属性。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "error",
                     "source": "Missing `database:` — name the database this metric counts.",
-                    "target": "Missing `database:` — name the database this metric counts."
+                    "target": "缺少 `database:` — 请指定此指标要统计的数据库。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "error",
                     "source": "Missing `database:` — name the database this bar measures.",
-                    "target": "Missing `database:` — name the database this bar measures."
+                    "target": "缺少 `database:` — 请指定此条形要衡量的数据库。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "error",
                     "source": "Missing `filter:` — say what counts as done, for example `filter: Status is Done`.",
-                    "target": "Missing `filter:` — say what counts as done, for example `filter: Status is Done`."
+                    "target": "缺少 `filter:` — 请说明什么算作已完成，例如 `filter: Status is Done`。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "error",
                     "source": "A countdown needs either `date: 2026-01-01` or `database:` plus `date_property:`.",
-                    "target": "A countdown needs either `date: 2026-01-01` or `database:` plus `date_property:`."
+                    "target": "倒计时需要提供 `date: 2026-01-01`，或提供 `database:` 和 `date_property:`。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "error",
                     "source": "Missing `date_property:` — name the date property to count down to.",
-                    "target": "Missing `date_property:` — name the date property to count down to."
+                    "target": "缺少 `date_property:` — 请指定要倒计时的日期属性。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "error",
                     "source": "Missing `database:` — name the database to list rows from.",
-                    "target": "Missing `database:` — name the database to list rows from."
+                    "target": "缺少 `database:` — 请指定要从中列出行的数据库。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "error",
                     "source": "Missing `database:` — name the database this button adds to.",
-                    "target": "Missing `database:` — name the database this button adds to."
+                    "target": "缺少 `database:` — 请指定此按钮要添加到的数据库。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "error",
                     "source": "`set:` should be a list of `Property: value` lines, indented under `set:`.",
-                    "target": "`set:` should be a list of `Property: value` lines, indented under `set:`."
+                    "target": "`set:` 应为 `Property: value` 行的列表，并缩进在 `set:` 下。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "error",
                     "source": "Expected `key: value` lines describing a widget.",
-                    "target": "Expected `key: value` lines describing a widget."
+                    "target": "应为描述小组件的 `key: value` 行。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "error",
                     "source": "`widgets:` should be a list — one `- widget: ...` entry per card.",
-                    "target": "`widgets:` should be a list — one `- widget: ...` entry per card."
+                    "target": "`widgets:` 应为列表 — 每个卡片一个 `- widget: ...` 条目。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "error",
                     "source": "`widgets:` is empty — add at least one `- widget: ...` entry.",
-                    "target": "`widgets:` is empty — add at least one `- widget: ...` entry."
+                    "target": "`widgets:` 为空 — 请至少添加一个 `- widget: ...` 条目。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "heading",
                     "source": "Editing",
-                    "target": "Editing"
+                    "target": "编辑"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "heading",
                     "source": "Databases",
-                    "target": "Databases"
+                    "target": "数据库"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "US dollar ($)",
-                    "target": "US dollar ($)"
+                    "target": "美元 ($)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Euro (€)",
-                    "target": "Euro (€)"
+                    "target": "欧元 (€)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Pound sterling (£)",
-                    "target": "Pound sterling (£)"
+                    "target": "英镑 (£)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Japanese yen (¥)",
-                    "target": "Japanese yen (¥)"
+                    "target": "日元 (¥)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Chinese yuan (¥)",
-                    "target": "Chinese yuan (¥)"
+                    "target": "人民币 (¥)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Indian rupee (₹)",
-                    "target": "Indian rupee (₹)"
+                    "target": "印度卢比 (₹)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Australian dollar (A$)",
-                    "target": "Australian dollar (A$)"
+                    "target": "澳元 (A$)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Canadian dollar (C$)",
-                    "target": "Canadian dollar (C$)"
+                    "target": "加元 (C$)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Swiss franc (CHF)",
-                    "target": "Swiss franc (CHF)"
+                    "target": "瑞士法郎 (CHF)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Swedish krona (kr)",
-                    "target": "Swedish krona (kr)"
+                    "target": "瑞典克朗 (kr)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Norwegian krone (kr)",
-                    "target": "Norwegian krone (kr)"
+                    "target": "挪威克朗 (kr)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Danish krone (kr)",
-                    "target": "Danish krone (kr)"
+                    "target": "丹麦克朗 (kr)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Polish złoty (zł)",
-                    "target": "Polish złoty (zł)"
+                    "target": "波兰兹罗提 (zł)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Czech koruna (Kč)",
-                    "target": "Czech koruna (Kč)"
+                    "target": "捷克克朗 (Kč)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Hungarian forint (Ft)",
-                    "target": "Hungarian forint (Ft)"
+                    "target": "匈牙利福林 (Ft)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Romanian leu (lei)",
-                    "target": "Romanian leu (lei)"
+                    "target": "罗马尼亚列伊 (lei)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Turkish lira (₺)",
-                    "target": "Turkish lira (₺)"
+                    "target": "土耳其里拉 (₺)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Russian rouble (₽)",
-                    "target": "Russian rouble (₽)"
+                    "target": "俄罗斯卢布 (₽)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Ukrainian hryvnia (₴)",
-                    "target": "Ukrainian hryvnia (₴)"
+                    "target": "乌克兰格里夫纳 (₴)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Brazilian real (R$)",
-                    "target": "Brazilian real (R$)"
+                    "target": "巴西雷亚尔 (R$)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Mexican peso (MX$)",
-                    "target": "Mexican peso (MX$)"
+                    "target": "墨西哥比索 (MX$)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Argentine peso (ARS)",
-                    "target": "Argentine peso (ARS)"
+                    "target": "阿根廷比索 (ARS)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Chilean peso (CLP)",
-                    "target": "Chilean peso (CLP)"
+                    "target": "智利比索 (CLP)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Colombian peso (COP)",
-                    "target": "Colombian peso (COP)"
+                    "target": "哥伦比亚比索 (COP)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "South African rand (R)",
-                    "target": "South African rand (R)"
+                    "target": "南非兰特 (R)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Nigerian naira (₦)",
-                    "target": "Nigerian naira (₦)"
+                    "target": "尼日利亚奈拉 (₦)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Kenyan shilling (KSh)",
-                    "target": "Kenyan shilling (KSh)"
+                    "target": "肯尼亚先令 (KSh)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Egyptian pound (E£)",
-                    "target": "Egyptian pound (E£)"
+                    "target": "埃及镑 (E£)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "UAE dirham (AED)",
-                    "target": "UAE dirham (AED)"
+                    "target": "阿联酋迪拉姆 (AED)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Saudi riyal (SAR)",
-                    "target": "Saudi riyal (SAR)"
+                    "target": "沙特里亚尔 (SAR)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Israeli shekel (₪)",
-                    "target": "Israeli shekel (₪)"
+                    "target": "以色列谢克尔 (₪)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "South Korean won (₩)",
-                    "target": "South Korean won (₩)"
+                    "target": "韩元 (₩)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Singapore dollar (S$)",
-                    "target": "Singapore dollar (S$)"
+                    "target": "新加坡元 (S$)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Hong Kong dollar (HK$)",
-                    "target": "Hong Kong dollar (HK$)"
+                    "target": "港元 (HK$)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "New Taiwan dollar (NT$)",
-                    "target": "New Taiwan dollar (NT$)"
+                    "target": "新台币 (NT$)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Thai baht (฿)",
-                    "target": "Thai baht (฿)"
+                    "target": "泰铢 (฿)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Malaysian ringgit (RM)",
-                    "target": "Malaysian ringgit (RM)"
+                    "target": "马来西亚林吉特 (RM)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Indonesian rupiah (Rp)",
-                    "target": "Indonesian rupiah (Rp)"
+                    "target": "印度尼西亚盾 (Rp)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Philippine peso (₱)",
-                    "target": "Philippine peso (₱)"
+                    "target": "菲律宾比索 (₱)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Vietnamese dong (₫)",
-                    "target": "Vietnamese dong (₫)"
+                    "target": "越南盾 (₫)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Pakistani rupee (₨)",
-                    "target": "Pakistani rupee (₨)"
+                    "target": "巴基斯坦卢比 (₨)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Bangladeshi taka (৳)",
-                    "target": "Bangladeshi taka (৳)"
+                    "target": "孟加拉塔卡 (৳)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Sri Lankan rupee (Rs)",
-                    "target": "Sri Lankan rupee (Rs)"
+                    "target": "斯里兰卡卢比 (Rs)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "New Zealand dollar (NZ$)",
-                    "target": "New Zealand dollar (NZ$)"
+                    "target": "新西兰元 (NZ$)"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "label",
                     "source": "Delete only this row",
-                    "target": "Delete only this row"
+                    "target": "仅删除此行"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Table",
-                    "target": "Table"
+                    "target": "表格"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Name",
-                    "target": "Name"
+                    "target": "名称"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Blank",
-                    "target": "Blank"
+                    "target": "空白"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Notes",
-                    "target": "Notes"
+                    "target": "备注"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Task tracker",
-                    "target": "Task tracker"
+                    "target": "任务跟踪器"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Due",
-                    "target": "Due"
+                    "target": "截止日期"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Done",
-                    "target": "Done"
+                    "target": "完成"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Set up my first database",
-                    "target": "Set up my first database"
+                    "target": "设置我的第一个数据库"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Try the board view",
-                    "target": "Try the board view"
+                    "target": "尝试看板视图"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Read the plugin README",
-                    "target": "Read the plugin README"
+                    "target": "阅读插件 README"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Projects",
-                    "target": "Projects"
+                    "target": "项目"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Owner",
-                    "target": "Owner"
+                    "target": "负责人"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Start",
-                    "target": "Start"
+                    "target": "开始"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Target",
-                    "target": "Target"
+                    "target": "目标"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Progress",
-                    "target": "Progress"
+                    "target": "进度"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Link",
-                    "target": "Link"
+                    "target": "链接"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Goals",
-                    "target": "Goals"
+                    "target": "目标"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Current",
-                    "target": "Current"
+                    "target": "当前"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Completion",
-                    "target": "Completion"
+                    "target": "完成度"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Achieved",
-                    "target": "Achieved"
+                    "target": "已达成"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Habit log",
-                    "target": "Habit log"
+                    "target": "习惯记录"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Date",
-                    "target": "Date"
+                    "target": "日期"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Completed",
-                    "target": "Completed"
+                    "target": "已完成"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Minutes",
-                    "target": "Minutes"
+                    "target": "分钟"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Reading list",
-                    "target": "Reading list"
+                    "target": "阅读清单"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Author",
-                    "target": "Author"
+                    "target": "作者"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Cover",
-                    "target": "Cover"
+                    "target": "封面"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Rating",
-                    "target": "Rating"
+                    "target": "评分"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Finished",
-                    "target": "Finished"
+                    "target": "已完成"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "People / CRM",
-                    "target": "People / CRM"
+                    "target": "人员 / CRM"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Company",
-                    "target": "Company"
+                    "target": "公司"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Email",
-                    "target": "Email"
+                    "target": "电子邮件"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Phone",
-                    "target": "Phone"
+                    "target": "电话"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Last contact",
-                    "target": "Last contact"
+                    "target": "最近联系"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Expenses",
-                    "target": "Expenses"
+                    "target": "费用"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Amount",
-                    "target": "Amount"
+                    "target": "金额"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Reimbursable",
-                    "target": "Reimbursable"
+                    "target": "可报销"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Meeting notes",
-                    "target": "Meeting notes"
+                    "target": "会议记录"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Attendees",
-                    "target": "Attendees"
+                    "target": "参会人员"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Follow-up needed",
-                    "target": "Follow-up needed"
+                    "target": "需要跟进"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Slash command menu",
-                    "target": "Slash command menu"
+                    "target": "斜杠命令菜单"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Trigger character",
-                    "target": "Trigger character"
+                    "target": "触发字符"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Page icons and covers",
-                    "target": "Page icons and covers"
+                    "target": "页面图标和封面"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Properties on the page",
-                    "target": "Properties on the page"
+                    "target": "页面上的属性"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Load covers from the web",
-                    "target": "Load covers from the web"
+                    "target": "从网络加载封面"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Cover height",
-                    "target": "Cover height"
+                    "target": "封面高度"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Notion typography",
-                    "target": "Notion typography"
+                    "target": "Notion 字体排版"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Default folder",
-                    "target": "Default folder"
+                    "target": "默认文件夹"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Show the databases sidebar on startup",
-                    "target": "Show the databases sidebar on startup"
+                    "target": "启动时显示数据库侧边栏"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Open rows beside the view",
-                    "target": "Open rows beside the view"
+                    "target": "在视图旁打开行"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Compact rows",
-                    "target": "Compact rows"
+                    "target": "紧凑行"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Report a problem",
-                    "target": "Report a problem"
+                    "target": "报告问题"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Import an existing folder",
-                    "target": "Import an existing folder"
+                    "target": "导入现有文件夹"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "New database",
-                    "target": "New database"
+                    "target": "新建数据库"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Order",
-                    "target": "Order"
+                    "target": "顺序"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Tasks",
-                    "target": "Tasks"
+                    "target": "任务"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Board",
-                    "target": "Board"
+                    "target": "看板"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Show the databases sidebar",
-                    "target": "Show the databases sidebar"
+                    "target": "显示数据库侧边栏"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Open a database",
-                    "target": "Open a database"
+                    "target": "打开数据库"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Assign unique IDs to existing rows",
-                    "target": "Assign unique IDs to existing rows"
+                    "target": "为现有行分配唯一 ID"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Set up an example database and page",
-                    "target": "Set up an example database and page"
+                    "target": "设置示例数据库和页面"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Insert database view",
-                    "target": "Insert database view"
+                    "target": "插入数据库视图"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Insert chart from database",
-                    "target": "Insert chart from database"
+                    "target": "从数据库插入图表"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Add item to a database",
-                    "target": "Add item to a database"
+                    "target": "向数据库添加条目"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Add a property to a database",
-                    "target": "Add a property to a database"
+                    "target": "向数据库添加属性"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Turn a folder into a database",
-                    "target": "Turn a folder into a database"
+                    "target": "将文件夹转换为数据库"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Toggle the slash menu",
-                    "target": "Toggle the slash menu"
+                    "target": "切换斜杠菜单"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Set this note's icon and cover",
-                    "target": "Set this note's icon and cover"
+                    "target": "设置此笔记的图标和封面"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Toggle the checkbox property on the active row",
-                    "target": "Toggle the checkbox property on the active row"
+                    "target": "切换当前行上的复选框属性"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Refresh all database views",
-                    "target": "Refresh all database views"
+                    "target": "刷新所有数据库视图"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "placeholder",
                     "source": "Databases",
-                    "target": "Databases"
+                    "target": "数据库"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "Text",
-                    "target": "Text"
+                    "target": "文本"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "No data matches this chart.",
-                    "target": "No data matches this chart."
+                    "target": "此图表没有匹配的数据。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "Add a condition",
-                    "target": "Add a condition"
+                    "target": "添加条件"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "This filter has brackets in it, so it is edited as text.",
-                    "target": "This filter has brackets in it, so it is edited as text."
+                    "target": "此筛选器包含括号，因此以文本形式编辑。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "Start again with rows",
-                    "target": "Start again with rows"
+                    "target": "重新从行开始"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "Show rows where",
-                    "target": "Show rows where"
+                    "target": "显示行，其中"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "of these match:",
-                    "target": "of these match:"
+                    "target": "符合以下条件："
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "No conditions — every row is shown.",
-                    "target": "No conditions — every row is shown."
+                    "target": "无条件 — 显示所有行。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "No sort — rows stay in file order.",
-                    "target": "No sort — rows stay in file order."
+                    "target": "不排序 — 行保持文件顺序。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "New database",
-                    "target": "New database"
+                    "target": "新建数据库"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "A database is a folder of notes. Each note is a row, and its properties live in the note's frontmatter — so everything stays plain markdown.",
-                    "target": "A database is a folder of notes. Each note is a row, and its properties live in the note's frontmatter — so everything stays plain markdown."
+                    "target": "数据库是存放笔记的文件夹。每条笔记就是一行，其属性保存在笔记的 frontmatter 中——因此所有内容都保持为纯 Markdown。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "No databases yet — create one first with “Notion: New database”.",
-                    "target": "No databases yet — create one first with “Notion: New database”."
+                    "target": "还没有数据库 — 请先用“Notion: New database”创建一个。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "No databases yet — create one first.",
-                    "target": "No databases yet — create one first."
+                    "target": "还没有数据库 — 请先创建一个。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "Nothing to preview yet.",
-                    "target": "Nothing to preview yet."
+                    "target": "暂无可预览内容。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "Turn a folder into a database",
-                    "target": "Turn a folder into a database"
+                    "target": "将文件夹转换为数据库"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "Reads the frontmatter of every note in the folder and guesses a property for each key. Ideal for a Notion export.",
-                    "target": "Reads the frontmatter of every note in the folder and guesses a property for each key. Ideal for a Notion export."
+                    "target": "读取文件夹中每条笔记的 frontmatter，并为每个键推测一个属性。非常适合用于 Notion 导出。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "Save as template",
-                    "target": "Save as template"
+                    "target": "保存为模板"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "None yet. Set a row up the way you like, then right-click it and choose “Save as template”.",
-                    "target": "None yet. Set a row up the way you like, then right-click it and choose “Save as template”."
+                    "target": "暂无。按你的喜好设置好一行，然后右键点击它并选择“保存为模板”。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "Save this view",
-                    "target": "Save this view"
+                    "target": "保存此视图"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "It will appear under this database in the sidebar.",
-                    "target": "It will appear under this database in the sidebar."
+                    "target": "它将出现在侧边栏中此数据库下方。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "A view with this name already exists and will be replaced.",
-                    "target": "A view with this name already exists and will be replaced."
+                    "target": "已存在同名视图，它将被替换。"
                 },
                 {
                     "type": "ObjectProperty",
@@ -2638,91 +2638,91 @@
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "A rollup reaches through a relation, so this database needs a relation property first. Add one (type: Relation) pointing at the database you want to pull numbers from, then come back.",
-                    "target": "A rollup reaches through a relation, so this database needs a relation property first. Add one (type: Relation) pointing at the database you want to pull numbers from, then come back."
+                    "target": "汇总会通过关联获取数据，因此此数据库需要先有一个关联属性。添加一个（类型：关联）指向你想从中提取数字的数据库，然后再回来。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "Name",
-                    "target": "Name"
+                    "target": "名称"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "New",
-                    "target": "New"
+                    "target": "新建"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "Calculate",
-                    "target": "Calculate"
+                    "target": "计算"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "Set a property",
-                    "target": "Set a property"
+                    "target": "设置属性"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "Delete",
-                    "target": "Delete"
+                    "target": "删除"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "Clear selection",
-                    "target": "Clear selection"
+                    "target": "清除选择"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "Board view needs a `group` property (a select, multi-select or checkbox).",
-                    "target": "Board view needs a `group` property (a select, multi-select or checkbox)."
+                    "target": "看板视图需要一个 `group` 属性（选择、多选或复选框）。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "No rows match this view.",
-                    "target": "No rows match this view."
+                    "target": "没有行匹配此视图。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "Calendar view needs a `date` property. Add one to the database, or set `date: <property>` on the view.",
-                    "target": "Calendar view needs a `date` property. Add one to the database, or set `date: <property>` on the view."
+                    "target": "日历视图需要一个 `date` 属性。请向数据库添加一个，或在视图上设置 `date: <property>`。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "Today",
-                    "target": "Today"
+                    "target": "今天"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "Timeline view needs a `date` property. Add one to the database, or set `start: <property>` (and optionally `end: <property>`) on the view.",
-                    "target": "Timeline view needs a `date` property. Add one to the database, or set `start: <property>` (and optionally `end: <property>`) on the view."
+                    "target": "时间线视图需要一个 `date` 属性。请向数据库添加一个，或在视图上设置 `start: <property>`（以及可选的 `end: <property>`）。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "No rows to show.",
-                    "target": "No rows to show."
+                    "target": "没有可显示的行。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "Show all",
-                    "target": "Show all"
+                    "target": "显示全部"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "Properties",
-                    "target": "Properties"
+                    "target": "属性"
                 },
                 {
                     "type": "ObjectProperty",
@@ -2734,439 +2734,439 @@
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "Nothing to show yet.",
-                    "target": "Nothing to show yet."
+                    "target": "暂无可显示的内容。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "Repeating rows",
-                    "target": "Repeating rows"
+                    "target": "重复行"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "Ticking a row off creates the next one, with everything else about it copied across. Nothing appears until you finish the last one, so a fortnight away does not leave you fourteen identical rows.",
-                    "target": "Ticking a row off creates the next one, with everything else about it copied across. Nothing appears until you finish the last one, so a fortnight away does not leave you fourteen identical rows."
+                    "target": "勾选一行后，会创建下一行，并复制该行的其他所有内容。在完成上一行之前不会显示任何内容，因此离开两周也不会留下十四行一模一样的记录。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "This needs a text property for the rule, a date property to move, and a checkbox to tick. Add whichever is missing first.",
-                    "target": "This needs a text property for the rule, a date property to move, and a checkbox to tick. Add whichever is missing first."
+                    "target": "此功能需要一个文本属性来保存规则，一个日期属性来移动，以及一个复选框来勾选。请先添加缺少的那一项。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "Understood rules: daily · weekly · fortnightly · monthly · quarterly · yearly · every 3 days · every other week · every Tuesday · weekdays",
-                    "target": "Understood rules: daily · weekly · fortnightly · monthly · quarterly · yearly · every 3 days · every other week · every Tuesday · weekdays"
+                    "target": "已识别的规则：每天 · 每周 · 每两周 · 每月 · 每季度 · 每年 · 每 3 天 · 每隔一周 · 每周二 · 工作日"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "When this changes, do that",
-                    "target": "When this changes, do that"
+                    "target": "当此项变化时，执行相应操作"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "A rule watches one property and writes another. It fires on a change, so re-picking a value it already had does nothing — a completion date is stamped once, not every time somebody opens the menu.",
-                    "target": "A rule watches one property and writes another. It fires on a change, so re-picking a value it already had does nothing — a completion date is stamped once, not every time somebody opens the menu."
+                    "target": "规则会监视一个属性并写入另一个属性。它在属性发生变化时触发，因此重新选择它已有的值不会产生任何效果——完成日期只会写入一次，而不是每次有人打开菜单时都写入。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "Add a rule",
-                    "target": "Add a rule"
+                    "target": "添加规则"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "This database needs at least two editable properties before a rule can do anything.",
-                    "target": "This database needs at least two editable properties before a rule can do anything."
+                    "target": "此数据库至少需要两个可编辑属性，规则才能生效。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "No rules — nothing happens on its own.",
-                    "target": "No rules — nothing happens on its own."
+                    "target": "没有规则——不会自动发生任何事。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "When",
-                    "target": "When"
+                    "target": "当"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "becomes",
-                    "target": "becomes"
+                    "target": "变为"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "anything",
-                    "target": "anything"
+                    "target": "任意值"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "checked",
-                    "target": "checked"
+                    "target": "已勾选"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "unchecked",
-                    "target": "unchecked"
+                    "target": "未勾选"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "set",
-                    "target": "set"
+                    "target": "设置"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "to",
-                    "target": "to"
+                    "target": "为"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "today",
-                    "target": "today"
+                    "target": "今天"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "clear it",
-                    "target": "clear it"
+                    "target": "清除它"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "This database no longer exists. It may have been removed from settings.",
-                    "target": "This database no longer exists. It may have been removed from settings."
+                    "target": "此数据库已不存在。它可能已从设置中移除。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "Databases",
-                    "target": "Databases"
+                    "target": "数据库"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "No databases yet.",
-                    "target": "No databases yet."
+                    "target": "还没有数据库。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "Create your first one",
-                    "target": "Create your first one"
+                    "target": "创建你的第一个"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "…or set up an example to look at",
-                    "target": "…or set up an example to look at"
+                    "target": "……或设置一个示例来查看"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "No headings in this note yet.",
-                    "target": "No headings in this note yet."
+                    "target": "此笔记中还没有标题。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "Add a property",
-                    "target": "Add a property"
+                    "target": "添加属性"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "A board needs a property to group by. Choose one under “Group by” in this view's settings.",
-                    "target": "A board needs a property to group by. Choose one under “Group by” in this view's settings."
+                    "target": "看板需要一个用于分组的属性。请在此视图设置的“分组依据”下选择一个。"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "No value",
-                    "target": "No value"
+                    "target": "无值"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "Page icon and cover",
-                    "target": "Page icon and cover"
+                    "target": "页面图标和封面"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "text",
                     "source": "Notion Suite",
-                    "target": "Notion Suite"
+                    "target": "Notion 套件"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Over the limit",
-                    "target": "Over the limit"
+                    "target": "超出限制"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Remember this order?",
-                    "target": "Remember this order?"
+                    "target": "还记得这个订单吗？"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Text",
-                    "target": "Text"
+                    "target": "文本"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Heading 1",
-                    "target": "Heading 1"
+                    "target": "标题 1"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Heading 2",
-                    "target": "Heading 2"
+                    "target": "标题 2"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Heading 3",
-                    "target": "Heading 3"
+                    "target": "标题 3"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Bulleted list",
-                    "target": "Bulleted list"
+                    "target": "项目符号列表"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Numbered list",
-                    "target": "Numbered list"
+                    "target": "编号列表"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "To-do list",
-                    "target": "To-do list"
+                    "target": "待办列表"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Toggle list",
-                    "target": "Toggle list"
+                    "target": "折叠列表"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Toggle heading 1",
-                    "target": "Toggle heading 1"
+                    "target": "折叠标题 1"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Toggle heading 2",
-                    "target": "Toggle heading 2"
+                    "target": "折叠标题 2"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Toggle heading 3",
-                    "target": "Toggle heading 3"
+                    "target": "折叠标题 3"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Table of contents",
-                    "target": "Table of contents"
+                    "target": "目录"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Breadcrumb",
-                    "target": "Breadcrumb"
+                    "target": "面包屑导航"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Page icon and cover",
-                    "target": "Page icon and cover"
+                    "target": "页面图标和封面"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Widget",
-                    "target": "Widget"
+                    "target": "小组件"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Quote",
-                    "target": "Quote"
+                    "target": "引用"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Divider",
-                    "target": "Divider"
+                    "target": "分割线"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Code",
-                    "target": "Code"
+                    "target": "代码"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Table",
-                    "target": "Table"
+                    "target": "表格"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Columns",
-                    "target": "Columns"
+                    "target": "分栏"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Callout",
-                    "target": "Callout"
+                    "target": "标注"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Callout: tip",
-                    "target": "Callout: tip"
+                    "target": "标注：提示"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Callout: warning",
-                    "target": "Callout: warning"
+                    "target": "标注：警告"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Callout: danger",
-                    "target": "Callout: danger"
+                    "target": "标注：危险"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Callout: success",
-                    "target": "Callout: success"
+                    "target": "标注：成功"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Callout: question",
-                    "target": "Callout: question"
+                    "target": "标注：问题"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Database — new",
-                    "target": "Database — new"
+                    "target": "数据库 — 新建"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Database — view",
-                    "target": "Database — view"
+                    "target": "数据库 — 视图"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Database — add item",
-                    "target": "Database — add item"
+                    "target": "数据库 — 添加项目"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Chart from database",
-                    "target": "Chart from database"
+                    "target": "来自数据库的图表"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Date — today",
-                    "target": "Date — today"
+                    "target": "日期 — 今天"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Date — tomorrow",
-                    "target": "Date — tomorrow"
+                    "target": "日期 — 明天"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Link to page",
-                    "target": "Link to page"
+                    "target": "链接到页面"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Embed page",
-                    "target": "Embed page"
+                    "target": "嵌入页面"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Equation",
-                    "target": "Equation"
+                    "target": "公式"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Highlight",
-                    "target": "Highlight"
+                    "target": "高亮"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "title",
                     "source": "Set up an example to look at?",
-                    "target": "Set up an example to look at?"
+                    "target": "设置一个示例以便查看？"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "type",
                     "source": "checkbox",
-                    "target": "checkbox"
+                    "target": "复选框"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "type",
                     "source": "text",
-                    "target": "text"
+                    "target": "文本"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "type",
                     "source": "date",
-                    "target": "date"
+                    "target": "日期"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "type",
                     "source": "search",
-                    "target": "search"
+                    "target": "搜索"
                 }
             ],
             "regex": [

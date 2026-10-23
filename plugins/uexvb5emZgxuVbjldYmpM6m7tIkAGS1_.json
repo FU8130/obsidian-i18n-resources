@@ -1,0 +1,3426 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "powereditor",
+        "version": "1.0.0",
+        "title": "Power Editor",
+        "description": "Power Editor Localization & Tweaks",
+        "language": "zh-cn",
+        "supportedVersions": "1.62.3",
+        "author": ""
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "AssignmentExpression",
+                    "name": "placeholder",
+                    "source": "Search settings...",
+                    "target": "搜索设置..."
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Copy",
+                    "target": "复制"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Copied",
+                    "target": "已复制"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "none",
+                    "target": "无"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Hide on every list",
+                    "target": "在所有列表中隐藏"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Hide on numbered lists",
+                    "target": "在编号列表中隐藏"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "all",
+                    "target": "全部"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Show on every list",
+                    "target": "在所有列表中显示"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "relaxed",
+                    "target": "宽松"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Relaxed",
+                    "target": "宽松"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "normal",
+                    "target": "常规"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Normal",
+                    "target": "常规"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "compact",
+                    "target": "紧凑"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Compact",
+                    "target": "紧凑"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "off",
+                    "target": "关闭"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Off",
+                    "target": "关闭"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "bare",
+                    "target": "无标签"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Yes, just the time",
+                    "target": "是，仅显示时间"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "labeled",
+                    "target": "带标签"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Yes, with the word Edited",
+                    "target": "是，并显示“已编辑”字样"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "both",
+                    "target": "both"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Both",
+                    "target": "两者"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "bottom",
+                    "target": "bottom"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "At the end of the note",
+                    "target": "在笔记末尾"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "rule",
+                    "target": "rule"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Under the title, with a line above it",
+                    "target": "标题下方，上方带一条分隔线"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "title",
+                    "target": "title"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Under the title",
+                    "target": "标题下方"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Relative, then the exact date",
+                    "target": "相对时间，然后显示确切日期"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "exact",
+                    "target": "exact"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Exact date and time",
+                    "target": "精确日期和时间"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "relative",
+                    "target": "relative"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Relative (3 minutes ago)",
+                    "target": "相对（3分钟前）"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "default",
+                    "target": "default"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Follow my Obsidian theme",
+                    "target": "跟随我的 Obsidian 主题"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "GitHub Dark",
+                    "target": "GitHub Dark"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "monokai",
+                    "target": "monokai"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Monokai",
+                    "target": "Monokai"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "dracula",
+                    "target": "dracula"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Dracula",
+                    "target": "Dracula"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "One Dark",
+                    "target": "One Dark"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "vivid",
+                    "target": "vivid"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Vivid Light",
+                    "target": "Vivid Light"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Off (Obsidian default)",
+                    "target": "关闭（Obsidian 默认）"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "plain",
+                    "target": "plain"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Plain text (remove all formatting)",
+                    "target": "纯文本（移除所有格式）"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "clean",
+                    "target": "clean"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Clean (remove highlight and color tags)",
+                    "target": "简洁（移除高亮和颜色标签）"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "embed",
+                    "target": "embed"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "As an embedded page preview",
+                    "target": "作为嵌入页面预览"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "link",
+                    "target": "链接"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "As a link that opens it",
+                    "target": "作为打开它的链接"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "obsidian",
+                    "target": "Obsidian"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Wherever Obsidian saves attachments",
+                    "target": "Obsidian 保存附件的位置"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "subfolder",
+                    "target": "子文件夹"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "In a subfolder beside the note",
+                    "target": "在笔记旁的子文件夹中"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "note",
+                    "target": "笔记"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "In the same folder as the note",
+                    "target": "在与笔记相同的文件夹中"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "bullets",
+                    "target": "项目符号"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Turn into bullet points",
+                    "target": "转换为项目符号"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "tidy",
+                    "target": "tidy"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Tidy into clean prose",
+                    "target": "整理为通顺的文本"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "raw",
+                    "target": "raw"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Insert the raw transcript",
+                    "target": "插入原始转录内容"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": "Updated. ",
+                    "target": "已更新。 "
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "label",
+                    "target": "label"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "input",
+                    "target": "input"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "button",
+                    "target": "button"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "textarea",
+                    "target": "textarea"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "img",
+                    "target": "img"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Could not parse message into JSON:",
+                    "target": "无法将消息解析为 JSON："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "From chunk:",
+                    "target": "来自数据块："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "poll failed permanently, stopping poller",
+                    "target": "轮询永久失败，正在停止轮询器"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "ack failed",
+                    "target": "ack 失败"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "stream loop failed",
+                    "target": "流循环失败"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "permanent stream failure, shutting down",
+                    "target": "流永久性失败，正在关闭"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "failed to send tool result",
+                    "target": "发送工具结果失败"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "heartbeat loop failed",
+                    "target": "心跳循环失败"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "force-stop on exit failed",
+                    "target": "退出时强制停止失败"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "permanent heartbeat failure",
+                    "target": "心跳永久性失败"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Power Editor failed to load",
+                    "target": "Power Editor 加载失败"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "info",
+                    "source": "poller starting",
+                    "target": "轮询器启动中"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "info",
+                    "source": "claimed work",
+                    "target": "已认领工作"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "info",
+                    "source": "session tool runner starting",
+                    "target": "会话工具运行器启动中"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "info",
+                    "source": "session terminated",
+                    "target": "会话已终止"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "info",
+                    "source": "session idle after end_turn; stopping",
+                    "target": "end_turn 后会话空闲；正在停止"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "info",
+                    "source": "executing tool",
+                    "target": "正在执行工具"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "info",
+                    "source": "tool not owned by this runner; leaving the tool_use_id pending for its owner",
+                    "target": "工具不属于此运行器；将 tool_use_id 留给其所有者处理"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "info",
+                    "source": "heartbeat signals shutdown",
+                    "target": "心跳信号指示关闭"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Add divider",
+                    "target": "添加分隔线"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Reset order",
+                    "target": "重置顺序"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Add action",
+                    "target": "添加操作"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "A web URL, or pick a note below instead.",
+                    "target": "网页 URL，或改为从下方选择一条笔记。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Also convert plain “Note: …” lines. Less certain: ordinary prose can open with a word and a colon too, so check the list below before converting.",
+                    "target": "同时转换纯文本的“Note: …”行。不太确定：普通正文也可能以单词和冒号开头，因此转换前请检查下方列表。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "A vertical rule between groups.",
+                    "target": "组之间的垂直分隔线。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Text to display",
+                    "target": "要显示的文本"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Address",
+                    "target": "地址"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Include labels without bold",
+                    "target": "包含不加粗的标签"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Divider",
+                    "target": "分隔线"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Files",
+                    "target": "文件"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Menu label",
+                    "target": "菜单标签"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Instruction, e.g. Rewrite this as a friendly status update.",
+                    "target": "指令，例如：将其改写为友好的状态更新。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Leave empty to use Power Assistant's",
+                    "target": "留空以使用 Power Assistant 的"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "Page cover",
+                    "target": "页面封面"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "Link",
+                    "target": "链接"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "Convert lead-ins into callouts",
+                    "target": "将引导语转换为标注"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "Converting…",
+                    "target": "正在转换…"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "Escape placeholder tags",
+                    "target": "转义占位符标签"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "Escaping…",
+                    "target": "正在转义…"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Convert lead-ins into callouts…",
+                    "target": "将引导语转换为标注…"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Edit link (Power Editor)",
+                    "target": "编辑链接（Power Editor）"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Copy as rich text",
+                    "target": "复制为富文本"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "File (PDF, document)",
+                    "target": "文件（PDF、文档）"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Today",
+                    "target": "今天"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Tomorrow",
+                    "target": "明天"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Next week",
+                    "target": "下周"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Pick date…",
+                    "target": "选择日期…"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Remove due date",
+                    "target": "移除截止日期"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Rename tab",
+                    "target": "重命名标签页"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Delete tab",
+                    "target": "删除标签页"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Full width",
+                    "target": "全宽"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Title over cover",
+                    "target": "标题置于封面之上"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Change icon…",
+                    "target": "更改图标…"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Remove icon",
+                    "target": "移除图标"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Verify (no expiry)",
+                    "target": "验证（无过期）"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Verify with expiry…",
+                    "target": "验证（带过期时间）…"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Remove verification",
+                    "target": "移除验证"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Superscript",
+                    "target": "上标"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Subscript",
+                    "target": "下标"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Continue writing",
+                    "target": "继续写作"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Summarize page into bullets",
+                    "target": "将页面总结为要点"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Toggle block (collapsible)",
+                    "target": "切换块（可折叠）"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Turn into",
+                    "target": "转换为"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Color",
+                    "target": "颜色"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Default",
+                    "target": "默认"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Duplicate",
+                    "target": "创建副本"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Copy link to block",
+                    "target": "复制块链接"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Move to top",
+                    "target": "移到顶部"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Move to bottom",
+                    "target": "移到底部"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Delete block",
+                    "target": "删除块"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Original size",
+                    "target": "原始大小"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Custom width…",
+                    "target": "自定义宽度…"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "Adds a divider at the end; move it where you want it",
+                    "target": "在末尾添加一条分隔线；可将其移动到所需位置"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "Remove",
+                    "target": "移除"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "Remove this divider",
+                    "target": "移除此分隔线"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "poll failed, backing off",
+                    "target": "轮询失败，正在退避"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "stop failed",
+                    "target": "停止失败"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "drain failed",
+                    "target": "排空失败"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "tool.close failed",
+                    "target": "tool.close 失败"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "stream disconnected, reconnecting",
+                    "target": "流已断开，正在重新连接"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "reconcile list failed",
+                    "target": "协调列表失败"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "drain timeout exceeded",
+                    "target": "排空超时已超出"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "skill setup failed",
+                    "target": "技能设置失败"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "skill cleanup failed",
+                    "target": "技能清理失败"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "lease not extended, shutting down",
+                    "target": "租约未续期，正在关闭"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "transient heartbeat failure",
+                    "target": "瞬时心跳失败"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "The `parsed` property on `text` blocks is deprecated, please use `parsed_output` instead.",
+                    "target": "`text` 块上的 `parsed` 属性已弃用，请改用 `parsed_output`。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Anthropic: The `compactionControl` parameter is deprecated and will be removed in a future version. Use server-side compaction instead by passing `edits: [{ type: \"compact_20260112\" }]` in the params passed to `toolRunner()`. See https://platform.claude.com/docs/en/build-with-claude/compaction",
+                    "target": "Anthropic：`compactionControl` 参数已弃用，并将在未来版本中移除。请改为在传给 `toolRunner()` 的参数中传入 `edits: [{ type: \"compact_20260112\" }]` 来使用服务器端压缩。请参阅 https://platform.claude.com/docs/en/build-with-claude/compaction"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Could not copy to the clipboard.",
+                    "target": "无法复制到剪贴板。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Power Editor: nothing to copy.",
+                    "target": "Power Editor：没有可复制的内容。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Power Editor: copied as plain Markdown (this platform has no rich clipboard).",
+                    "target": "Power Editor：已复制为纯 Markdown（此平台没有富文本剪贴板）。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Copied as rich text. Paste into your email.",
+                    "target": "已复制为富文本。粘贴到你的电子邮件中。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "No Markdown bold or italic inside highlights here.",
+                    "target": "此处高亮中不支持 Markdown 粗体或斜体。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "No embedded PDFs in this note.",
+                    "target": "此笔记中没有嵌入的 PDF。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Nothing completed to archive.",
+                    "target": "没有已完成的项目可归档。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Power Editor: couldn't read that as a date.",
+                    "target": "Power Editor：无法将其识别为日期。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Drag the cover up or down; release to save.",
+                    "target": "上下拖动封面；松开以保存。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Power Editor: applying the comment…",
+                    "target": "Power Editor：正在应用评论…"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Power Editor: a table cell cannot be a heading.",
+                    "target": "Power Editor：表格单元格不能作为标题。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Put the cursor inside a code block first.",
+                    "target": "请先将光标置于代码块内。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Power Editor: that acts on a whole line, so it cannot work inside a table cell. Use the Power Tables panel.",
+                    "target": "Power Editor：该操作作用于整行，因此无法在表格单元格内使用。请使用 Power Tables 面板。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Use Power Tables to align a table cell.",
+                    "target": "使用 Power Tables 对齐表格单元格。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Format painter locked on. Every selection you make takes the look; Esc or the brush stops it.",
+                    "target": "格式刷已锁定开启。每次选择都会套用该格式；按 Esc 或点击刷子可停止。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Format painter off.",
+                    "target": "格式刷已关闭。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Select formatted text first, then click the painter.",
+                    "target": "请先选择已设置格式的文本，然后再点击格式刷。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Power Editor: dictation needs a transcription endpoint and key. Set them under AI & dictation in settings, or enable Power Assistant and configure transcription there to reuse it.",
+                    "target": "Power Editor：听写需要转录端点和密钥。请在设置的“AI 与听写”中设置它们，或启用 Power Assistant 并在其中配置转录以复用。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Microphone unavailable or permission denied.",
+                    "target": "麦克风不可用或权限被拒绝。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Nothing recorded.",
+                    "target": "未录制任何内容。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Power Editor: transcribing…",
+                    "target": "Power Editor：正在转录…"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "The transcription came back empty.",
+                    "target": "转录结果为空。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Power Editor: recording (click the mic again to stop).",
+                    "target": "Power Editor：正在录音（再次点击麦克风以停止）。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Power Editor: add an Anthropic API key in settings (or enable Power Assistant with one).",
+                    "target": "Power Editor：请在设置中添加 Anthropic API 密钥（或使用密钥启用 Power Assistant）。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Select the text to work on first.",
+                    "target": "请先选择要处理的文本。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Power Editor: thinking…",
+                    "target": "Power Editor：思考中…"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Select some text first.",
+                    "target": "请先选择一些文本。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Power Editor: no ==highlights== in this note.",
+                    "target": "Power Editor：此笔记中没有 ==高亮==。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Power Editor: no ==highlights== found in the vault.",
+                    "target": "Power Editor：未在库中找到 ==高亮==。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Power Editor: couldn't find that callout's header line.",
+                    "target": "Power Editor：找不到该标注块的标题行。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "No placeholder tags to escape in this note.",
+                    "target": "此笔记中没有要转义的占位符标签。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "No Tip/Note/Warning lead-ins found in this note.",
+                    "target": "此笔记中未找到 Tip/Note/Warning 引导语。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Turn into needs Obsidian 1.5+ submenus.",
+                    "target": "“转换为”需要 Obsidian 1.5+ 的子菜单。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Color needs Obsidian 1.5+ submenus.",
+                    "target": "“颜色”需要 Obsidian 1.5+ 的子菜单。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Block link copied.",
+                    "target": "块链接已复制。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Power Editor: couldn't find that image's embed.",
+                    "target": "Power Editor：找不到该图片的嵌入内容。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Enter an address or pick a note.",
+                    "target": "输入地址或选择笔记。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "aria-label",
+                    "source": "Reschedule",
+                    "target": "重新安排"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "aria-label",
+                    "source": "Add tab",
+                    "target": "添加标签页"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "aria-label",
+                    "source": "Drag to resize",
+                    "target": "拖动以调整大小"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "aria-label",
+                    "source": "Remove column",
+                    "target": "删除列"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "aria-label",
+                    "source": "Add column",
+                    "target": "添加列"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "aria-label",
+                    "source": "Paragraph style",
+                    "target": "段落样式"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "aria-label",
+                    "source": "Drag to move block",
+                    "target": "拖动以移动区块"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "aria-label",
+                    "source": "Drag to reorder",
+                    "target": "拖动以重新排序"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "task-list-label ped-live-task",
+                    "target": "task-list-label ped-live-task"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "ped-week-day ped-board-col",
+                    "target": "ped-week-day ped-board-col"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "ped-columns ped-columns-live",
+                    "target": "ped-columns ped-columns-live"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "ped-btn ped-heading",
+                    "target": "ped-btn ped-heading"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "ped-colorpop ped-tablepop",
+                    "target": "ped-colorpop ped-tablepop"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Show popup notices from Power Editor. Turn off to keep Obsidian clear, especially on phones.",
+                    "target": "显示 Power Editor 的弹出通知。关闭后保持 Obsidian 界面清爽，尤其在手机上。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "A rich formatting toolbar at the top of every note in editing view.",
+                    "target": "在编辑视图中，每篇笔记顶部提供功能丰富的格式工具栏。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Obsidian mobile has its own toolbar, so this is off by default.",
+                    "target": "Obsidian 移动端有自己的工具栏，因此默认关闭。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Replace the commands on Obsidian's above-keyboard mobile toolbar with a note-taking set: photo, dictate, to-do, bullet and numbered lists, indents, bold, and hide keyboard. Turning this off restores your previous arrangement.",
+                    "target": "将 Obsidian 键盘上方移动端工具栏中的命令替换为一组笔记工具：照片、听写、待办、项目符号和编号列表、缩进、加粗以及隐藏键盘。关闭此选项将恢复您之前的布局。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Drag a button by its grip to reorder it (or focus a grip and use the arrow keys). Add a divider, or go back to the original layout.",
+                    "target": "通过拖动手柄来重新排列按钮（或聚焦手柄并使用方向键）。添加分隔线，或恢复原始布局。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "A compact formatting bubble appears right at your selection (the fastest way to format).",
+                    "target": "紧凑的格式气泡会直接出现在您的选区旁（最快的格式设置方式）。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Hover a block for a grip: drag it to move the block, click it for the block menu (turn into, duplicate, copy link, delete…).",
+                    "target": "将鼠标悬停在块上会出现手柄：拖动它来移动块，点击它打开块菜单（转换、复制、复制链接、删除……）。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Dragging a heading takes everything beneath it (until the next heading of the same level). Turn off to move heading lines alone.",
+                    "target": "拖动标题会带走其下方的全部内容（直到下一个同级标题）。关闭此选项则仅移动标题行。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Live Preview normally reveals ** and == while the cursor is inside formatted text. This keeps them hidden for a clean look; the markers still exist in the file, you just never see them.",
+                    "target": "实时预览通常会在光标位于格式化文本内时显示 ** 和 ==。此选项让它们保持隐藏以呈现整洁外观；标记仍然存在于文件中，只是您永远不会看到它们。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Keep a task's checkbox rendered on the line you are editing, instead of showing the raw '- [ ]' the way Live Preview does.",
+                    "target": "让任务的复选框在您编辑的行上保持渲染，而不是像实时预览那样显示原始的 '- [ ]'。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Ctrl+C also puts formatted text on the clipboard, so a paste into email keeps its headings, bold, links, and lettered sub-lists.",
+                    "target": "Ctrl+C 还会将格式化文本放入剪贴板，因此粘贴到电子邮件中时会保留其标题、加粗、链接和带字母编号的子列表。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "The vertical rule Obsidian draws down each indent level.",
+                    "target": "Obsidian 在每个缩进级别向下绘制的垂直线。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "How much your pages breathe (applies to editing and reading views).",
+                    "target": "页面的留白程度（适用于编辑和阅读视图）。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "A quiet line under the note's title: “Edited 3 minutes ago”. Click it to swap between the relative time and the exact date.",
+                    "target": "笔记标题下方一行低调的提示：“3 分钟前编辑”。点击可在相对时间和确切日期之间切换。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Under the note's title, at the very end of the note, or in both places.",
+                    "target": "在笔记标题下方、笔记的最末尾，或两处都显示。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "How the time itself reads.",
+                    "target": "时间本身的呈现格式。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "The syntax palette for fenced code. The dark ones are the editor themes Claude and ChatGPT render code in.",
+                    "target": "围栏代码的语法配色方案。深色的是 Claude 和 ChatGPT 渲染代码所用的编辑器主题。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "A numbered gutter down the left of every fenced block.",
+                    "target": "每个围栏代码块左侧的行号栏。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Style nested numbered lists by level (1, 2, 3 then a, b, c then i, ii, iii) instead of restarting at 1 everywhere. Applies in editing and reading views; the raw number shows while your cursor is on the line.",
+                    "target": "按层级设置嵌套有序列表的样式（1、2、3，然后是 a、b、c，再是 i、ii、iii），而不是全部从 1 重新开始。适用于编辑和阅读视图；光标位于该行时显示原始数字。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Pasting from Word, Outlook, a web page, or an AI chat converts to clean Markdown automatically, tables included. The 'Paste as clean Markdown' command does it on demand.",
+                    "target": "从 Word、Outlook、网页或 AI 聊天粘贴时自动转换为干净的 Markdown，包括表格。“粘贴为干净 Markdown”命令可按需执行此操作。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Highlighted or colored text stores HTML in the note. Clean removes those tags when you copy, so other apps get readable text and keep bold and italics. Plain text also drops the Markdown so nothing but the words is left. Off leaves copying to Obsidian.",
+                    "target": "高亮或带颜色的文本会在笔记中存储 HTML。清理会在复制时移除这些标签，因此其他应用获得可读文本并保留粗体和斜体。纯文本还会丢弃 Markdown，只留下文字。关闭则交由 Obsidian 处理复制。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "A link opens the PDF when you click it, so several of them read as a short list under a heading. An embed draws the pages in the note itself, which suits one document you want to read in place.",
+                    "target": "链接会在点击时打开 PDF，因此多个链接在标题下看起来就像一份简短的列表。嵌入则直接在笔记中绘制页面，适合你想就地阅读的单个文档。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "PDFs and documents you insert, drag, or paste can sit with the note that talks about them instead of in the vault's one attachment folder. Images are not covered by this and keep going wherever Obsidian already puts them.",
+                    "target": "你插入、拖入或粘贴的 PDF 和文档可以与提及它们的笔记放在一起，而不是放在库中唯一的附件文件夹里。图片不在此列，仍会存放到 Obsidian 原本放置它们的位置。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "The folder to make beside the note. Write {note} for the note's own name, so each page keeps its files in a folder of its own.",
+                    "target": "在笔记旁创建的文件夹。用 {note} 表示笔记自身的名称，这样每个页面都会把自己的文件保存在独立的文件夹中。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Dragging a PDF onto a note, or pasting one copied from your computer, files it the way the setting above asks. Turn this off to insert files only from the toolbar, the slash menu, or the command.",
+                    "target": "将 PDF 拖到笔记上，或粘贴从电脑复制的 PDF，都会按上方设置的方式归档。关闭此选项后，只能通过工具栏、斜杠菜单或命令插入文件。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Checking a box appends a ✅ done date so dashboards can show when things got finished. Recurring items (🔁) always create their next occurrence either way. Query them anywhere with a 'todo' code block.",
+                    "target": "勾选复选框会追加 ✅ 完成日期，以便仪表盘显示任务完成时间。无论是否勾选，重复项（🔁）都会创建下一次出现。可在任意位置使用 'todo' 代码块查询它们。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Where 'To-do: quick capture' appends new items. The note is created if it doesn't exist.",
+                    "target": "“待办：快速捕捉”将新条目追加到的位置。如果笔记不存在，则会创建该笔记。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "A due-today digest when Obsidian opens, and a notice the minute any '⏰ HH:MM' to-do comes due while the app is running.",
+                    "target": "Obsidian 打开时提供今日到期摘要，并在应用运行期间任何“⏰ HH:MM”待办到期时立即发出通知。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Powers the bubble's AI actions (improve, fix grammar, shorten, summarize). Leave empty to reuse Power Assistant's key automatically.",
+                    "target": "为气泡的 AI 操作（改进、修正语法、缩短、总结）提供支持。留空可自动复用 Power Assistant 的密钥。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Your own one-click instructions on the AI menu, e.g. \"Rewrite as a customer-friendly email\".",
+                    "target": "在 AI 菜单中添加你自己的一键指令，例如“改写为对客户友好的邮件”。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Any OpenAI-compatible base URL, for example Groq. Leave empty to reuse Power Assistant's transcription automatically.",
+                    "target": "任何兼容 OpenAI 的基础 URL，例如 Groq。留空可自动复用 Power Assistant 的转录设置。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "The key for the endpoint above. Empty is fine for a server on your own machine, or to fall back to Power Assistant's.",
+                    "target": "用于上述端点的密钥。如果服务器在本地机器上，可以留空；留空也会回退到 Power Assistant 的密钥。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Raw inserts exactly what you said. Tidy removes filler and fixes punctuation; Bullets turns it into a list (both use the AI key). Right-click the mic to switch on the fly.",
+                    "target": "Raw 会原样插入你说的内容。Tidy 会去除填充词并修正标点；Bullets 会将其转换为列表（两者都使用 AI 密钥）。右键点击麦克风可即时切换。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "Notifications",
+                    "target": "通知"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "Toolbar",
+                    "target": "工具栏"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "Buttons",
+                    "target": "按钮"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "Editing",
+                    "target": "编辑"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "Numbered list outline",
+                    "target": "编号列表大纲"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "Clipboard",
+                    "target": "剪贴板"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "Files and attachments",
+                    "target": "文件和附件"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "AI edits",
+                    "target": "AI 编辑"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "heading",
+                    "source": "Dictation",
+                    "target": "听写"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "icon",
+                    "source": "info",
+                    "target": "info"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "icon",
+                    "source": "lightbulb",
+                    "target": "lightbulb"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "icon",
+                    "source": "mic",
+                    "target": "mic"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "icon",
+                    "source": "underline",
+                    "target": "underline"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "icon",
+                    "source": "highlighter",
+                    "target": "highlighter"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "icon",
+                    "source": "bold",
+                    "target": "bold"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "icon",
+                    "source": "paintbrush",
+                    "target": "paintbrush"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "icon",
+                    "source": "link",
+                    "target": "link"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "icon",
+                    "source": "camera",
+                    "target": "camera"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "icon",
+                    "source": "paperclip",
+                    "target": "paperclip"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "icon",
+                    "source": "keyboard",
+                    "target": "keyboard"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "icon",
+                    "source": "calendar",
+                    "target": "calendar"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "icon",
+                    "source": "image",
+                    "target": "image"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "icon",
+                    "source": "layout",
+                    "target": "layout"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "icon",
+                    "source": "smile",
+                    "target": "smile"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "icon",
+                    "source": "archive",
+                    "target": "archive"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "id",
+                    "source": "callout",
+                    "target": "callout"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "id",
+                    "source": "dictate",
+                    "target": "dictate"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "id",
+                    "source": "underline",
+                    "target": "underline"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Tip",
+                    "target": "提示"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Note",
+                    "target": "备注"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Info",
+                    "target": "信息"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Success",
+                    "target": "成功"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Question",
+                    "target": "问题"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Warning",
+                    "target": "警告"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Danger",
+                    "target": "危险"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Example",
+                    "target": "示例"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Quote",
+                    "target": "引用"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "General",
+                    "target": "通用"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Toolbar",
+                    "target": "工具栏"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Editing",
+                    "target": "编辑"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Lists",
+                    "target": "列表"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Clipboard",
+                    "target": "剪贴板"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Files",
+                    "target": "文件"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "AI & dictation",
+                    "target": "AI 与听写"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Show running version",
+                    "target": "显示运行版本"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Paste as clean Markdown",
+                    "target": "粘贴为干净的 Markdown"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Insert clipboard formats (paste troubleshooting)",
+                    "target": "插入剪贴板格式（粘贴故障排除）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Toggle the formatting toolbar",
+                    "target": "切换格式工具栏"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Toggle block (collapsible)",
+                    "target": "切换块（可折叠）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Toggle list (Notion-style)",
+                    "target": "折叠列表（Notion 风格）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Callout: pick a flavor",
+                    "target": "标注：选择样式"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Callouts: convert Tip/Note/Warning lead-ins in this note",
+                    "target": "标注：转换此笔记中的 Tip/Note/Warning 引导语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Callouts: convert lead-ins in this note (including labels without bold)",
+                    "target": "标注：转换此笔记中的引导语（包括未加粗的标签）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Callouts: convert lead-ins across the vault…",
+                    "target": "标注：转换整个仓库中的引导语…"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Code block (pick a language)",
+                    "target": "代码块（选择语言）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Code block: set the language",
+                    "target": "代码块：设置语言"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Move block up",
+                    "target": "上移区块"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Move block down",
+                    "target": "下移区块"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Dictate at the cursor (start/stop)",
+                    "target": "在光标处听写（开始/停止）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Underline",
+                    "target": "下划线"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Clear formatting",
+                    "target": "清除格式"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Highlights: clean up in this note",
+                    "target": "高亮：清理此笔记"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Clean this note: escape placeholder tags",
+                    "target": "清理此笔记：转义占位符标签"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Clean the vault: escape placeholder tags…",
+                    "target": "清理仓库：转义占位符标签…"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Highlights: clean up across the vault",
+                    "target": "高亮：清理整个仓库"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Highlights: make bold and italic render (this note)",
+                    "target": "高亮：使粗体和斜体渲染（此笔记）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Format painter (paint once)",
+                    "target": "格式刷（单次应用）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Insert or edit link",
+                    "target": "插入或编辑链接"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Copy as rich text (for email)",
+                    "target": "复制为富文本（用于电子邮件）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Align left",
+                    "target": "左对齐"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Align center",
+                    "target": "居中对齐"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Align right",
+                    "target": "右对齐"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Increase indent",
+                    "target": "增加缩进"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Decrease indent",
+                    "target": "减少缩进"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Insert photo (camera or library)",
+                    "target": "插入照片（相机或图库）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Insert a file (PDF or document) into the note",
+                    "target": "将文件（PDF 或文档）插入笔记"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "PDFs: turn embedded previews into links (this note)",
+                    "target": "PDF：将嵌入的预览转换为链接（仅本笔记）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Dismiss the keyboard",
+                    "target": "收起键盘"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "To-do: set due date",
+                    "target": "待办事项：设置截止日期"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "To-do: make recurring",
+                    "target": "待办：设置重复"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "To-do: quick capture",
+                    "target": "待办：快速收集"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Open the Today pane",
+                    "target": "打开“今天”窗格"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Add comment",
+                    "target": "添加评论"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Add or change cover",
+                    "target": "添加或更改封面"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Insert columns layout",
+                    "target": "插入分栏布局"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Page options (width, font, cover)",
+                    "target": "页面选项（宽度、字体、封面）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Verify this note",
+                    "target": "验证此笔记"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Add or change page icon",
+                    "target": "添加或更改页面图标"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Archive completed to-dos (into a Done section)",
+                    "target": "归档已完成的待办（放入“完成”分区）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Open the Comments pane",
+                    "target": "打开评论窗格"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Show notifications",
+                    "target": "显示通知"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Formatting toolbar",
+                    "target": "格式工具栏"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Show on phones and tablets",
+                    "target": "在手机和平板上显示"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Quick-capture mobile toolbar",
+                    "target": "快速捕捉移动工具栏"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Arrange",
+                    "target": "排列"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Selection bubble",
+                    "target": "选择气泡"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Block drag handles",
+                    "target": "块拖动手柄"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Headings move their section",
+                    "target": "标题移动其所在章节"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Hide formatting characters (WYSIWYG)",
+                    "target": "隐藏格式字符（所见即所得）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Live checkboxes while editing",
+                    "target": "编辑时实时显示复选框"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Rich text on copy",
+                    "target": "复制时保留富文本格式"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Indent guides on lists",
+                    "target": "列表缩进参考线"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Line spacing",
+                    "target": "行距"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Show when the note was last edited",
+                    "target": "显示笔记最后编辑时间"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Where to show it",
+                    "target": "显示位置"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Time format",
+                    "target": "时间格式"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Code block theme",
+                    "target": "代码块主题"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Line numbers in code blocks",
+                    "target": "代码块行号"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Multilevel numbering (outline style)",
+                    "target": "多级编号（大纲样式）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Clean pasted HTML",
+                    "target": "清理粘贴的 HTML"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Clean copied text",
+                    "target": "清理复制的文本"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Inserting a PDF",
+                    "target": "插入 PDF"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Where inserted files are saved",
+                    "target": "插入文件的保存位置"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Subfolder name",
+                    "target": "子文件夹名称"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Catch dropped and pasted files",
+                    "target": "捕获拖放和粘贴的文件"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Completing a to-do stamps the date",
+                    "target": "完成待办事项时标记日期"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Quick capture inbox",
+                    "target": "快速收集收件箱"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "To-do reminders",
+                    "target": "待办提醒"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Anthropic API key",
+                    "target": "Anthropic API 密钥"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Model",
+                    "target": "模型"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Custom AI actions",
+                    "target": "自定义 AI 操作"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Transcription endpoint",
+                    "target": "转录端点"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Transcription API key",
+                    "target": "转录 API 密钥"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Transcription model",
+                    "target": "转录模型"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "After transcribing",
+                    "target": "转录后"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "placeholder",
+                    "source": "Search for a language…",
+                    "target": "搜索语言…"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "placeholder",
+                    "source": "Search emoji…",
+                    "target": "搜索表情符号…"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "placeholder",
+                    "source": "Search notes by name…",
+                    "target": "按名称搜索笔记…"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "placeholder",
+                    "source": "Search settings...",
+                    "target": "搜索设置..."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "(no output)",
+                    "target": "（无输出）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Cancel",
+                    "target": "取消"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Apply",
+                    "target": "应用"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Gradients",
+                    "target": "渐变"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Solid colors",
+                    "target": "纯色"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Your images",
+                    "target": "你的图片"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Height",
+                    "target": "高度"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Title",
+                    "target": "标题"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Float title over cover",
+                    "target": "标题悬浮在封面上"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Randomize",
+                    "target": "随机化"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Remove cover",
+                    "target": "移除封面"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Nothing to do",
+                    "target": "暂无待办事项"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Nothing to show",
+                    "target": "暂无内容可显示"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Nothing due. Enjoy it.",
+                    "target": "没有到期事项，尽情享受吧。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Resolve",
+                    "target": "解决"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "No open comments.",
+                    "target": "暂无未处理的评论。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "No headings yet.",
+                    "target": "暂无标题。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Contents",
+                    "target": "目录"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Undo",
+                    "target": "撤销"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Empty tab (click to add content)",
+                    "target": "空白标签页（点击添加内容）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Empty columns block (separate columns with '---' lines.",
+                    "target": "空列块（用 '---' 行分隔各列）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Edit",
+                    "target": "编辑"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Resolve with AI",
+                    "target": "使用 AI 解决"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Insert table",
+                    "target": "插入表格"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "More…",
+                    "target": "更多…"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Or link to a note in your vault",
+                    "target": "或链接到仓库中的笔记"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Insert",
+                    "target": "插入"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "No notes match.",
+                    "target": "没有匹配的笔记。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Linking to: ",
+                    "target": "链接到： "
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "clear",
+                    "target": "清除"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Convert",
+                    "target": "转换"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Escape",
+                    "target": "转义"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Buy me a coffee",
+                    "target": "请我喝咖啡"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Tab 1",
+                    "target": "标签页 1"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Change emoji",
+                    "target": "更改表情符号"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Callout",
+                    "target": "标注"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Toggle block (collapsible)",
+                    "target": "折叠块（可折叠）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Toggle list (Notion-style)",
+                    "target": "折叠列表（Notion 风格）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Code block",
+                    "target": "代码块"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Code block language",
+                    "target": "代码块语言"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "PDF or file attachment",
+                    "target": "PDF 或文件附件"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Columns (Notion-style)",
+                    "target": "分栏（Notion 风格）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Add cover (Notion-style)",
+                    "target": "添加封面（Notion 风格）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Page options (width, font)",
+                    "target": "页面选项（宽度、字体）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Comment",
+                    "target": "评论"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Dictate (speech to text)",
+                    "target": "听写（语音转文字）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "type",
+                    "source": "file",
+                    "target": "文件"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "type",
+                    "source": "color",
+                    "target": "颜色"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "type",
+                    "source": "text",
+                    "target": "文本"
+                }
+            ],
+            "regex": [
+                {
+                    "source": "error(\"ack failed\", { work_id: work.id, error: String(e) });\n          continue;\n        }\n        try {\n          yield work;\n        } finally {\n          if (__classPrivateFieldGet(this, _WorkPoller_autoStop, \"f\")",
+                    "target": "error(\"ack failed\", { work_id: work.id, error: String(e) });\n          continue;\n        }\n        try {\n          yield work;\n        } finally {\n          if (__classPrivateFieldGet(this, _WorkPoller_autoStop, \"f\")"
+                },
+                {
+                    "source": "error(\"stream loop failed\", { error: String(e) });\n      }\n      __classPrivateFieldGet(this, _SessionToolRunner_controller, \"f\")",
+                    "target": "error(\"stream loop failed\", { error: String(e) });\n      }\n      __classPrivateFieldGet(this, _SessionToolRunner_controller, \"f\")"
+                },
+                {
+                    "source": "error(\"permanent stream failure, shutting down\", { error: String(e) });\n        ctrl.abort();\n        throw e;\n      }\n      __classPrivateFieldGet(this, _SessionToolRunner_logger, \"f\")",
+                    "target": "error(\"permanent stream failure, shutting down\", { error: String(e) });\n        ctrl.abort();\n        throw e;\n      }\n      __classPrivateFieldGet(this, _SessionToolRunner_logger, \"f\")"
+                },
+                {
+                    "source": "log(`${call.name} -> ${call.isError ? 'error' : 'ok'}`)",
+                    "target": "log(`${call.name} -> ${call.isError ? 'error' : 'ok'}`)"
+                },
+                {
+                    "source": "Notice(\"Could not copy to the clipboard.\")",
+                    "target": "Notice(\"Could not copy to the clipboard.\")"
+                },
+                {
+                    "source": "setText(\"Page cover\")",
+                    "target": "setText(\"Page cover\")"
+                },
+                {
+                    "source": "Notice(\"Power Editor: nothing to copy.\")",
+                    "target": "Notice(\"Power Editor: nothing to copy.\")"
+                },
+                {
+                    "source": "Notice(\"Power Editor: copied as plain Markdown (this platform has no rich clipboard).\")",
+                    "target": "Notice(\"Power Editor: copied as plain Markdown (this platform has no rich clipboard).\")"
+                },
+                {
+                    "source": "Notice(\"Copied as rich text. Paste into your email.\")",
+                    "target": "Notice(\"Copied as rich text. Paste into your email.\")"
+                },
+                {
+                    "source": "Notice(`Power Editor: could not copy (${e instanceof Error ? e.message : String(e)}).`)",
+                    "target": "Notice(`Power Editor: could not copy (${e instanceof Error ? e.message : String(e)}).`)"
+                },
+                {
+                    "source": "Notice(\"No Markdown bold or italic inside highlights here.\")",
+                    "target": "Notice(\"No Markdown bold or italic inside highlights here.\")"
+                },
+                {
+                    "source": "Notice(`Fixed emphasis in ${res.count} highlight${res.count === 1 ? \"\" : \"s\"}.`)",
+                    "target": "Notice(`Fixed emphasis in ${res.count} highlight${res.count === 1 ? \"\" : \"s\"}.`)"
+                },
+                {
+                    "source": "setTitle(\"Edit link (Power Editor)\")",
+                    "target": "setTitle(\"Edit link (Power Editor)\")"
+                },
+                {
+                    "source": "setTitle(\"Copy as rich text\")",
+                    "target": "setTitle(\"Copy as rich text\")"
+                },
+                {
+                    "source": "Notice(\"No embedded PDFs in this note.\")",
+                    "target": "Notice(\"No embedded PDFs in this note.\")"
+                },
+                {
+                    "source": "setTitle(\"File (PDF, document)\")",
+                    "target": "setTitle(\"File (PDF, document)\")"
+                },
+                {
+                    "source": "Notice(\"Nothing completed to archive.\")",
+                    "target": "Notice(\"Nothing completed to archive.\")"
+                },
+                {
+                    "source": "Notice(`Archived ${res.moved} completed to-do${res.moved === 1 ? \"\" : \"s\"}.`)",
+                    "target": "Notice(`Archived ${res.moved} completed to-do${res.moved === 1 ? \"\" : \"s\"}.`)"
+                },
+                {
+                    "source": "appendText(\"Updated. \")",
+                    "target": "appendText(\"Updated. \")"
+                },
+                {
+                    "source": "setTitle(\"Next week\")",
+                    "target": "setTitle(\"Next week\")"
+                },
+                {
+                    "source": "Notice(\"Power Editor: couldn't read that as a date.\")",
+                    "target": "Notice(\"Power Editor: couldn't read that as a date.\")"
+                },
+                {
+                    "source": "setTitle(\"Remove due date\")",
+                    "target": "setTitle(\"Remove due date\")"
+                },
+                {
+                    "source": "setTitle(\"Rename tab\")",
+                    "target": "setTitle(\"Rename tab\")"
+                },
+                {
+                    "source": "setTitle(\"Delete tab\")",
+                    "target": "setTitle(\"Delete tab\")"
+                },
+                {
+                    "source": "setTitle(\"Full width\")",
+                    "target": "setTitle(\"Full width\")"
+                },
+                {
+                    "source": "setTitle(\"Title over cover\")",
+                    "target": "setTitle(\"Title over cover\")"
+                },
+                {
+                    "source": "setTitle(\"Remove icon\")",
+                    "target": "setTitle(\"Remove icon\")"
+                },
+                {
+                    "source": "Notice(\"Drag the cover up or down; release to save.\")",
+                    "target": "Notice(\"Drag the cover up or down; release to save.\")"
+                },
+                {
+                    "source": "Notice(\"Power Editor AI failed: \" + (e instanceof Error ? e.message : String(e)), 6e3);\n    }\n  }\n  applyVerifyBadge(view) {\n    const header = view.containerEl.querySelector(\".view-header-title-container\")",
+                    "target": "Notice(\"Power Editor AI failed: \" + (e instanceof Error ? e.message : String(e)), 6e3);\n    }\n  }\n  applyVerifyBadge(view) {\n    const header = view.containerEl.querySelector(\".view-header-title-container\")"
+                },
+                {
+                    "source": "setTitle(\"Verify (no expiry)\")",
+                    "target": "setTitle(\"Verify (no expiry)\")"
+                },
+                {
+                    "source": "setTitle(\"Remove verification\")",
+                    "target": "setTitle(\"Remove verification\")"
+                },
+                {
+                    "source": "Notice(\"Power Editor: a table cell cannot be a heading.\", 4e3);\n      return;\n    }\n    const from = ed.getCursor(\"from\")",
+                    "target": "Notice(\"Power Editor: a table cell cannot be a heading.\", 4e3);\n      return;\n    }\n    const from = ed.getCursor(\"from\")"
+                },
+                {
+                    "source": "Notice(\"Put the cursor inside a code block first.\")",
+                    "target": "Notice(\"Put the cursor inside a code block first.\")"
+                },
+                {
+                    "source": "Notice(\"Power Editor: that acts on a whole line, so it cannot work inside a table cell. Use the Power Tables panel.\", 4e3);\n    return true;\n  }\n  cursorDoc(ed) {\n    const main = ed.cm ?? null;\n    const cm = this.focusedCm(main);\n    if (!cm) {\n      return {\n        from: ed.getCursor(\"from\")",
+                    "target": "Notice(\"Power Editor: that acts on a whole line, so it cannot work inside a table cell. Use the Power Tables panel.\", 4e3);\n    return true;\n  }\n  cursorDoc(ed) {\n    const main = ed.cm ?? null;\n    const cm = this.focusedCm(main);\n    if (!cm) {\n      return {\n        from: ed.getCursor(\"from\")"
+                },
+                {
+                    "source": "Notice(\"Use Power Tables to align a table cell.\", 4e3);\n      return;\n    }\n    const from = ed.getCursor(\"from\")",
+                    "target": "Notice(\"Use Power Tables to align a table cell.\", 4e3);\n      return;\n    }\n    const from = ed.getCursor(\"from\")"
+                },
+                {
+                    "source": "Notice(\"Format painter locked on. Every selection you make takes the look; Esc or the brush stops it.\")",
+                    "target": "Notice(\"Format painter locked on. Every selection you make takes the look; Esc or the brush stops it.\")"
+                },
+                {
+                    "source": "Notice(\"Format painter off.\")",
+                    "target": "Notice(\"Format painter off.\")"
+                },
+                {
+                    "source": "Notice(\"Select formatted text first, then click the painter.\")",
+                    "target": "Notice(\"Select formatted text first, then click the painter.\")"
+                },
+                {
+                    "source": "Notice(\"Nothing recorded.\")",
+                    "target": "Notice(\"Nothing recorded.\")"
+                },
+                {
+                    "source": "Notice(\"The transcription came back empty.\")",
+                    "target": "Notice(\"The transcription came back empty.\")"
+                },
+                {
+                    "source": "Notice(\"Transcription failed: \" + (e instanceof Error ? e.message : String(e)));\n      }\n    };\n    rec.start();\n    this.setRecording(true);\n    new Notice(\"Power Editor: recording (click the mic again to stop).\")",
+                    "target": "Notice(\"Transcription failed: \" + (e instanceof Error ? e.message : String(e)));\n      }\n    };\n    rec.start();\n    this.setRecording(true);\n    new Notice(\"Power Editor: recording (click the mic again to stop).\")"
+                },
+                {
+                    "source": "Notice(\"Power Editor: add an Anthropic API key in settings (or enable Power Assistant with one).\")",
+                    "target": "Notice(\"Power Editor: add an Anthropic API key in settings (or enable Power Assistant with one).\")"
+                },
+                {
+                    "source": "Notice(\"Select the text to work on first.\")",
+                    "target": "Notice(\"Select the text to work on first.\")"
+                },
+                {
+                    "source": "Notice(\"Select some text first.\")",
+                    "target": "Notice(\"Select some text first.\")"
+                },
+                {
+                    "source": "setTitle(`Remove ${label}`)",
+                    "target": "setTitle(`Remove ${label}`)"
+                },
+                {
+                    "source": "setTitle(`Convert to ${name.toLowerCase()} background`)",
+                    "target": "setTitle(`Convert to ${name.toLowerCase()} background`)"
+                },
+                {
+                    "source": "Notice(\"Power Editor: no ==highlights== in this note.\")",
+                    "target": "Notice(\"Power Editor: no ==highlights== in this note.\")"
+                },
+                {
+                    "source": "Notice(`${hex ? \"Recolored\" : \"Removed\"} ${res.count} highlight${res.count === 1 ? \"\" : \"s\"}.`)",
+                    "target": "Notice(`${hex ? \"Recolored\" : \"Removed\"} ${res.count} highlight${res.count === 1 ? \"\" : \"s\"}.`)"
+                },
+                {
+                    "source": "Notice(\"Power Editor: no ==highlights== found in the vault.\")",
+                    "target": "Notice(\"Power Editor: no ==highlights== found in the vault.\")"
+                },
+                {
+                    "source": "setTitle(\"Continue writing\")",
+                    "target": "setTitle(\"Continue writing\")"
+                },
+                {
+                    "source": "setTitle(\"Summarize page into bullets\")",
+                    "target": "setTitle(\"Summarize page into bullets\")"
+                },
+                {
+                    "source": "Notice(\"Power Editor: couldn't find that callout's header line.\")",
+                    "target": "Notice(\"Power Editor: couldn't find that callout's header line.\")"
+                },
+                {
+                    "source": "setTitle(`${f.emoji}  ${f.label}`)",
+                    "target": "setTitle(`${f.emoji}  ${f.label}`)"
+                },
+                {
+                    "source": "setTitle(\"Toggle block (collapsible)\")",
+                    "target": "setTitle(\"Toggle block (collapsible)\")"
+                },
+                {
+                    "source": "Notice(\"No placeholder tags to escape in this note.\")",
+                    "target": "Notice(\"No placeholder tags to escape in this note.\")"
+                },
+                {
+                    "source": "Notice(`Escaped placeholder tags on ${changed} line${changed === 1 ? \"\" : \"s\"}.`)",
+                    "target": "Notice(`Escaped placeholder tags on ${changed} line${changed === 1 ? \"\" : \"s\"}.`)"
+                },
+                {
+                    "source": "Notice(\"No Tip/Note/Warning lead-ins found in this note.\")",
+                    "target": "Notice(\"No Tip/Note/Warning lead-ins found in this note.\")"
+                },
+                {
+                    "source": "Notice(`Converted ${leads.length} lead-in${leads.length === 1 ? \"\" : \"s\"} into callouts.`)",
+                    "target": "Notice(`Converted ${leads.length} lead-in${leads.length === 1 ? \"\" : \"s\"} into callouts.`)"
+                },
+                {
+                    "source": "setTitle(\"Turn into\")",
+                    "target": "setTitle(\"Turn into\")"
+                },
+                {
+                    "source": "Notice(\"Turn into needs Obsidian 1.5+ submenus.\")",
+                    "target": "Notice(\"Turn into needs Obsidian 1.5+ submenus.\")"
+                },
+                {
+                    "source": "setTitle(`${name} background`)",
+                    "target": "setTitle(`${name} background`)"
+                },
+                {
+                    "source": "Notice(\"Color needs Obsidian 1.5+ submenus.\")",
+                    "target": "Notice(\"Color needs Obsidian 1.5+ submenus.\")"
+                },
+                {
+                    "source": "setTitle(\"Copy link to block\")",
+                    "target": "setTitle(\"Copy link to block\")"
+                },
+                {
+                    "source": "Notice(\"Block link copied.\")",
+                    "target": "Notice(\"Block link copied.\")"
+                },
+                {
+                    "source": "setTitle(\"Move to top\")",
+                    "target": "setTitle(\"Move to top\")"
+                },
+                {
+                    "source": "setTitle(\"Move to bottom\")",
+                    "target": "setTitle(\"Move to bottom\")"
+                },
+                {
+                    "source": "setTitle(\"Delete block\")",
+                    "target": "setTitle(\"Delete block\")"
+                },
+                {
+                    "source": "Notice(\"Power Editor: couldn't find that image's embed.\")",
+                    "target": "Notice(\"Power Editor: couldn't find that image's embed.\")"
+                },
+                {
+                    "source": "setTitle(\"Original size\")",
+                    "target": "setTitle(\"Original size\")"
+                },
+                {
+                    "source": "setTitle(`${pct}% (${Math.round(natural * pct / 100)}px)`)",
+                    "target": "setTitle(`${pct}% (${Math.round(natural * pct / 100)}px)`)"
+                },
+                {
+                    "source": "setName(\"Text to display\")",
+                    "target": "setName(\"Text to display\")"
+                },
+                {
+                    "source": "setDesc(\"A web URL, or pick a note below instead.\")",
+                    "target": "setDesc(\"A web URL, or pick a note below instead.\")"
+                },
+                {
+                    "source": "Notice(\"Enter an address or pick a note.\")",
+                    "target": "Notice(\"Enter an address or pick a note.\")"
+                },
+                {
+                    "source": "setText(\"Convert lead-ins into callouts\")",
+                    "target": "setText(\"Convert lead-ins into callouts\")"
+                },
+                {
+                    "source": "setName(\"Include labels without bold\")",
+                    "target": "setName(\"Include labels without bold\")"
+                },
+                {
+                    "source": "Notice(`Converted ${lines} lead-in${lines === 1 ? \"\" : \"s\"} into callouts across ${files} note${files === 1 ? \"\" : \"s\"}.`)",
+                    "target": "Notice(`Converted ${lines} lead-in${lines === 1 ? \"\" : \"s\"} into callouts across ${files} note${files === 1 ? \"\" : \"s\"}.`)"
+                },
+                {
+                    "source": "setText(\"Escape placeholder tags\")",
+                    "target": "setText(\"Escape placeholder tags\")"
+                },
+                {
+                    "source": "Notice(`Escaped ${tags} placeholder${tags === 1 ? \"\" : \"s\"} across ${files} note${files === 1 ? \"\" : \"s\"}.`)",
+                    "target": "Notice(`Escaped ${tags} placeholder${tags === 1 ? \"\" : \"s\"} across ${files} note${files === 1 ? \"\" : \"s\"}.`)"
+                },
+                {
+                    "source": "setButtonText(\"Add divider\")",
+                    "target": "setButtonText(\"Add divider\")"
+                },
+                {
+                    "source": "setTooltip(\"Adds a divider at the end; move it where you want it\")",
+                    "target": "setTooltip(\"Adds a divider at the end; move it where you want it\")"
+                },
+                {
+                    "source": "setButtonText(\"Reset order\")",
+                    "target": "setButtonText(\"Reset order\")"
+                },
+                {
+                    "source": "setButtonText(\"Add action\")",
+                    "target": "setButtonText(\"Add action\")"
+                },
+                {
+                    "source": "setPlaceholder(\"Menu label\")",
+                    "target": "setPlaceholder(\"Menu label\")"
+                },
+                {
+                    "source": "setPlaceholder(\"Instruction, e.g. Rewrite this as a friendly status update.\")",
+                    "target": "setPlaceholder(\"Instruction, e.g. Rewrite this as a friendly status update.\")"
+                },
+                {
+                    "source": "setPlaceholder(\"Leave empty to use Power Assistant's\")",
+                    "target": "setPlaceholder(\"Leave empty to use Power Assistant's\")"
+                },
+                {
+                    "source": "setDesc(\"A vertical rule between groups.\")",
+                    "target": "setDesc(\"A vertical rule between groups.\")"
+                },
+                {
+                    "source": "setTooltip(\"Remove this divider\")",
+                    "target": "setTooltip(\"Remove this divider\")"
+                },
+                {
+                    "source": "name = \"ExtendableError\"",
+                    "target": "name = \"ExtendableError\""
+                },
+                {
+                    "source": "name = \"WebhookVerificationError\"",
+                    "target": "name = \"WebhookVerificationError\""
+                },
+                {
+                    "source": "name: 'x'",
+                    "target": "name: 'x'"
+                },
+                {
+                    "source": "name: 'My First Agent'",
+                    "target": "name: 'My First Agent'"
+                },
+                {
+                    "source": "name = \"ToolError\"",
+                    "target": "name = \"ToolError\""
+                },
+                {
+                    "source": "text: \"(no output)\"",
+                    "target": "text: \"(no output)\""
+                },
+                {
+                    "source": "name: 'python-data-analysis'",
+                    "target": "name: 'python-data-analysis'"
+                },
+                {
+                    "source": "name: 'Example vault'",
+                    "target": "name: 'Example vault'"
+                },
+                {
+                    "source": "text : \"\"",
+                    "target": "text : \"\""
+                },
+                {
+                    "source": "link : \"!\"",
+                    "target": "link : \"!\""
+                },
+                {
+                    "source": "text: \"\"",
+                    "target": "text: \"\""
+                },
+                {
+                    "source": "textContent = \"Copy\"",
+                    "target": "textContent = \"Copy\""
+                },
+                {
+                    "source": "textContent = \"Copied\"",
+                    "target": "textContent = \"Copied\""
+                },
+                {
+                    "source": "text: \"Cancel\"",
+                    "target": "text: \"Cancel\""
+                },
+                {
+                    "source": "text: \"Apply\"",
+                    "target": "text: \"Apply\""
+                },
+                {
+                    "source": "text: \"Gradients\"",
+                    "target": "text: \"Gradients\""
+                },
+                {
+                    "source": "text: \"Solid colors\"",
+                    "target": "text: \"Solid colors\""
+                },
+                {
+                    "source": "text: \"Your images\"",
+                    "target": "text: \"Your images\""
+                },
+                {
+                    "source": "text: \"Height\"",
+                    "target": "text: \"Height\""
+                },
+                {
+                    "source": "text: \"Title\"",
+                    "target": "text: \"Title\""
+                },
+                {
+                    "source": "text: \"Float title over cover\"",
+                    "target": "text: \"Float title over cover\""
+                },
+                {
+                    "source": "text: \"Randomize\"",
+                    "target": "text: \"Randomize\""
+                },
+                {
+                    "source": "text: \"Remove cover\"",
+                    "target": "text: \"Remove cover\""
+                },
+                {
+                    "source": "text: \"Nothing to do\"",
+                    "target": "text: \"Nothing to do\""
+                },
+                {
+                    "source": "text: `${names[i]} ${Number(date.slice(8))}`",
+                    "target": "text: `${names[i]} ${Number(date.slice(8))}`"
+                },
+                {
+                    "source": "text: \"Nothing to show\"",
+                    "target": "text: \"Nothing to show\""
+                },
+                {
+                    "source": "text: \"Nothing due. Enjoy it.\"",
+                    "target": "text: \"Nothing due. Enjoy it.\""
+                },
+                {
+                    "source": "text: \"Resolve\"",
+                    "target": "text: \"Resolve\""
+                },
+                {
+                    "source": "text: \"No open comments.\"",
+                    "target": "text: \"No open comments.\""
+                },
+                {
+                    "source": "text: \"No headings yet.\"",
+                    "target": "text: \"No headings yet.\""
+                },
+                {
+                    "source": "text: \"Contents\"",
+                    "target": "text: \"Contents\""
+                },
+                {
+                    "source": "name: \"Show running version\"",
+                    "target": "name: \"Show running version\""
+                },
+                {
+                    "source": "name: \"Paste as clean Markdown\"",
+                    "target": "name: \"Paste as clean Markdown\""
+                },
+                {
+                    "source": "name: \"Insert clipboard formats (paste troubleshooting)\"",
+                    "target": "name: \"Insert clipboard formats (paste troubleshooting)\""
+                },
+                {
+                    "source": "name: \"Toggle the formatting toolbar\"",
+                    "target": "name: \"Toggle the formatting toolbar\""
+                },
+                {
+                    "source": "name: \"Toggle block (collapsible)\"",
+                    "target": "name: \"Toggle block (collapsible)\""
+                },
+                {
+                    "source": "name: \"Toggle list (Notion-style)\"",
+                    "target": "name: \"Toggle list (Notion-style)\""
+                },
+                {
+                    "source": "name: \"Callout: pick a flavor\"",
+                    "target": "name: \"Callout: pick a flavor\""
+                },
+                {
+                    "source": "name: `Callout: ${f.label}`",
+                    "target": "name: `Callout: ${f.label}`"
+                },
+                {
+                    "source": "name: \"Callouts: convert Tip/Note/Warning lead-ins in this note\"",
+                    "target": "name: \"Callouts: convert Tip/Note/Warning lead-ins in this note\""
+                },
+                {
+                    "source": "name: \"Callouts: convert lead-ins in this note (including labels without bold)\"",
+                    "target": "name: \"Callouts: convert lead-ins in this note (including labels without bold)\""
+                },
+                {
+                    "source": "name: \"Code block (pick a language)\"",
+                    "target": "name: \"Code block (pick a language)\""
+                },
+                {
+                    "source": "name: \"Code block: set the language\"",
+                    "target": "name: \"Code block: set the language\""
+                },
+                {
+                    "source": "name: \"Move block up\"",
+                    "target": "name: \"Move block up\""
+                },
+                {
+                    "source": "name: \"Move block down\"",
+                    "target": "name: \"Move block down\""
+                },
+                {
+                    "source": "name: \"Dictate at the cursor (start/stop)\"",
+                    "target": "name: \"Dictate at the cursor (start/stop)\""
+                },
+                {
+                    "source": "name: \"Underline\"",
+                    "target": "name: \"Underline\""
+                },
+                {
+                    "source": "name: \"Clear formatting\"",
+                    "target": "name: \"Clear formatting\""
+                },
+                {
+                    "source": "name: \"Highlights: clean up in this note\"",
+                    "target": "name: \"Highlights: clean up in this note\""
+                },
+                {
+                    "source": "name: \"Clean this note: escape placeholder tags\"",
+                    "target": "name: \"Clean this note: escape placeholder tags\""
+                },
+                {
+                    "source": "name: \"Highlights: clean up across the vault\"",
+                    "target": "name: \"Highlights: clean up across the vault\""
+                },
+                {
+                    "source": "name: \"Highlights: make bold and italic render (this note)\"",
+                    "target": "name: \"Highlights: make bold and italic render (this note)\""
+                },
+                {
+                    "source": "name: \"Format painter (paint once)\"",
+                    "target": "name: \"Format painter (paint once)\""
+                },
+                {
+                    "source": "name: \"Insert or edit link\"",
+                    "target": "name: \"Insert or edit link\""
+                },
+                {
+                    "source": "name: \"Copy as rich text (for email)\"",
+                    "target": "name: \"Copy as rich text (for email)\""
+                },
+                {
+                    "source": "name: \"Align left\"",
+                    "target": "name: \"Align left\""
+                },
+                {
+                    "source": "name: \"Align center\"",
+                    "target": "name: \"Align center\""
+                },
+                {
+                    "source": "name: \"Align right\"",
+                    "target": "name: \"Align right\""
+                },
+                {
+                    "source": "name: \"Increase indent\"",
+                    "target": "name: \"Increase indent\""
+                },
+                {
+                    "source": "name: \"Decrease indent\"",
+                    "target": "name: \"Decrease indent\""
+                },
+                {
+                    "source": "name: \"Insert photo (camera or library)\"",
+                    "target": "name: \"Insert photo (camera or library)\""
+                },
+                {
+                    "source": "name: \"Insert a file (PDF or document) into the note\"",
+                    "target": "name: \"Insert a file (PDF or document) into the note\""
+                },
+                {
+                    "source": "name: \"PDFs: turn embedded previews into links (this note)\"",
+                    "target": "name: \"PDFs: turn embedded previews into links (this note)\""
+                },
+                {
+                    "source": "name: \"Dismiss the keyboard\"",
+                    "target": "name: \"Dismiss the keyboard\""
+                },
+                {
+                    "source": "name: \"To-do: set due date\"",
+                    "target": "name: \"To-do: set due date\""
+                },
+                {
+                    "source": "name: \"To-do: make recurring\"",
+                    "target": "name: \"To-do: make recurring\""
+                },
+                {
+                    "source": "name: \"To-do: quick capture\"",
+                    "target": "name: \"To-do: quick capture\""
+                },
+                {
+                    "source": "name: \"Open the Today pane\"",
+                    "target": "name: \"Open the Today pane\""
+                },
+                {
+                    "source": "name: \"Add comment\"",
+                    "target": "name: \"Add comment\""
+                },
+                {
+                    "source": "name: \"Add or change cover\"",
+                    "target": "name: \"Add or change cover\""
+                },
+                {
+                    "source": "name: \"Insert columns layout\"",
+                    "target": "name: \"Insert columns layout\""
+                },
+                {
+                    "source": "name: \"Page options (width, font, cover)\"",
+                    "target": "name: \"Page options (width, font, cover)\""
+                },
+                {
+                    "source": "name: \"Verify this note\"",
+                    "target": "name: \"Verify this note\""
+                },
+                {
+                    "source": "name: \"Add or change page icon\"",
+                    "target": "name: \"Add or change page icon\""
+                },
+                {
+                    "source": "name: \"Archive completed to-dos (into a Done section)\"",
+                    "target": "name: \"Archive completed to-dos (into a Done section)\""
+                },
+                {
+                    "source": "name: \"Open the Comments pane\"",
+                    "target": "name: \"Open the Comments pane\""
+                },
+                {
+                    "source": "link = \"!\"",
+                    "target": "link = \"!\""
+                },
+                {
+                    "source": "text: \"Undo\"",
+                    "target": "text: \"Undo\""
+                },
+                {
+                    "source": "text: \"+\"",
+                    "target": "text: \"+\""
+                },
+                {
+                    "source": "text: \"Empty tab (click to add content)\"",
+                    "target": "text: \"Empty tab (click to add content)\""
+                },
+                {
+                    "source": "text: \"Empty columns block (separate columns with '---' lines.\"",
+                    "target": "text: \"Empty columns block (separate columns with '---' lines.\""
+                },
+                {
+                    "source": "text: \"Edit\"",
+                    "target": "text: \"Edit\""
+                },
+                {
+                    "source": "text: \"Resolve with AI\"",
+                    "target": "text: \"Resolve with AI\""
+                },
+                {
+                    "source": "text: \"Insert table\"",
+                    "target": "text: \"Insert table\""
+                },
+                {
+                    "source": "text = \"\"",
+                    "target": "text = \"\""
+                },
+                {
+                    "source": "text: \"\t\"",
+                    "target": "text: \"\t\""
+                },
+                {
+                    "source": "name : \"\"",
+                    "target": "name : \"\""
+                },
+                {
+                    "source": "text: \"Or link to a note in your vault\"",
+                    "target": "text: \"Or link to a note in your vault\""
+                },
+                {
+                    "source": "text: \"Insert\"",
+                    "target": "text: \"Insert\""
+                },
+                {
+                    "source": "text: \"No notes match.\"",
+                    "target": "text: \"No notes match.\""
+                },
+                {
+                    "source": "text: \"Linking to: \"",
+                    "target": "text: \"Linking to: \""
+                },
+                {
+                    "source": "text: \"clear\"",
+                    "target": "text: \"clear\""
+                },
+                {
+                    "source": "text: \"Convert\"",
+                    "target": "text: \"Convert\""
+                },
+                {
+                    "source": "text: `line ${l.line + 1}: ${l.label}`",
+                    "target": "text: `line ${l.line + 1}: ${l.label}`"
+                },
+                {
+                    "source": "text: \"Escape\"",
+                    "target": "text: \"Escape\""
+                },
+                {
+                    "source": "text: `line ${t.line + 1}: ${t.tag}`",
+                    "target": "text: `line ${t.line + 1}: ${t.tag}`"
+                },
+                {
+                    "source": "name: \"\"",
+                    "target": "name: \"\""
+                },
+                {
+                    "source": "text: \"v\"",
+                    "target": "text: \"v\""
+                },
+                {
+                    "source": "text: \"Buy me a coffee\"",
+                    "target": "text: \"Buy me a coffee\""
+                },
+                {
+                    "source": "text: `. One page covers every Power Plugin, so mention ${this.plugin.manifest.name} in the note, and say what would make it better while you are there. A good deal of what is in these plugins started as someone's note.`",
+                    "target": "text: `. One page covers every Power Plugin, so mention ${this.plugin.manifest.name} in the note, and say what would make it better while you are there. A good deal of what is in these plugins started as someone's note.`"
+                },
+                {
+                    "source": "name: \"Show notifications\"",
+                    "target": "name: \"Show notifications\""
+                },
+                {
+                    "source": "name: \"Formatting toolbar\"",
+                    "target": "name: \"Formatting toolbar\""
+                },
+                {
+                    "source": "name: \"Show on phones and tablets\"",
+                    "target": "name: \"Show on phones and tablets\""
+                },
+                {
+                    "source": "name: \"Quick-capture mobile toolbar\"",
+                    "target": "name: \"Quick-capture mobile toolbar\""
+                },
+                {
+                    "source": "name: \"Arrange\"",
+                    "target": "name: \"Arrange\""
+                },
+                {
+                    "source": "name: \"Selection bubble\"",
+                    "target": "name: \"Selection bubble\""
+                },
+                {
+                    "source": "name: \"Block drag handles\"",
+                    "target": "name: \"Block drag handles\""
+                },
+                {
+                    "source": "name: \"Headings move their section\"",
+                    "target": "name: \"Headings move their section\""
+                },
+                {
+                    "source": "name: \"Hide formatting characters (WYSIWYG)\"",
+                    "target": "name: \"Hide formatting characters (WYSIWYG)\""
+                },
+                {
+                    "source": "name: \"Live checkboxes while editing\"",
+                    "target": "name: \"Live checkboxes while editing\""
+                },
+                {
+                    "source": "name: \"Rich text on copy\"",
+                    "target": "name: \"Rich text on copy\""
+                },
+                {
+                    "source": "name: \"Indent guides on lists\"",
+                    "target": "name: \"Indent guides on lists\""
+                },
+                {
+                    "source": "name: \"Line spacing\"",
+                    "target": "name: \"Line spacing\""
+                },
+                {
+                    "source": "name: \"Show when the note was last edited\"",
+                    "target": "name: \"Show when the note was last edited\""
+                },
+                {
+                    "source": "name: \"Where to show it\"",
+                    "target": "name: \"Where to show it\""
+                },
+                {
+                    "source": "name: \"Time format\"",
+                    "target": "name: \"Time format\""
+                },
+                {
+                    "source": "name: \"Code block theme\"",
+                    "target": "name: \"Code block theme\""
+                },
+                {
+                    "source": "name: \"Line numbers in code blocks\"",
+                    "target": "name: \"Line numbers in code blocks\""
+                },
+                {
+                    "source": "name: \"Multilevel numbering (outline style)\"",
+                    "target": "name: \"Multilevel numbering (outline style)\""
+                },
+                {
+                    "source": "name: `${ordinal(at)} level`",
+                    "target": "name: `${ordinal(at)} level`"
+                },
+                {
+                    "source": "name: \"Clean pasted HTML\"",
+                    "target": "name: \"Clean pasted HTML\""
+                },
+                {
+                    "source": "name: \"Clean copied text\"",
+                    "target": "name: \"Clean copied text\""
+                },
+                {
+                    "source": "name: \"Inserting a PDF\"",
+                    "target": "name: \"Inserting a PDF\""
+                },
+                {
+                    "source": "name: \"Where inserted files are saved\"",
+                    "target": "name: \"Where inserted files are saved\""
+                },
+                {
+                    "source": "name: \"Subfolder name\"",
+                    "target": "name: \"Subfolder name\""
+                },
+                {
+                    "source": "name: \"Catch dropped and pasted files\"",
+                    "target": "name: \"Catch dropped and pasted files\""
+                },
+                {
+                    "source": "name: \"Completing a to-do stamps the date\"",
+                    "target": "name: \"Completing a to-do stamps the date\""
+                },
+                {
+                    "source": "name: \"Quick capture inbox\"",
+                    "target": "name: \"Quick capture inbox\""
+                },
+                {
+                    "source": "name: \"To-do reminders\"",
+                    "target": "name: \"To-do reminders\""
+                },
+                {
+                    "source": "name: \"Anthropic API key\"",
+                    "target": "name: \"Anthropic API key\""
+                },
+                {
+                    "source": "name: \"Model\"",
+                    "target": "name: \"Model\""
+                },
+                {
+                    "source": "name: \"Custom AI actions\"",
+                    "target": "name: \"Custom AI actions\""
+                },
+                {
+                    "source": "name: \"Transcription endpoint\"",
+                    "target": "name: \"Transcription endpoint\""
+                },
+                {
+                    "source": "name: \"Transcription API key\"",
+                    "target": "name: \"Transcription API key\""
+                },
+                {
+                    "source": "name: \"Transcription model\"",
+                    "target": "name: \"Transcription model\""
+                },
+                {
+                    "source": "name: \"After transcribing\"",
+                    "target": "name: \"After transcribing\""
+                }
+            ]
+        }
+    }
+}
